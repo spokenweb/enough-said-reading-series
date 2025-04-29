@@ -534,14 +534,6 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
                   "text": "Open mic performance by Steve \"Liquid\" Hawley."
                 }
               ]
@@ -662,7 +654,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-04-29T21:03:57.512Z",
+  "updated_at": "2025-04-29T21:06:21.514Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
