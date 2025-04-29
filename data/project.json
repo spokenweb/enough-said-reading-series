@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "spokenweb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43453642?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "spokenweb",
     "is_private": false,
@@ -508,6 +514,26 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-04-29T18:15:36.570Z"
-  }
+    "updated_at": "2025-04-29T18:15:36.570Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "70192c75-5e32-48ac-a6a1-a34b64432952": {
+      "content": [],
+      "created_at": "2025-04-29T18:15:36.625Z",
+      "created_by": "spokenweb",
+      "title": "Enough Said Reading Series",
+      "updated_at": "2025-04-29T18:15:36.625Z",
+      "updated_by": "spokenweb",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "70192c75-5e32-48ac-a6a1-a34b64432952"
+  ]
 }
