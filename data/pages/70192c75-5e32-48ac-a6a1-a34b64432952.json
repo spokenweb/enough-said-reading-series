@@ -467,7 +467,7 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -479,11 +479,70 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/karasick.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "1995-03-13 Adeena Karasick"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting/open mic performances by Vincent Tinguely, Mitsiko Miller, David Jager, D. Holmes, Justin McGrail, and more."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
                 }
               ]
             },
             {
               "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -896,7 +955,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n\n"
+                  "text": "\n"
                 }
               ]
             },
@@ -905,6 +964,65 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/fluffy%20pagan%20echoes.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "1995-03-20, Fluffy Pagan Echoes"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting/open mic performances by Edith's Mission (Ibolya \"Ibi\" Kaslik and Amy Millan), Kate Alsterlund, Tom Chamberlain, and more."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
                 }
               ]
             },
@@ -948,7 +1066,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-04-29T21:18:16.955Z",
+  "updated_at": "2025-04-29T21:24:50.296Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
