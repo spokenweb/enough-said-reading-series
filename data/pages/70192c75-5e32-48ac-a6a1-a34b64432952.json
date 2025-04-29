@@ -12,9 +12,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-three"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "grid",
@@ -27,6 +29,16 @@
           "type": "column",
           "children": [
             {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/gotham%20diamond.png",
+              "caption": "",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -38,30 +50,9 @@
             },
             {
               "type": "paragraph",
-              "align": "center",
               "children": [
                 {
-                  "textSize": "heading-two",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/gotham%20diamond.png",
-              "caption": "Supporting/open mic performances by Beau Williamson, Jen Frankel, Vincent Tinguely, Graham Olds, Ran Elfassy, Thoth Harris, Halina Berger, R. M. Vaughan, Scott Duncan, Justin McGrail, and more.",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "bold": true
+                  "text": "Supporting/open mic performances by Beau Williamson, Jen Frankel, Vincent Tinguely, Graham Olds, Ran Elfassy, Thoth Harris, Halina Berger, R. M. Vaughan, Scott Duncan, Justin McGrail, and more."
                 }
               ]
             },
@@ -77,18 +68,6 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1995-01-16 bill bissett and Sharon H. Nelson",
-                  "textSize": "heading-three"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "align": "center",
-              "children": [
-                {
-                  "textSize": "heading-two",
                   "text": ""
                 }
               ]
@@ -96,7 +75,7 @@
             {
               "type": "image",
               "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/bissett%20nelson.png",
-              "caption": "Supporting/open mic performances by Scott Duncan, Halina Berger, Justin McGrail, and more.",
+              "caption": "",
               "children": [
                 {
                   "text": ""
@@ -113,11 +92,14 @@
             },
             {
               "type": "paragraph",
-              "align": "center",
+              "align": "left",
               "children": [
                 {
-                  "text": "\n\n",
-                  "textSize": "heading-two"
+                  "text": "1995-01-16 bill bissett and Sharon H. Nelson",
+                  "textSize": "heading-three"
+                },
+                {
+                  "text": "Supporting/open mic performances by Scott Duncan, Halina Berger, Justin McGrail, and more.\n\n\n"
                 }
               ]
             }
@@ -126,6 +108,15 @@
         {
           "type": "column",
           "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/swifty%20lazar.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "paragraph",
               "children": [
@@ -138,21 +129,9 @@
             },
             {
               "type": "paragraph",
-              "align": "center",
               "children": [
                 {
-                  "textSize": "heading-two",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/swifty%20lazar.png",
-              "caption": "Supporting/open mic performances by Halina Berger and Susan Flemming.",
-              "children": [
-                {
-                  "text": ""
+                  "text": "Supporting/open mic performances by Halina Berger and Susan Flemming."
                 }
               ]
             },
@@ -161,33 +140,6 @@
               "children": [
                 {
                   "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "horizontal-separator",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "center",
-              "children": [
-                {
-                  "text": "1995-01-23 Neil Wiernik and Fortner Anderson",
-                  "bold": true,
-                  "textSize": "heading-three"
                 }
               ]
             },
@@ -202,9 +154,7 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/wiernick%20anderson.png",
-              "caption": "Supporting/open mic performances by Joelle Ciona, Fluffy Pagan Echoes (Victoria Stanton, Scott Duncan, Vincent Tinguely), Ian Stephens, Justin McGrail, and more.",
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -213,6 +163,16 @@
             },
             {
               "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/wiernick%20anderson.png",
+              "caption": "",
               "children": [
                 {
                   "text": ""
@@ -223,6 +183,19 @@
               "type": "paragraph",
               "align": "center",
               "children": [
+                {
+                  "text": "1995-01-23 Neil Wiernik and Fortner Anderson",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": "Supporting/open mic performances by Joelle Ciona, Fluffy Pagan Echoes (Victoria Stanton, Scott Duncan, Vincent Tinguely), Ian Stephens, Justin McGrail, and more."
+                },
                 {
                   "textSize": "heading-three",
                   "text": "\n\n"
@@ -245,7 +218,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-04-29T19:31:38.487Z",
+  "updated_at": "2025-04-29T19:40:27.986Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
