@@ -84,6 +84,52 @@
             },
             {
               "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "1995-01-16 bill bissett and Sharon H. Nelson"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": "Supporting/open mic performances by Scott Duncan, Halina Berger, Justin McGrail, and more."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -95,11 +141,7 @@
               "align": "left",
               "children": [
                 {
-                  "text": "1995-01-16 bill bissett and Sharon H. Nelson",
-                  "textSize": "heading-three"
-                },
-                {
-                  "text": "Supporting/open mic performances by Scott Duncan, Halina Berger, Justin McGrail, and more.\n\n\n"
+                  "text": "\n\n\n"
                 }
               ]
             }
@@ -184,8 +226,18 @@
               "align": "center",
               "children": [
                 {
-                  "text": "1995-01-23 Neil Wiernik and Fortner Anderson",
+                  "text": "",
                   "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "1995-01-23 Neil Wiernik and Fortner Anderson"
                 }
               ]
             },
@@ -195,7 +247,29 @@
               "children": [
                 {
                   "text": "Supporting/open mic performances by Joelle Ciona, Fluffy Pagan Echoes (Victoria Stanton, Scott Duncan, Vincent Tinguely), Ian Stephens, Justin McGrail, and more."
-                },
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
                 {
                   "textSize": "heading-three",
                   "text": "\n\n"
@@ -218,7 +292,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-04-29T19:40:27.986Z",
+  "updated_at": "2025-04-29T19:50:11.194Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
