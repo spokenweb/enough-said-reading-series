@@ -877,7 +877,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Performances by Swifty Lazar (Todd Swift and Tom Walsh), bill bissett, Sharon H. Nelson, Ian Stephens, Fortner Anderson, Robert Allen, Douglas Isaac, ga press (Colin Christie and Corey Frost), Ian Ferrier, Steve Luxton, and Raymond Filip."
+                  "text": "A compilation of performances by Swifty Lazar (Todd Swift and Tom Walsh), bill bissett, Sharon H. Nelson, Ian Stephens, Fortner Anderson, Robert Allen, Douglas Isaac, ga press (Colin Christie and Corey Frost), Ian Ferrier, Steve Luxton, and Raymond Filip."
                 }
               ]
             },
@@ -946,6 +946,54 @@
               "children": [
                 {
                   "text": "Conducted by Faith Paré and Carlos A. Pittella, supervised by Jason Camlot."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -1819,7 +1867,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Performances by Trevor John Ferrier, Njacko Backo, Groupe de Poésie Moderne, Sonja A. Skarstedt, Lynn Suderman, Phineas Flower Trio, Steve Godin, and Adeena Karasick."
+                  "text": "A compilation of performances by Trevor John Ferrier, Njacko Backo, Groupe de Poésie Moderne, Sonja A. Skarstedt, Lynn Suderman, Phineas Flower Trio, Steve Godin, and Adeena Karasick."
                 }
               ]
             },
@@ -1854,6 +1902,74 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/spokenword%20sampler.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "Spoken Word Sampler"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A compilation of performances by Adeena Karasick, Sam Shalabi, Lee Gotham, Groupe de Poesie Moderne, Trevor Ferrier, Lynn Suderman, Swifty Lazar (Todd Swift and Tom Walsh), Njacko Backo, Ann Diamond, Ian Stephens, Dee Smith, bill bissett, and David Jager.\n"
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -1871,7 +1987,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-05-08T18:50:29.518Z",
+  "updated_at": "2025-05-08T18:54:43.585Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
