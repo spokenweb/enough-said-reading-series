@@ -678,14 +678,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -810,14 +802,6 @@
               "children": [
                 {
                   "text": "Performances by Jill Battson, Nancy Dembowski, Stan Rogal, and Mike O'Connor.\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
                 }
               ]
             },
@@ -1660,14 +1644,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -1792,14 +1768,6 @@
               "children": [
                 {
                   "text": "Performances by Lee Gotham, Adeena Karasick and Jill Battson."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
                 }
               ]
             },
@@ -1987,7 +1955,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-05-08T18:58:52.665Z",
+  "updated_at": "2025-05-08T19:00:19.562Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
