@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "5665c6dc-d999-425d-99b9-94e41d216bb4": {
-      "label": "1995-04-03 Dee Smith",
+      "label": "",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/6TsO-j4o59k",
@@ -22,6 +22,9 @@
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-05-22T19:54:51.528Z",
-  "updated_by": "spokenweb"
+  "updated_at": "2025-05-22T21:39:58.048Z",
+  "updated_by": "spokenweb",
+  "av_file_order": [
+    "5665c6dc-d999-425d-99b9-94e41d216bb4"
+  ]
 }
