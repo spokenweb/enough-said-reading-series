@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "d6ea1d54-3009-4f28-8708-b0c643044501": {
+      "label": "1995-02-06 EJ Brule",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/I2PNF5D3-b0",
+      "duration": 3925
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1995-02-06 EJ Brule",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on February 6, 1995, hosted by Lee Gotham. Feature performances by EJ Brule. Open mic performance by Steve \"Liquid\" Hawley."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

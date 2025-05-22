@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "733cfd82-4128-4b71-88cd-b83cfbea48ee": {
+      "label": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/FPNsiL-mwUo",
+      "duration": 3245
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An abridged version of the recording \"1995-03-25 Performance Poetry Party\" spoken word series event held at Building Danse (55 Avenue des Pins East, 2nd floor, Montreal, QC, H2W 1N6). Includes commentary from a watch and annotation party held on Zoom on May 8, 2025, hosted by Jason Camlot and Jade Palmer. Commentary by Colin Christie, Corey Frost, Justin McGrail, Vincent Tinguely, Scott Duncan, Dee Smith, and Lee Gotham."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

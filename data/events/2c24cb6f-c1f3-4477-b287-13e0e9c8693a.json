@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "30da4feb-c45f-4e87-a591-6a802f9e30ee": {
+      "label": "SpokenWord Sampler",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/_dpk6JLwoQ8",
+      "duration": 1051
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "SpokenWord Sampler",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A compilation of performances at Enough Said spoken word series events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) by Adeena Karasick, Sam Shalabi, Lee Gotham, Groupe de Poesie Moderne, Trevor Ferrier, Lynn Suderman, Swifty Lazar (Todd Swift and Tom Walsh), Njacko Backo, Ann Diamond, Ian Stephens, Dee Smith, bill bissett, and David Jager."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

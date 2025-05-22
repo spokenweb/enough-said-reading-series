@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "6c9a4371-d216-448e-9be5-5f4ac8a32aeb": {
+      "label": "1995-03-06 Phineas Flower Trio and Steve Godin Part 1",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/qRKDpxpeiTs",
+      "duration": 2370
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1995-03-06 Phineas Flower Trio and Steve Godin Part 1",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on March 6, 1995, hosted by Lee Gotham. Feature performances by Phineas Flower Trio and Steve Godin. Open mic/supporting performance by Ran Elfassy."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

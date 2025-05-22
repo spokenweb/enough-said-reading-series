@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ce0a9c1d-6ff4-4d77-9c8e-c406092177ed": {
+      "label": "2022-09-23 Oral History Interview with Lee Gotham",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/ic0bvsK52qU",
+      "duration": 8103
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "2022-09-23 Oral History Interview with Lee Gotham",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Oral history interview conducted on Zoom on September 23, 2022 at the AMPLab (Pavillion J.W. McConnell Bldg, 1400 Maisonneuve Blvd W, Montreal, 6th floor, Quebec H3G 1M8). Lee Gotham interviewed by Faith Pare and Carlos A. Pittella, supervised by Jason Camlot."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "7b7b060e-9a7c-46c7-8c13-4fd4b54ea1bf": {
+      "label": "1994-12-09 Lee Gotham and Ann Diamond",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/nkvSCkXYfhE",
+      "duration": 8963
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1994-12-09 Lee Gotham and Ann Diamond",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on February 27, 1995, hosted by Lee Gotham. Feature performances by Lee Gotham accompanied by Sam Shalabi, and Ann Diamond. Open mic/supporting performances by Beau Williamson, Jen Frankel, Vince Tinguely, Graham Olds, Ran Elfassy, Thoth Harris, Halina Berger, R. M. Vaughan, Scott Duncan, Justin McGrail, and Ran Elfassy and more."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

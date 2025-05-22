@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "5665c6dc-d999-425d-99b9-94e41d216bb4": {
+      "label": "1995-04-03 Dee Smith",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/6TsO-j4o59k",
+      "duration": 3626
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1995-04-03 Dee Smith",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on April 3, 1995, hosted by Lee Gotham. Feature performance by Dee Smith. Open mic/supporting performances by Joe De Paul and more."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}

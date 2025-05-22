@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "44578dd2-74f1-4b2f-862a-e77356951365": {
+      "label": "1995-03-20 Fluffy Pagan Echoes",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/MxfeeMg3G0c",
+      "duration": 3102
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1995-03-20 Fluffy Pagan Echoes",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on February 27, 1995, hosted by Lee Gotham. Feature performances by Fluffy Pagan Echoes. Open mic/supporting performances by Edith's Mission (Ibolya \"Ibi\"Kaslik and Amy Millan), Kate Alsterlund, Tom Chamberlain, and more."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-22T19:54:51.528Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-05-22T19:54:51.528Z",
+  "updated_by": "spokenweb"
+}
