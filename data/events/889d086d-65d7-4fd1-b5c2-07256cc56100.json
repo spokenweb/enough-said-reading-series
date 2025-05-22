@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "7b7b060e-9a7c-46c7-8c13-4fd4b54ea1bf": {
-      "label": "1994-12-09 Lee Gotham and Ann Diamond",
+      "label": "",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/nkvSCkXYfhE",
@@ -22,6 +22,9 @@
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-05-22T19:54:51.528Z",
-  "updated_by": "spokenweb"
+  "updated_at": "2025-05-22T20:23:44.233Z",
+  "updated_by": "spokenweb",
+  "av_file_order": [
+    "7b7b060e-9a7c-46c7-8c13-4fd4b54ea1bf"
+  ]
 }
