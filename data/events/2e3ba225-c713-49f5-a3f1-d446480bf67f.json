@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "ce0a9c1d-6ff4-4d77-9c8e-c406092177ed": {
-      "label": "2022-09-23 Oral History Interview with Lee Gotham",
+      "label": "",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/ic0bvsK52qU",
@@ -22,6 +22,9 @@
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-05-22T19:54:51.528Z",
-  "updated_by": "spokenweb"
+  "updated_at": "2025-05-23T23:12:56.564Z",
+  "updated_by": "spokenweb",
+  "av_file_order": [
+    "ce0a9c1d-6ff4-4d77-9c8e-c406092177ed"
+  ]
 }
