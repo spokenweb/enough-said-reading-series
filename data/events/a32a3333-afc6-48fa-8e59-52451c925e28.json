@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "c96e1bf1-4e4d-407e-aedd-fb74ec0a5b8b": {
-      "label": "Highlights Part 1",
+      "label": "",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/LvWMVjMnQtA",
@@ -22,6 +22,9 @@
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-05-22T19:54:51.528Z",
-  "updated_by": "spokenweb"
+  "updated_at": "2025-05-23T23:16:16.211Z",
+  "updated_by": "spokenweb",
+  "av_file_order": [
+    "c96e1bf1-4e4d-407e-aedd-fb74ec0a5b8b"
+  ]
 }
