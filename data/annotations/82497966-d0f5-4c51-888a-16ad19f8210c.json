@@ -1,5 +1,880 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, different degrees of closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible. People frequently pass in front of the camera. White spherical lights hang from the ceiling. Long shot as two individuals set up technical equipment and reading materials on the stage, and audience members talk to each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "2d33b4fc-1006-425e-bc2c-a6b91c24642b"
+    },
+    {
+      "start_time": 49,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, thank you very much for your patience. Merci, de la rester (?) encore. For this evening we're going to begin as we're wont to do with a very short section of open mic participation. Open mic participation, i.e., people like yourselves, who are willing to come up, regale us with your thoughts, emotions, and anything else they're willing to part with. I can read \"Halina\" and I guess at (?) behind the black (?) on the board. So Halina, you can come up and join us, we'll be off and running. | Video Description: Camera gradually zooms from long shot to closeup as Gotham speaks into the mic. Gotham wears a black zippered sweater with unknown white graphics on the back, a small white logo on the front left side, and sleeves rolled up to the elbows; black rimmed cap; and hair in a ponytail through the hole in the back. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "31b6d2bc-8604-40f6-b8fe-7c97ca720ff9"
+    },
+    {
+      "start_time": 108,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says they have never read in front of this many people before. Reads a piece beginning with the line \"Springtime just before winter.\" Volume level very low. Applause.] | Video Description: Closeups and extreme closeups as Berger reads a piece. Berger wears a red V-neck long-sleeved shirt with a few buttons at the top, silver chain around her neck, small hoop earrings, and short dark brown hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Halina Berger"
+        }
+      ],
+      "uuid": "c81c4d44-5313-4a1b-b7ae-57f230e82dea"
+    },
+    {
+      "start_time": 254,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Encourages open mic participants to speak clearly and strongly into the mic, reminds them that the time limit is five to seven minutes, and that polite applause is not allowed. Invites Susan Flemming to the stage.] | Video Description: Medium shot to loose closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c8d8028c-b9ff-4d41-82f7-b4a4e161f22a"
+    },
+    {
+      "start_time": 344,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says they thought Gotham meant that there were things that open-mic performers could not talk about. Asked Gotham if people were allowed to clap. Recalled when someone at a previous poetry event said they were taught not to laugh at poetry. Recalled, in a Toronto restaurant, when someone said not to get the $10.99 special or else the poet will want to sleep with you. Explains that they wrote this poem about how poets talk about sex more than they have it. Begins to perform a piece titled \"Supper is Served.\" Pauses and remarks how they can move around more. Recommences.] | Video Description: Closeup as Flemming begins to perform a piece, pauses to take the microphone off the stand, continues performing. Flemming wears a loose-fitting black jacket over a white shirt, a yellow scarf with black and white patterns, circular wire-rimmed glasses, and short medium-brown hair with bangs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Susan Flemming"
+        }
+      ],
+      "uuid": "9190dc9a-4972-45bc-a0f4-2498d111b5fb"
+    },
+    {
+      "start_time": 480,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece titled \"What the Poet Does.\"] | Video Description: Loose closeup as Flemming performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Susan Flemming"
+        }
+      ],
+      "uuid": "01f3c367-3d19-4f72-b85e-258904451367"
+    },
+    {
+      "start_time": 516,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks the audience if anyone is married. No response. Introduces and performs a piece titled \"Two Married Women: Rules for the Affair.\"] | Video Description: Closeup as Flemming introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Susan Flemming"
+        }
+      ],
+      "uuid": "07156d26-d15d-4767-aada-98d1e15c4ea8"
+    },
+    {
+      "start_time": 586,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells a joke about orgasms. Brief laughter. Asks if anyone has had sex on the beach lately. Lists a cocktail recipe. Performs a piece beginning with the line \"When you touch me, a constellation of stars quiver in the night.\"] | Video Description: Closeup as Flemming introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Susan Flemming"
+        }
+      ],
+      "uuid": "471ecc15-e409-4c68-a358-5955cc680699"
+    },
+    {
+      "start_time": 680,
+      "end_time": 752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Mary of Jane.\" Applause.] | Video Description: Medium shots and closeups as Flemming introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Susan Flemming"
+        }
+      ],
+      "uuid": "71a48faf-f2e9-4440-85d3-18f5f0419bb3"
+    },
+    {
+      "start_time": 752,
+      "end_time": 788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Apologizes to Flemming for the time constraints. Mentions that there will be one more \"brief pause\" before Swifty Lazarus. Sudden cut in audio.] | Video Description: Gotham speaks briefly into the mic. Sudden cut in video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "476e553d-0e29-4592-b55d-7e193854a9d5"
+    },
+    {
+      "start_time": 788,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of ambient music with choral elements plays in background. Audience chatter. Sudden cut in audio suggests the feed was stopped and recommenced. Another sudden cut in audio.] | Video Description: Walsh suspends microphone from tall microphone stand branching to the right. Sudden cut in video suggests the feed was cut and recommenced. Zoom in on microphone. Todd Swift, wearing headphones, tests mic inaudibly. Another sudden cut in video. Todd Swift wears a black suit jacket over a white button-down shirt with a black bowtie, black rectangular glasses, and dark hair close cropped on the sides and parted just off-centre. Tom Walsh wears a leather vest with decorative zippers over a black long-sleeved shirt and short dark hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "a424d9ba-92d5-4b93-ba3f-d8fc4d5a4532"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces Swifty Lazarus.] | Video Description: Varying degrees of closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5596a1b3-0a25-4e01-85de-db641b546f47"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of cinematic music with harp and horns plays. Swift performs a piece beginning with the line \"After the end of the world, there is much work to be done.\"] | Video Description: Loose closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "0fa1a113-5746-4e48-b0d6-0d802f958176"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of uneasy and discordant string instrument music plays. Shifts to cacophonous horn and percussion sounds and screeching. Swift performs a piece titled \"(?) Barbershop.\" Brief applause and laughing.] | Video Description: Swift stands perpendicular to the mic. Walsh stands up. Swift approaches the mic and performs a piece. Loose closeup throughout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "55b930f7-0e8a-4bec-9dee-b0ab7fc09c17"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of cinematic string and horn music plays. In a radio-esque transatlantic accent, a recorded voice delivers monologue that includes the line, \"the hearts of men, a shadow now.\"] | Video Description: Loose closeup of Swift holding up a white handheld cassette tape player to the mic, looking at watch, and taking tape player away from mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "28c78b23-c8a8-4cbe-a06d-e934226ffe18"
+    },
+    {
+      "start_time": 1352,
+      "end_time": 1537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of spare xylophone music plays. In a muted, mid-twentieth-century-radio tone, Swift performs a piece beginning with the line, \"The theory of tunnel (work?) is a powerful distinction between a (ledger?) and employment.\" Music gradually adds both cinematic and discordant strings reminiscent of earlier musical sections.] | Video Description: Loose closeup to closeup as Smith performs a piece with a trumpet mute up to their lips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "c7b5a1a7-48ea-4135-be7f-b6028be13228"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of discordant string music and vocalization plays. Swift performs a piece beginning with the line \"The shadowy man (has guilt inside?) (? and sighs?). Moscow.\".] | Video Description: Medium shot as Swift turns away from the mic. Closeup as Swift turns back and performs a piece, reading off a newspaper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "5676f0b5-3432-47fe-8d8e-8d99441fbc0f"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of up-beat jazz music with xylophone and horns plays. \"History is dead and the full weight of the present (?)\" Laughter periodically throughout. The music and Swift's delivery gets faster and more chaotic partway through. Music suddenly cuts seemingly on purpose and Swift continues reading. Music recommences. Applause] | Video Description: Closeup and extreme closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "373d6e4a-b213-4270-b859-fbb64d0ce3fc"
+    },
+    {
+      "start_time": 1869,
+      "end_time": 1955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of a single unknown string or horn instrument playing seemingly random notes plays. A recording of two voices conversing plays.] | Video Description: Varying degrees of closeup as Swift holds a white handheld cassette tape player to the mic. Nods and smiles along with the audio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "700b8160-582f-4573-bc8b-679484432f08"
+    },
+    {
+      "start_time": 1955,
+      "end_time": 2123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of simple snare and bass drum beat plays, in which short guitar or horn melodies quip periodically. Swift performs a piece beginning with the line \"So much rain in one hat band.\"] | Video Description: Medium shots and loose closeups as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "10e87f7e-a396-4807-9154-52d90afa36a7"
+    },
+    {
+      "start_time": 2123,
+      "end_time": 2215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Old recording of a two-voice conversation plays. Swift softly delivers a piece. Uneasy vintage horror movie music begins partway through.] | Video Description: Walsh stands and lights a cigarette. Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "af1f0513-2e47-44b2-8ef4-5766bff783df"
+    },
+    {
+      "start_time": 2215,
+      "end_time": 2395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Old recording of a two-voice phone conversation plays. The first verse of a child choir singing \"Oh Canada\" plays. A recording of steady gong or cymbal hits plays. Swift performs a piece beginning with the line \"One softness (?) going, the sea turns like glass.\" Recording of staccato pulses of unknown instruments begin partway through.] | Video Description: Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "419fe26f-294f-4305-a7fd-8677d5be47d1"
+    },
+    {
+      "start_time": 2395,
+      "end_time": 2509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Old recording of a newscast beginning with the line, \"The Nazi war criminal died\" plays. Swift performs a piece beginning with the line, \"But when the Berlin Wall fell five years ago, it was a signal.\" A recording of raucous percussion plays after the first line, evolves into quiet sirens.] | Video Description: Closeup of the microphone while Swift smokes a cigarette off-camera. Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "b530bfa8-7b0e-422f-8598-ffbbbb9c23b0"
+    },
+    {
+      "start_time": 2509,
+      "end_time": 3131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of hopeful and content piano and drum music plays. Swift strongly performs a piece beginning with the line, \"There's one thing I remember right from childhood. From the beginning. And it is the smell of roses.\" Music slowly shifts to high-pitched and discordant electric organ chords with periodic driving percussion. Applause] | Video Description: Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "b4cf8bbc-a27e-4a0e-9227-d61d43f66d68"
+    },
+    {
+      "start_time": 3131,
+      "end_time": 3192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Long pause.] | Video Description: Medium shot and closeup as Swift faces away from the mic checking watch and adjusting headphones, sometimes out of frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "34d49aa1-cab5-4c05-9b94-8e6991e2c9a5"
+    },
+    {
+      "start_time": 3192,
+      "end_time": 3369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of ominous stringed instrument music plays. Swift performs a piece beginning with the line \"What happened to you when you were murdered?\"] | Video Description: Closeup as Swift performs a piece, ending with an extreme closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "ac2686a4-cf7d-4859-b826-e67e48270c31"
+    },
+    {
+      "start_time": 3369,
+      "end_time": 3481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of unknown screeching instrument plays. Recording of one person pleading \"no\" and \"stop\" and another person talking sinisterly plays. Recording of a two-voice conversation plays.] Video Description: Extreme closeup as Swift holds up a white handheld cassette tape player to the mic. Swift's face reacts to the dialogue in the recordings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "377089a5-8974-4125-a9f4-9160f9c57cc0"
+    },
+    {
+      "start_time": 3481,
+      "end_time": 3696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of intense large wind instrument and large drums plays. Swift performs a piece beginning with the line \"The architect of the future.\"] | Video Description: Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "bf70ff88-f003-4c36-bb41-089417cc5140"
+    },
+    {
+      "start_time": 3696,
+      "end_time": 3893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording of ominous ambient music plays. Swift performs a piece beginning with the line \"I've seen a man stagger with a thousand arrows in his back.\" Applause.] | Video Description: Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "a3faf3de-d710-4d69-a60a-473bb09a8c4f"
+    },
+    {
+      "start_time": 3893,
+      "end_time": 4124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Swift announces, \"this is the last one.\" Recording of happy horn and drum music plays, cuts suddenly, and recommences. Swift performs a piece that may be titled \"Ten Rose Songs.\" Music cuts and recommences in different styles rapidly and repeatedly throughout performance. Laughter throughout. Applause.] | Video Description: Walsh stands up, leans over to Swift, sits back down. Closeup as Swift performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "b79925e4-7530-430b-8175-67321add3e8d"
+    },
+    {
+      "start_time": 4124,
+      "end_time": 4190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Walsh introduces Swift and themselves. Explains that the name of their group is inspired by \"Hollywood's greatest entrepreneur,\" Irving Paul \"Swifty\" Lazar. | Video Description: Medium shot as Swift and Walsh stand side by side. Closeup as Walsh speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Swifty Lazarus"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Todd Swift"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "3832a355-2ec9-47ac-8fd2-d6d044c7a1c6"
+    },
+    {
+      "start_time": 4190,
+      "end_time": 4281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Hopes everyone \"soaked that up.\" Encourages people to stay after the show. Mentions that bill bissett is next week's performer. Mentions further future events. Applause.] | Video Description: Loose closeup to extreme closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c891af75-84bb-4477-aee4-bdc2b1c7077b"
+    },
+    {
+      "start_time": 4281,
+      "end_time": 4325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "944e25d1-ff82-4901-9bd5-292e58d19832"
+    },
+    {
+      "start_time": 4325,
+      "end_time": 4326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0a2be7fb-192f-48c4-91dc-7594742ea158"
+    }
+  ],
   "event_id": "bc88729c-2dd1-4668-a9f9-f4be73e40cdb",
   "set": "AV Description",
   "source_id": "c7f81c69-dc54-420b-9762-7d3db65a30c8"
