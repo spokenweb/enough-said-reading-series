@@ -1,5 +1,1240 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video of the stage with mic stand at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "52ec9eaa-c9b4-4949-84e5-08e667df078a"
+    },
+    {
+      "start_time": 1,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for coming out. Well, welcome to, I'm losing count, but the next and last, most recent, not last, most recent evening of Enough Said spoken word event series. Gee, you know, we're in for a miracle, I've got a mouthful just introducing it all, maybe I'll gloss it over a bit. We're launching a cassette among other things, Broken Spoken features Neil Wiernik and Fortner Anderson, both of whom you'll see up here before long. Before them, we have a couple of other treats, and I hope everyone is more or less comfortable, and if they're not, that they take the initiative, wander up to the bar, pick what you'd like. Because of the crowds, of course, you won't see a waiter with any regularity. And yeah so it's a wonderful crowd, it's nice to see everybody here, and let's just kind of segue into the evening. There will be a brief pause, but don't despair, everything will happen before very long. | Video Description: Camera varies between loose closeups and medium shots as Gotham speaks into the mic. Gotham wears a black sweater, sunglasses with clear frames and black lenses on head, with shoulder-length hair loose. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "cfe0a094-1a01-4bb0-9b51-56d3d4ff490a"
+    },
+    {
+      "start_time": 99,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ciona performs a piece beginning with the line \"Sometimes I just can't stand the city. There's too many people.\" No microphone, so volume is low. Partway through, Ciona and Monique alternate who is delivering the piece. Laughter throughout. Applause.] | Video description: Medium shot as Ciona pours steaming hot liquid from brown pitcher into a cup and begins performing a piece. Monique enters and sits on a chair on the stage while Ciona wanders through the audience, passing out white bowls and filling them from the pitcher. Ciona wears a black long-sleeved shirt with sleeves rolled up to the elbows, black gloves, grey denim jeans, a black belt with a large silver buckle, silver and black glasses, and short blonde hair. Monique wears a white t-shirt with thin black stripes, black pants, and medium brown hair with bangs. Ciona stops at the stage to clean Monique's hand with a white washcloth and trim their nails while delivering the piece. Closeup as Ciona begins biting Monique's nails, periodically spitting out the pieces. Monique takes over delivering the piece. Ciona puts down Monique's hand and resumes delivering the piece. The two performers go back and forth delivering the piece, with Ciona chewing Monique's nails and sucking or licking Monique's fingers when they are not speaking. Long shot to show (Johnathon Ascensio?) and (Angela Dora?) in fairy wings holding glowing lanterns approach the window outside, bite their nails, and attempt to fog up the window with breath. Closeup on the figures outside as the piece ends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Joelle Ciona"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Monique"
+        }
+      ],
+      "uuid": "e18a6ccd-45b9-467a-962a-5953b1eb5529"
+    },
+    {
+      "start_time": 470,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he hopes the audience in the back \"wasn't completely disappointed,\" assuming they were unable to hear. Mentions Ciona is a performance artist. Apologizes for not knowing the second performer's name. Monique shouts from the audience, \"Monique!\" Laughter. Sees Ciona approaching the stage from the audience to collect props from the stage and asks if they want to explain the piece.] | Video Description: Closeup zooms out to medium shot zooms out to long shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "be0662b1-cd04-4f2b-a9f0-3851afcfe789"
+    },
+    {
+      "start_time": 514,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that their nail-biting habit inspired the work. Credits (Johnathon Ascensio?) and (Angela Dora?) as the \"angels\" outside. Applause.] | Video Description: Long shot zooms out to medium shot as Ciona speaks into the mic that Gotham holds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Joelle Ciona"
+        }
+      ],
+      "uuid": "798266c5-1b09-4b5e-96c1-2c15b561f57f"
+    },
+    {
+      "start_time": 544,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Invites \"resident favourite\" and Fluffy Pagan Echoes member, Victoria Stanton, to the stage.] | Video Description: Long shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "8ed1437b-f963-4357-b730-2c44b1195917"
+    },
+    {
+      "start_time": 569,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Stanton explains they will perform with two other Fluffy Pagan Echoes members, Scott Duncan and Vincent Tinguely. Tinguely begins reading what seems to be a scientific journal article titled \"Compatible Quirks: How Yeast (?) Cold Virus Replication.\" Stanton and Duncan interrupt with a dialogue about sickness. All three performers repeat \"too much vomiting.\" Stanton and Duncan repeat \"mucous and puke\" quietly as Tinguely resumes reading the journal article. Applause.] | Video Description: Closeup as Stanton speaks into the mic zooms out to medium shot as Tinguely reads from a white paper. Duncan, on Tinguely's right, and Stanton, on Tinguely's left, alternate delivering a dialogue piece with no microphone. Stanton wears a black button-down shirt with sleeves rolled up to elbows over a black shirt, black pants, and a dark bob with bangs parted in the middle. Duncan wears a plaid button-down shirt with sleeves rolled up to the elbows, grey trousers, and short dark brown hair. Tinguely wears a white t-shirt, dark pants, and white wispy hair. Tinguely gradually steps back from the mic. Stanton holds up a white sign that reads, \"TOO MUCH VOMITING.\" Tinguely resumes reading from the paper as Stanton and Duncan recede into the background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Fluffy Pagan Echoes"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Victoria Stanton"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Scott Duncan"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Vincent Tinguely"
+        }
+      ],
+      "uuid": "5e545597-0c35-414d-8791-bc90eef2d8b2"
+    },
+    {
+      "start_time": 790,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham mid-speech] wider applications of what we're saying of spoken work performance, but some of its roots as well, I think I can safely say. So as first the widest applications of (poetry?) then the root, it feels I could take the opportunity to expound upon what I think happens here. Enough Said implies that the words that we've all been taking in perhaps aren't enough, that they require some delivery, some engaging accompaniment or just the expression involved, so they're accompanied with images. Now, that image is perhaps evocative at best, but like words, not the ideal vehicle or a good true representation. An image can represent a human being, inaccurately at best, and well, like a government can represent a people, inaccurately at best. Representations have been a problem it seems, so why can't we just present ourselves more often? I suppose that there perhaps aren't enough born anarchists and we're too fond of our image, anyways, the representation. We aren't looking at ourselves, we like looking at representations of ourselves. This is great, and a great problem simultaneously, I think. So it's really nice when here, I find a whole lot of wonderful words accompanied by often just as many thought-provoking and engaging images, and yet there's still space, although it may be hard to grasp the concept with the number of us all here in one room, but space between those images and those words nonetheless, and in that space I think there's room for that presentation, there's a community of sorts and that's what I'm finding most magical about Enough Said. [Introduces Neil Wiernick as a performance and radio artist.] | Video Description: Cuts to long shot zooming into varying degrees of closeup as Gotham speaks into the mic. Neil Wiernick sets up a stereo in the background. Zooms into stereo and a medium shot of Wiernick momentarily"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "495db29d-6c49-46fc-94f4-b066eba98757"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient noise. Music plays from stereo. Tests handheld mic that seems to be connected to stereo. Speaks into mic and stereo squeals and distorts voice.] | Video Description: Medium and long shots as Wiernick sets up microphone in front of stereo and tests the microphone. Wiernick wears a grey long-sleeved button-down shirt over a grey t-shirt, glasses, and dark brown thinning hair with long sideburns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Neil Wiernick"
+        }
+      ],
+      "uuid": "b3c23d8a-2f26-4dea-bdec-af1461b000b6"
+    },
+    {
+      "start_time": 1216,
+      "end_time": 1379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece including the line, \"are you listening to me?\" with the stereo squealing throughout. Audio becomes suddenly clear at the line \"This is language, language you can understand.\" Distortion resumes for the remainder of the piece. Intentionally plays static from the stereo. Resumes performing. Intentionally plays static again.] | Video Description: Closeup and medium shot as Wiernick introduces and performs a piece. Periodically activates and deactivates static sound using controls on back of stereo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Neil Wiernick"
+        }
+      ],
+      "uuid": "029a56d3-fb97-4183-9d22-39b9ed71971e"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that the next two pieces are dedicated to a philosopher and artist whose name is indiscernible in the video. Performs piece beginning with stuttering fragments of the word \"spectacular,\" beginning with \"s\" and adding a letter or syllable periodically, until full word is said.] | Video Description: Medium shot to closeup to medium shot as Wiernick performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Neil Wiernick"
+        }
+      ],
+      "uuid": "8dd0dba9-d06f-471e-a5b8-531f97048ede"
+    },
+    {
+      "start_time": 1468,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Stereo squeals. Static. Plays recording of a voice repeating an indiscernible word, gradually increasing in volume, until ceasing. Plays recording of a conversation very quietly along with alarm-like sounds. Static. Volume of all parts gradually decreases.] | Video Description: Long and medium shots as Wiernick adjusts something on the back of the stereo, then sits on a chair on the left side of the stereo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Neil Wiernick"
+        }
+      ],
+      "uuid": "908902fe-bfad-4956-a39c-d00dc59ac334"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Stereo plays recording of a voice repeating the same few indiscernible words overlayed with static and distortion. Volume gradually decreases. Applause.] | Video Description: Closeup as Wiernick rises from chair and picks up stereo. Medium shot zooms out to long shot as the camera follows Wiernick carrying stereo through the crowd towards the back of the venue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Neil Wiernick"
+        }
+      ],
+      "uuid": "40b1237f-f30e-4830-b4cb-145d057eabd4"
+    },
+    {
+      "start_time": 1659,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to audience applause. Announces that Ian Stephens will perform before Fortner Anderson. Invites Ian to the stage.] | Video Description: Cuts to medium shot as Wiernick leaves the stage, Gotham adjusts the mic, and speaks into it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5c37441f-dffc-4479-a8a1-435589aab8a0"
+    },
+    {
+      "start_time": 1753,
+      "end_time": 2158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"(Reegan's?) Mind\". Laughter throughout. Applause.] | Video Description: Loose closeup of Stephens on stage. Stephens wears a black parka over a black sweater; a red, black, and yellow scarf; a white cloth face mask tied around his head; red nail polish on some fingernails; and close-cropped light-brown hair. Medium shot of Stephens taking off parka and putting up hood of sweater. Closeup zooms into extreme closeup as Stephens places two fake eyes over his eyelids and squints to keep them in place. Varying degrees of closeup as Stephens performs a piece. Gestures close to face throughout. Takes off hood partway through. Medium shot zooms out to long shot as Stephens extends arms upwards, finishes the piece, and puts on parka."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian Stephens"
+        }
+      ],
+      "uuid": "7d9e715d-79ab-4ad1-97bf-ac6f1ea401e7"
+    },
+    {
+      "start_time": 2158,
+      "end_time": 2231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Ian and the audience for attending. Introduces Fortner Anderson as the \"other half of 'Broken Spoken.'\" Promotes cassettes and publications for sale. Invites Anderson to the stage. Applause.] | Video Description: Varying degrees of closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ced648bc-2890-4bf2-9c87-bd9801db7282"
+    },
+    {
+      "start_time": 2231,
+      "end_time": 2555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"I'm a man. I'm a good man.\" Laughter throughout. Applause.] | Video Description: Closeup as Anderson takes mic off stand, turns away from the camera briefly, and turns back to perform the piece. Anderson wears a dark grey suit jacket over a black button-down shirt, black leather belt, black and gold glasses, and dark brown hair that sweeps across forehead and waves away from face. Zooms into medium shot as Anderson casually walks around the stage. Turns away from the camera and pauses after piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Fortner Anderson"
+        }
+      ],
+      "uuid": "232e99f7-1235-4f19-8743-19ff1abf0779"
+    },
+    {
+      "start_time": 2555,
+      "end_time": 2752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"Every day, I don't care, and I will never care.\" Applause.] | Video Description: Camera alternates between long shots and medium shots as Anderson performs a piece and casually walks around the stage. Walks out of frame for a moment partway through. Turns away from the camera and pauses after piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Fortner Anderson"
+        }
+      ],
+      "uuid": "05d83a69-ffee-44d8-9f7f-1ac8b59c54ac"
+    },
+    {
+      "start_time": 2752,
+      "end_time": 3299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"Sometimes I think I'm a young boy staring into a distant, sepia-toned future.\" Alternates between full voice, whispering, and shouting. Applause.] | Video Description: Camera alternates between medium shots and loose closeups as Anderson performs a piece and casually walks around the stage. Turns away from the camera and pauses after piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Fortner Anderson"
+        }
+      ],
+      "uuid": "59b48206-b627-4336-b616-60428136caa7"
+    },
+    {
+      "start_time": 3299,
+      "end_time": 3558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"I got hurt so bad today.\" Applause.] | Video Description: Medium shot as Anderson performs a piece and casually walks around the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Fortner Anderson"
+        }
+      ],
+      "uuid": "52f70c11-da11-416e-8c78-5f66fa7e1ace"
+    },
+    {
+      "start_time": 3558,
+      "end_time": 3585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Ian, Neil, Joelle, and the Fluffy Pagan Echoes. Directs audience to table to buy \"souvenirs.\" Applause.] | Video Description: Long shot zooms into medium shot as Anderson speaks into the mic. Places mic on stool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Fortner Anderson"
+        }
+      ],
+      "uuid": "2aa93a14-46d6-4d9f-a6b6-5576d39832ac"
+    },
+    {
+      "start_time": 3585,
+      "end_time": 3620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Anderson for \"the climax of the evening's offerings.\" Announces brief pause and that the open mic will continue afterwards.] | Video Description: Medium shot as Gotham puts mic back on stand and speaks into it while smoking a cigarette."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "de7348b8-26e9-4db3-a832-3b6c72fde851"
+    },
+    {
+      "start_time": 3620,
+      "end_time": 3630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Unknown_Reader1 performing a piece ending with the line \"fantasies, hot fucking, same difference.\" Applause.] | Video Description: Cuts to medium closeup of Unknown_Reader1 performing a piece. Unknown_Reader1 wears a black outerwear jacket with pink lining and a light brown hood over a black shirt, rectangular wire-rimmed glasses, and short dark hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "025d82c9-2cb8-4479-8b7e-38272882e626"
+    },
+    {
+      "start_time": 3630,
+      "end_time": 3771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions they are used to the audience laughing more. Performs a piece beginning with the line \"When the thick sticky glob of ovulation is there for me to remove with my fingers, I like to hold it.\" Laughter throughout. Applause.] Video Description: Medium closeup as Unknown_Reader1 performs a piece. Zooms out to longshot as Unknown_Reader1 turns away from the camera and pauses after piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "e6603630-3b6c-48ad-b345-d4f11575e64c"
+    },
+    {
+      "start_time": 3771,
+      "end_time": 3881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says they will get serious because the audience is. Performs a piece beginning with the line \"I'm not kidding, I'm not kidding, I'm not kidding anyone anymore.\" Applause.] | Video Description: Camera zooms into medium closeup as Unknown_Reader1 performs a piece and turns away from the camera and pauses after piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "777f9c57-a18e-4332-9f84-a90fb7bc5cd2"
+    },
+    {
+      "start_time": 3881,
+      "end_time": 4022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Introduces and performs a piece titled \"One Twenty Two Ninety Five.\" Applause. Thanks audience again.] | Video Description. Medium closeup as Unknown_Reader1 speaks into the mic, performs a piece, and speaks into the mic again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "d0d480eb-7574-438f-b89d-a1ff889de025"
+    },
+    {
+      "start_time": 4022,
+      "end_time": 4039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he \"hope[s] that's only a debut.\" Invites Ian and Mike to the stage.] | Video Description: Medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1affbd1d-9ca4-4e4d-8be0-477fbc37fd77"
+    },
+    {
+      "start_time": 4039,
+      "end_time": 4081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Remembrance Day.\"] Video Description: Camera alternates between medium shots and closeups as Ian introduces a piece, sits down far from mic, and performs a piece. Ian wears a grey and black long-sleeved plaid shirt over a black and white graphic t-shirt, and a short afro. Gotham adjusts the mic from Ian's left partway through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian"
+        }
+      ],
+      "uuid": "4bd93d27-bca5-4818-b960-73cb71f711c9"
+    },
+    {
+      "start_time": 4081,
+      "end_time": 4126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Town Square\" about west Indian culture. Applause.] | Video Description: Closeup as Ian introduces and performs a piece. Gotham adjusts the mic from Ian's left partway through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian"
+        }
+      ],
+      "uuid": "1d833e2a-5414-4876-bde5-251167754aab"
+    },
+    {
+      "start_time": 4126,
+      "end_time": 4247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mike walks on stage. Gotham quickly adjusts mic from Mike's left. Mike begins speaking and promptly clears throat. While introducing piece titled \"Crazy,\" glass smashes off-screen. Laughter. Says \"good job, opener,\" or \"job opening.\" Performs piece. Stutters and mentions that they're \"nervous\" and \"shaking.\" Resumes performing. Applause.] | Video Description: Medium shot zooms into closeup as Mike pulls papers from inner pocket of coat, speaks into mic, and performs a piece. Mike wears an oversized black coat over a black sweater with a rolled collar and a grey flat cap backwards with brown hair only slightly visible on the sides. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike"
+        }
+      ],
+      "uuid": "47e746e2-8e51-46b8-9136-cef27dbe583d"
+    },
+    {
+      "start_time": 4247,
+      "end_time": 4312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Christmas Fears.\" Applause.] | Video Description: Medium closeup as Mike performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike"
+        }
+      ],
+      "uuid": "041becde-20c4-4768-83e9-a77a78dd7565"
+    },
+    {
+      "start_time": 4312,
+      "end_time": 4341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Mike and Ian. Asks (Julian?) (Jillian?) and Bill to read next open mic performer's name on list. Next performer not present. Invites Sophie to stage.] Video Description: Medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "b596741e-3654-49ea-92a6-e0f6bb9a3dcc"
+    },
+    {
+      "start_time": 4341,
+      "end_time": 4405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"I dream of you a day after you leave for Florida.\" Unknown metallic rattling sound in background during first two lines. Applause.] | Video Description: Medium shot zooms into closeup as Sophie adjusts the mic and performs a piece. Sophie wears a brown striped sweater over a white shirt, a hoop earring with a gem in left ear, and a very short buzz cut. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sophie"
+        }
+      ],
+      "uuid": "1fa0bcc9-d8ae-49f3-9895-d5ce21ca6da3"
+    },
+    {
+      "start_time": 4405,
+      "end_time": 4464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that all poems are untitled. Begins performing piece. Stumbles. Resumes performing piece beginning with the line \"The (speech?) twenty minutes southwest of Tel Aviv is nondescript enough to remain unnamed.\" Applause.] | Video Description: Closeup as Sophie speaks into the mic, begins performing a piece, sticks out tongue momentarily, and resumes performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sophie"
+        }
+      ],
+      "uuid": "c0d754da-6303-43c6-9b3d-8655c7798589"
+    },
+    {
+      "start_time": 4464,
+      "end_time": 4534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions next poem is part of a series exploring \"how shitty everything is in winter.\" Performs a piece beginning with the line \"This far North is cold, (raw?), and slushy this far into December.\" Applause. | Video Description: Closeup as Sophie performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sophie"
+        }
+      ],
+      "uuid": "ecefaa8d-84c0-4c6b-99d9-4fb1d9bb1d63"
+    },
+    {
+      "start_time": 4534,
+      "end_time": 4563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Sophie. Invites Natasha, the open mic performer who was previously called but not present, to the stage.] | Video Description: Medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "8e604f04-e72c-4942-94f1-9c5665aba2cc"
+    },
+    {
+      "start_time": 4563,
+      "end_time": 4618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions first poem is about a roommate who \"split recently.\" Performs a piece titled \"Jay.\" Pauses intentionally throughout for a jerky effect. Applause.] | Video Description: Closeup as Natasha speaks into the mic and performs a piece. Natasha wears a white button-down shirt, rings, bronze nail polish, a necklace with large dark beads, small hoop earrings, and long dark brown hair parted in the middle. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Natasha"
+        }
+      ],
+      "uuid": "25f22933-57d9-4427-9408-eb120856fd88"
+    },
+    {
+      "start_time": 4618,
+      "end_time": 4654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece titled \"Madonna.\" Applause.] | Video Description: Closeup as Natasha performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Natasha"
+        }
+      ],
+      "uuid": "31f14d60-564a-47c8-b6a2-cae80373dbf4"
+    },
+    {
+      "start_time": 4654,
+      "end_time": 4753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Dedicates last poem to their dad. Performs a piece titled \"Union Solidarity.\" Applause.] | Video Description: Closeup as Natasha performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Natasha"
+        }
+      ],
+      "uuid": "faefdfeb-d38a-4dc0-9fda-e1bd14fc8496"
+    },
+    {
+      "start_time": 4753,
+      "end_time": 4826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces that featured reader on February 6th's event wants to collaborate with poets interested in rap who want their readings accompanied with \"beats.\" Encourages those interested to come out. Invites Phil to the stage.] | Video Description: Medium closeup as Gotham speaks into the mic. Rubs outer corner of right eye with thumb of right hand throughout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2a884cc7-1f96-4da6-b4c1-998350e913ff"
+    },
+    {
+      "start_time": 4826,
+      "end_time": 4964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions he hasn't decided what he wants to read. Pauses at length. Mutters. Performs a piece that begins with the line \"Riding backwards, flying skywards.\" Silence. Delayed applause.] | Video Description: Medium closeup zooms into closeup as Phil peaks into the mic, adjusts mic, pauses, and flips through papers off-screen. Phil wears a dark plaid button-down shirt with a hood over a white t-shirt and a very short buzzcut with a receding hairline. Performs a piece. Turns away from camera, going off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "ee9e2243-a13b-4cc9-8f7a-983c5c32903f"
+    },
+    {
+      "start_time": 4960,
+      "end_time": 4964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following performance contains suggestions and descriptions of sexual violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb notes",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "9573e3a4-b0a1-4d6f-a53e-906ceee7299d"
+    },
+    {
+      "start_time": 4964,
+      "end_time": 5089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that they write about things that are \"too real\" because \"the more I deny it the more real it becomes.\" Performs a piece beginning with the line \"Destroy it, destroy, big boy.\" Laughter throughout.] | Video Description: Closeup as Phil performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "2d56c2af-581c-41c1-b97c-96267724c38a"
+    },
+    {
+      "start_time": 5089,
+      "end_time": 5091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fuck me! [Yelling loudly.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "99be8c98-5354-46a9-84c5-8bfb17aad481"
+    },
+    {
+      "start_time": 5091,
+      "end_time": 5095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "2d253e00-2090-4377-acc6-0ca3908edd99"
+    },
+    {
+      "start_time": 5095,
+      "end_time": 5098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses Audience_Member1] Not you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "5ef25d47-10a7-4080-8335-590816e65491"
+    },
+    {
+      "start_time": 5098,
+      "end_time": 5099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Please! [Yelling loudly.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "5d3b11f4-3b55-47d3-8de1-132109789c0b"
+    },
+    {
+      "start_time": 5099,
+      "end_time": 5163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing. Laughter throughout. Applause.] | Video Description: Closeup as Phil performs a piece. Pauses. Smiles. Speaks into the microphone. Resumes performing. Turns away from camera, going off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "64e5af93-354a-4067-bc50-dc26ea2b3615"
+    },
+    {
+      "start_time": 5163,
+      "end_time": 5275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that the last poem was \"not supposed to be funny.\" Laughter. Long pause. Performs a piece beginning with the line \"A man is there for (fucking?), or so the story goes.\" Audio cuts midperformance.] | Video Description: Closeup as Phil speaks into the mic, turns away from camera, licks lips, claps six times, and performs a piece. Video cuts midperformance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Phil"
+        }
+      ],
+      "uuid": "1ffee615-5a4b-4e22-ad05-bc7253c9a5c6"
+    },
+    {
+      "start_time": 5275,
+      "end_time": 5282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Six minutes of this video have been removed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "03d7329b-bf3b-47f2-a5cb-347d2341363c"
+    },
+    {
+      "start_time": 5282,
+      "end_time": 5290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Invites Justin McGrail to the stage.] | Video Description: Medium shot zooms into medium closeup as Gotham speaks into the mic. Holds left forearm to forehead to shield eyes from light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1fbce53d-4f8a-4290-89e9-8ca31e074ade"
+    },
+    {
+      "start_time": 5290,
+      "end_time": 5431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Promotes Fluffy Pagan Echoes event at Cafe Phoenix. Performs a piece beginning with the line \"Out eastern, flowing, dapples sowing, tread gashes, behind heel, head, cloistered lashes.\" Applause.] | Video Description: Medium shot as McGrail speaks into mic, wipes face, and performs a piece, gesturing with both hands. McGrail wears a white hooded jacket with two large pockets, no zipper, and sleeves rolled up to elbows, black suspenders, a watch, gold bracelet, grey newsboy cap with decorative pins on the front, brown hair poking out from edges."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "ec91880c-5efe-45dd-bba9-2a7e854c6e76"
+    },
+    {
+      "start_time": 5431,
+      "end_time": 5454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Justin. Invites Tom to the stage.] | Video Description: Medium shot as Gotham speaks into the mic. Holds left forearm to forehead to shield eyes from light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "bad9f0c3-00f9-4e0c-9b1c-9309942ebb64"
+    },
+    {
+      "start_time": 5454,
+      "end_time": 5570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Makes a joke about musical group The Eagles. Laughter. Introduces and performs piece titled \"Call Before You Dig,\" about \"taking too many art history classes.\" Applause.] | Video Description: Medium shot zooms into medium closeup as Tom speaks into the mic and performs a piece. Tom wears a dark brown cable-knit sweater with sleeves rolled up to elbows, backwards dark brown newsboy cap, light brown hair poking out the sides. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom"
+        }
+      ],
+      "uuid": "968a7f46-d0bd-487b-8e6c-e5f516be0655"
+    },
+    {
+      "start_time": 5570,
+      "end_time": 5624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"The Sun Always Rises on One Side of my Head.\" Laughter throughout. Applause.] | Video Description: Medium closeup as Tom speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom"
+        }
+      ],
+      "uuid": "64923697-ab53-4fad-948b-b99ec8847af6"
+    },
+    {
+      "start_time": 5624,
+      "end_time": 5635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "33bf9886-980b-4eab-beb2-0f75d9c44860"
+    },
+    {
+      "start_time": 5635,
+      "end_time": 5713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Tom in medias res performing a piece including the line \"I am their link to the joys and the harrows of an experiential world.\"] | Video Description: Camera zooms in from medium closeup to extreme closeup and back again as Tom performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom"
+        }
+      ],
+      "uuid": "e13f3224-739c-4e3e-9cc7-2153595ca9e8"
+    },
+    {
+      "start_time": 5713,
+      "end_time": 5714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "2abce349-9996-4d86-9453-787c79c38ad8"
+    }
+  ],
   "event_id": "bfb7b3cc-e829-4ad4-89ba-af5462e1d0c2",
   "set": "AV Description",
   "source_id": "8873a1bd-44d8-4026-84f6-823db901a9a2"
