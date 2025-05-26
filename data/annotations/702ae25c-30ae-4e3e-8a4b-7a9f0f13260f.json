@@ -2127,6 +2127,27 @@
         }
       ],
       "uuid": "79c346ce-20b7-44ff-b7d9-20d29f5b1088"
+    },
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "01b79a58-8477-4b71-b0bd-33a4650bdf0e"
     }
   ],
   "event_id": "889d086d-65d7-4fd1-b5c2-07256cc56100",
