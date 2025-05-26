@@ -1,5 +1,741 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0109e249-5fa6-4f77-8efe-3a51149d1285"
+    },
+    {
+      "start_time": 17,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video, medium shot of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d52a7b87-cc62-4bda-b414-5e5b8a37e3b5"
+    },
+    {
+      "start_time": 17,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording starts mid-performance, with the sentence fragment \"(demonic self?), we can draw a relative conclusion of the instinct of demonic and the monic survival.\" Applause. Laughter.] | Video Description: Zoom out to a medium shot of Unknown_Reader1 reading from a book and a flyer. Unknown_Reader1 wears a pink sweater, long curly, a moustache, and glasses over their head. Suddenly leaves the frame and quickly returns saying \"thank you.\" Laughter, as camera zooms into an extreme closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "b98d0f0f-99c7-4bf1-9069-f6bbf81b61e1"
+    },
+    {
+      "start_time": 45,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a rhymed piece beginning with the line \"We are brainless, mindless, totally insane.\" Laughter after the final end rhyme, \"heavy metal.\"] | Video Description: Extreme closeup, then zoom out to a closeup of Unknown_Reader1 performing. Camera zooms in and out a few times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "bd12e8d7-c81c-44b2-bc67-03c99bab284c"
+    },
+    {
+      "start_time": 120,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a rhymed piece beginning with the line \"There once was a farmer who commuted from city.\" Laughter at some of the rhymes.] | Video Description: Medium closeup of Unknown_Reader1 performing. At the end of the piece, zoom into a closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "7c76cbb5-72d1-4fb3-a34e-4e818760c101"
+    },
+    {
+      "start_time": 153,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a rhymed piece beginning with the line \"There was a time when Jesus and (?) consumed wine.\"] | Video Description: Closeup of Unknown_Reader1 performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "6c386159-a914-4124-ad46-933d025d15af"
+    },
+    {
+      "start_time": 195,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a rhymed piece beginning with the line \"Aqua doesn't matter, we have a swamp anyhow.\"] | Video Description: Closeup of Unknown_Reader1 performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "f202beed-d23f-4877-a750-c3e52e575a1c"
+    },
+    {
+      "start_time": 210,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"(?) pocks lips of golden temper.\" Applause.] | Video Description: Closeup of Unknown_Reader1 performing. Camera zooms out and pans left, tracking the performer leaving the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "758b5591-a802-4e21-9d2f-17b58a03684b"
+    },
+    {
+      "start_time": 234,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks, (Larkey?). Alright, OK, third participant, Mitsiko, did you pick up card number 3? There's a series of three illustrations on everyone's table pertaining to our second feature performance tonight, Steve Godin's performance. If you bring that out with you and read it, it would be great. (?) Ok, good, Mitsiko. | Video Description: Medium long shot of the stage. Lee Gotham walks to the microphone. Gotham wears a long button-down shirt over a t-shirt and hair half-tucked into a Taqiyah-style skullcap. Camera zooms into a closeup. Gotham makes brief remarks and announces the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5672732e-4a47-4fb5-bb7e-a6fe00f7ccf5"
+    },
+    {
+      "start_time": 270,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds. Reads one of the three illustrations Gotham referred to, beginning with the line \"By use of archetypal shadow.\"] | Video Description: Closeup of mic being lowered. Camera zooms out and in a few times, settling into a closeup. Miller enters the stage chewing bubble gum, smoking, and holding a pile of papers. Miller wears a black leather jacket over a black-and-grey patterned button-down dress, pixie-cut blonde hair, a necklace and earrings. Miller throws away the gum as the camera zooms into an extreme closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "889810b6-0ea5-4341-bdfd-97e4e2b31880"
+    },
+    {
+      "start_time": 355,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a poem in French beginning with the line \"Click Clock.\"] | Video Description: Extreme closeup. Mitsiko reads a piece. Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "c7aadbfa-62ab-4c53-b457-ed069b0d0466"
+    },
+    {
+      "start_time": 453,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a bilingual English-French piece titled \"Silly pudding.\"] | Video Description: Extreme closeup. Miller reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "f9883e11-ef25-4613-8848-d257036474d2"
+    },
+    {
+      "start_time": 526,
+      "end_time": 529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Pauses the poem mid-performance to puff on a cigarette."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "dcfd233e-7489-4b17-af97-d9701058fe22"
+    },
+    {
+      "start_time": 529,
+      "end_time": 555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes the performance of \"Silly pudding.\"] | Video Description: Extreme closeup. Miller continues reading a piece. Applause, during which the camera zooms out to a closeup and we see the performer smoking a cigarette."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "73ead04d-9f76-46d9-b930-fd0ee875cf7c"
+    },
+    {
+      "start_time": 555,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks if everyone knows the song \"Creep\" by Radiohead. Performs \"The subway glare.\"] | Video Description: Closeup. Miller smokes and makes remarks, then removes the leather jacket. Reads a piece. Camera zooms out to a medium shot then into a medium closeup. Applause, as Miller leaves the stage and camera zooms out to a medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "83f106c2-0845-4c51-bf59-326f23b8f3c8"
+    },
+    {
+      "start_time": 785,
+      "end_time": 873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Mitsiko. Alright then, we're very near the second half of our feature performance for the evening. The second feature performer of the evening, Steve Godin. I'm just going to do a couple more plugs in a hurry here: Enough Said is going to co-present a couple things outside of the present venue; the nearest is on the 25th of March; it will take place at Building Dance, I believe it's 55 Pine Avenue East, just east of the Main, Pine Avenue; Wired on Words are presenting a new cassette of Ian Stephens's spoken-word readings; in the month thereafter, the 24th of April, Woodstock, the new and improved Clifford Duffy offering, \"Nietzsche's Daughter is Deceased and The Invention of God\" will be presented on that evening. In any case, give me two quick minutes to clear away this conventional microphone setup, and Steve Godin will let you know all about what you've been wondering about perhaps from the beginning of the evening, and I hope everyone will enjoy it thoroughly. | Video Description: Medium long shot as Lee Gotham enters the stage, then zoom into a closeup. Gotham makes remarks and, at the end, as he adjusts the microphone for the next performer, the camera zooms out to a medium shot and the recording skips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "d4e443e2-26ad-4660-a47a-df25703c0354"
+    },
+    {
+      "start_time": 873,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces an upcoming collective arts exhibit, featuring Nadia Jenefsky, Scott Ellis, among others.] | Video Description: Camera shakes and settles into a medium shot of Steve Godin sitting on a chair on the stage, holding a microphone. Godin wears dark pants, a black leather jacket and shoulder-length grey hair. As he waves to the camera, his papers fall on the floor. The camera then alternates between closeup and medium closeup. Godin makes remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "243be1c0-2e3e-4852-a4f6-b8068f175397"
+    },
+    {
+      "start_time": 963,
+      "end_time": 1385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads text beginning with the phrase, \"For some time I was pondering theoretically on a compromise revolving around the ritual existence of...\" The text refers to Antonin Artaud, William S. Burroughs, and Gerard de Nerval, among others. One minute into the reading, a distorted slow-moving instrumental music becomes audible in the background and gradually increases in volume.] | Video Description: Alternating medium closeup and closeup of Steve Godin seating, reading while holding the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "925d8d35-d89c-4c1c-9d32-7004bcf3ab94"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But where is the guide? [After the question, Godin sighs into the mic, observing a pause of about 20 seconds during which we hear the background music and ambient noises.] | Video Description: Camera zooms out to a medium shot, as Godin continues to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "846a511c-5445-4419-9782-206a1994fe81"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading with an increased reverb effect on the voice. The instrumental background music, now louder, approaches the volume of Godin's voice.] | Video Description: Alternating medium shot and closeup, as Godin continues to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "ed2cbe5c-d71f-489a-bbef-f8e962b415f3"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 2109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pauses. The background music also stops for a few seconds, before resuming, developing different looping patterns. Applause.] | Video Description: Alternating medium closeup, medium shot, and closeup, as Godin continues to perform. Camera zooms out to a medium long shot, as Godin stands up to leave the stage, amid applause, and hands the mic to Lee Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "0545985e-3c55-44e0-91fa-8d57c50faaa4"
+    },
+    {
+      "start_time": 2109,
+      "end_time": 2189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Godin and announces a break and reiterates upcoming events.] | Video Description: Medium long shot then medium closeup of Lee Gotham, standing while making announcements. Video skips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5619f9c2-89d9-41b5-ad34-00c8c591731d"
+    },
+    {
+      "start_time": 2189,
+      "end_time": 2240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces the next open-mic performer.] | Video Description: Medium closeup then medium shot of Lee Gotham, announcing the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1675641c-b908-40ba-ae34-8316f3692f38"
+    },
+    {
+      "start_time": 2240,
+      "end_time": 2328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a series of short pieces or poetic fragments; the first begins with the line \"Even on this day I give to you my most eloquent treasure.\"] | Video Description: Medium long shot as Unknown_Reader2 enters the stage. Unknown_Reader2 wears jeans, a beige fisherman sweater, a black necklace, and blond hair in a ponytail. Camera zooms into a closeup and medium closeup as Unknown_Reader2 reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "c3142925-fa35-4073-b0c0-f4c6d5f50610"
+    },
+    {
+      "start_time": 2328,
+      "end_time": 2345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause as Unknown_Reader2 starts to introduce the next piece. Reads the one-line piece \"Bachelor tourism.\" Applause.] | Video Description: Closeup of Unknown_Reader2 reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "ee00551f-0853-4ff2-9f35-ef6bc947564d"
+    },
+    {
+      "start_time": 2345,
+      "end_time": 2362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads a short poem beginning with the line \"The back of her head was shaped beautifully.\"] | Video Description: Closeup of Unknown_Reader2 reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "0f91667b-d113-47a0-8447-23daf5ff9ca4"
+    },
+    {
+      "start_time": 2362,
+      "end_time": 2373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a piece beginning with the phrase \"Sensation, elation, (incatenation?).\"] | Video Description: Closeup of Unknown_Reader2 reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "a9f0b157-83b2-414c-888e-5a73ac6ce866"
+    },
+    {
+      "start_time": 2373,
+      "end_time": 2405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads a piece beginning with the phrase \"(Blighting?) mystery with the light of day.\"] | Video Description: Closeup of Unknown_Reader2 reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "db090d53-0dc2-48cf-9abb-8a44854060de"
+    },
+    {
+      "start_time": 2405,
+      "end_time": 2496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"State of junk.\" Applause and laughter.] | Video Description: Video Description: Closeup of Unknown_Reader2 reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "85ccddca-dc5d-4a65-98ee-c51eb476805d"
+    },
+    {
+      "start_time": 2496,
+      "end_time": 2524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Kisses (?) truism: (a tone?) with the metaphysical frequency of ontological-biological experience.\"] | Video Description: Closeup of Unknown_Reader2 reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "1f1bf5f8-e115-4c1b-ae1a-a22cd91ee49b"
+    },
+    {
+      "start_time": 2524,
+      "end_time": 2545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"A Hangover.\" Applause.] | Video Description: Closeup of Unknown_Reader2 reading. Zoom out to a medium shot as Unknown_Reader2 leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader2"
+        }
+      ],
+      "uuid": "8c9087c4-ff05-48c3-838f-5425243c2860"
+    },
+    {
+      "start_time": 2545,
+      "end_time": 2580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks, (Guy?). (Kibble?), haven't used that word in ages; used to be one of my personal favourites. Well, you know, this is like a slim night for open mic, I don't know. [A voice near the camera---and hence louder than Gotham's---states, \"Ooo, bad (?)\"; and Lee seems to react to that with his next sentence.] Quality, not quantity. Speaking thereof, Justin, another Fluffy Pagan Echoes member, come on up and see us out of the evening, if you will, please. Justin McGrail. | Video Description: Medium shot as Lee Gotham enters the stage, applauding and smoking a cigarette. Gotham makes remarks and introduces the next performer. As Gotham leaves the stage, the camera zooms into an extreme closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2e5ca144-ed37-4bb3-bb17-88de6ee5e2f0"
+    },
+    {
+      "start_time": 2580,
+      "end_time": 2869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells a story about how the thistle became Scotland's national emblem. Laughter and applause.] | Video Description: Extreme closeup of Justin McGrail's left hand grabbing the mic; a silver ring on the pinky. Zoom out to a medium shot of McGrail on the stage. McGrail wears blue jeans, black belt, a brown plaid shirt over a long-sleeve black-and-white t-shirt, a greenish Breton cap facing backwards, and short hair. McGrail holds the mic while telling a story. Camera zooms in and alternates between medium and extreme closeups. As McGrail replaces the mic on its stand and leaves the stage, camera zooms out to a medium shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "e1460288-94ef-4de1-85e1-363326483af8"
+    },
+    {
+      "start_time": 2869,
+      "end_time": 2894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, my (?). Well, what a wondrous closure to yet another evening of Enough Said. Jee, you know, I have stuff to wave in your faces, remind you all of things upcoming. I (prod?) along about them earlier; next week, amazing performer, Adeena Karasick, honestly if you have the chance [video ends mid-sentence]. | Video Description: Camera zooms into a closeup as Lee Gotham adjusts the mic. Camera zooms out to a medium long shot as Gotham makes final remarks and we see a coffee cup and a lighter over a table before the recording cuts out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c2b9e952-18b2-49e9-beb9-9a5e6b821bfb"
+    },
+    {
+      "start_time": 2894,
+      "end_time": 2895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "80e40018-a76b-4d2e-a299-391f359fc982"
+    }
+  ],
   "event_id": "3aa3be91-4bfd-4a70-8685-dd13f72a5ef0",
   "set": "AV Description",
   "source_id": "17d0afd6-ffed-4551-9b39-6c2c244467d5"
