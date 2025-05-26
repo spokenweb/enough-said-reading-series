@@ -1,5 +1,1291 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "dff8c6d2-c9c4-48ad-9c4e-49d207c38049"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video of the stage with mic stand at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d936edc6-9927-4e2d-8244-023fd38a436c"
+    },
+    {
+      "start_time": 15,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads obituary for Manuel Betanzos Santos.] | Video Description: Medium shot zooms into closeup as Gotham speaks into the mic. Gotham wears a black-and-white knit sweater with geometric designs and sleeves rolled up to elbows and straight shoulder-length hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ed073e89-3a46-4432-b31b-9287617985b2"
+    },
+    {
+      "start_time": 145,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Apologizes for talking about the raffle so much. Encourages people to buy tickets because there are many prizes. Introduces Raymond Filip. Applause.] | Video Description: Closeup as Gotham speaks into the mic, takes white card from off-screen, and reads from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ca31db5a-29bc-4f75-b71a-a9a0ce805219"
+    },
+    {
+      "start_time": 257,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions he was just at Manuel's funeral. Reminisces about choking Devil's Disciples member Michael French in the sixth grade. Explains childhood in Pointe-St-Charles and Verdun. Introduces and performs a piece titled \"Flower Fights in the [?] Freight Yards\"  from the collection \"Flowers in Magnetic Fields\" (Guernica Editions, 1994.)] | Video Description: Varying between medium shots and closeups as Filip speaks into the mic. Medium shot as Filip performs a piece, ending on an extreme closeup. Filip wears a dark plaid sport coat over a brown button-down shirt, brown shaggy hair, mustache, and chin beard. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Raymond Filip"
+        }
+      ],
+      "uuid": "cd815169-0e4b-439b-a6c9-376ba25e0edb"
+    },
+    {
+      "start_time": 574,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the following performance, Raymond Filip uses an outdated term in reference to a cross-dressing man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb notes",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "07f520cd-5c68-4783-b272-e51690ef8d16"
+    },
+    {
+      "start_time": 574,
+      "end_time": 876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains more about growing up in Pointe-St-Charles. Introduces and performs piece called \"Transvestite at his Toilette.\" Applause.] | Video Description: Closeup zooms out to medium shot as Filip speaks into the mic and flips through the copy of \"Flowers in Magnetic Fields.\"  Medium shot as Filip performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Raymond Filip"
+        }
+      ],
+      "uuid": "c493e449-a071-431f-b2af-226652fae931"
+    },
+    {
+      "start_time": 876,
+      "end_time": 1315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that Lithuania is a long-suffering country that inspired his self-described \"oratorial\" about the story of God. Performs piece. Applause.] | Video Description: Medium shot as Filip speaks into mic and shows the audience large prints of the Hill of Crosses in Lithuania and other places in the country. Zooms into closeup as Filip performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Raymond Filip"
+        }
+      ],
+      "uuid": "6b278580-5c2c-472a-b3d4-02283035bbe5"
+    },
+    {
+      "start_time": 1315,
+      "end_time": 1657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Filip. Announces a break. Begins to announce next raffle draw.] | Video Description: Loose closeup zooms out to long shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f7c02a46-d8fa-4538-b8f1-84fc8ec1684f"
+    },
+    {
+      "start_time": 1657,
+      "end_time": 1725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Colin Christie and Corey Frost in media res performing a piece about suicide. Alternate between singing songs such as \"Crimson and Clover\" by Tommy James & The Shondells (Roulette, single, 1968), vocally imitating vehicles, and performing the piece. Play the children's clapping game \"Miss Mary Mack.\" Applause.] | Video Description: Long shot of Christie and Frost performing a piece without mics, singing, walking around the stage area, gesturing, and becoming different characters for an embodied and theatrical performance. Christie wears a light blue long-sleeved plaid shirt open over a black shirt, a necklace, and light brown hair. Frost wears a plaid vest over a medium blue plaid shirt, a necklace with a large gold ring, and long curly dark brown hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "09b7db41-aafa-4b5a-b51f-7b883d4146aa"
+    },
+    {
+      "start_time": 1725,
+      "end_time": 1869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces raffle draw. Thanks audience for coming out. Lists prizes, including one copy of Keith Henderson's \"The Beekeeper\" (DC Books, 1990), one copy of Raymond Filip's \"After the Fireworks\" (Guernica, 1989), [?] [Norris?] collection, and \"rocks between the dead (?).\" Announces Endre Farkas will perform next. Invites Farkas to the stage.] | Video Description: Long shot zooms into medium shot as Gotham speaks into mic. Reads titles from books. Zooms into loose closeup as Gotham introduces Endre Farkas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1d0ca06f-5eea-4ea4-8cd4-f35596fb774e"
+    },
+    {
+      "start_time": 1869,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces a collaborative performance with Suzanne Nuttall on March 27th, 1995 at Enough Said. Mentions that a reporter Juliet Waters of The Montreal Mirror called him a \"literary sperm salesman.\" Says he will defend himself by reading the letter he wrote to The Montreal Mirror. Reads letter beginning with the line \"Not only is Miss Waters ignorant in referring to the Muses [Farkas' publishing company, The Muses' Company] as 'literary sperm salesmen' but she is also a sexist [Sal?]\" Applause.] | Video Description: Loose closeup of Farkas speaking into the mic. Zooms into closeup as Farkas reads letter. Farkas wears a black, long-sleeved collared shirt and a dark moustache, and is balding on top of head. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "6ef1e257-542d-410e-abdb-d4d7a5cd4389"
+    },
+    {
+      "start_time": 2017,
+      "end_time": 2025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can I read my letter? | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "59efe78d-6613-4098-b2b0-dda424c05f94"
+    },
+    {
+      "start_time": 2025,
+      "end_time": 2027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addressing Nelson] Oh, you wanna do it now? | Video Description: Loose closeup as Farkas speaks to Nelson."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "c7b952b6-468c-495a-b343-6e0cc9ef211a"
+    },
+    {
+      "start_time": 2027,
+      "end_time": 2041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces she will deliver her letter to The Montreal Mirror. | Video Description: Loose closeup as Nelson adjusts mic and speaks into it. Nelson wears a dark brown vest a top a floral print collared shirt a top a white shirt, thin silver chain, medium brown hair in a loose ponytail. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "8a426df8-a9bd-4dc2-85cf-b1b16114bac8"
+    },
+    {
+      "start_time": 2041,
+      "end_time": 2043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addressing Nelson] Why is this happening now? | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member3"
+        }
+      ],
+      "uuid": "a731ce5b-c0e2-43db-add3-25371721b7e5"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addressing Audience_Member3] I don't know, because Endre started it. | Video Description: Loose closeup as Nelson speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "968267f1-d91e-4617-afe3-30cdf17a0f77"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addressing Nelson] This isn't The Mirror's [evening?] | Video Description: Off-screen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member3"
+        }
+      ],
+      "uuid": "118702e1-6a1f-44e7-af9a-063878e0448e"
+    },
+    {
+      "start_time": 2048,
+      "end_time": 2051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addressing Audience_Member3] Um, it is in a way. | Video Description: Closeup zooms inot extreme closeup as Nelson speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "4e4e0ef5-54fa-4e97-8c74-f30e07ae2279"
+    },
+    {
+      "start_time": 2051,
+      "end_time": 2054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the notice was specifically about this evening. | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6edb280f-1829-46ef-9687-ae10c3b0c7f5"
+    },
+    {
+      "start_time": 2054,
+      "end_time": 2183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads letter to The Montreal Mirror beginning with the line \"Juliette Waters described participants in the February 13th En Marge benefit at Bistro Quatre as 'literary sperm salesmen.'\" Applause.] | Loose closeup zooms into closeup as Nelson speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "39857fac-eb46-412d-a6de-21525923b08a"
+    },
+    {
+      "start_time": 2183,
+      "end_time": 2293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions he will read love poetry. Performs a piece titled \"Wandering Gypsy\" from his collection \"Szerbusz\" (DaVinci Press, 1974). Applause.] | Video Description: Loose closeup as Farkas speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "76aa7f3f-1c02-4cb5-861b-138e564a59a6"
+    },
+    {
+      "start_time": 2293,
+      "end_time": 2518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"A Vegetarian Ear Eater\" dedicated to professional wrestler Killer Kowalski. Applause.] | Video Description: Medium shot as Farkas speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "88fee27d-edc8-4cac-a2bb-92a6312762a7"
+    },
+    {
+      "start_time": 2518,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs prose poem from his collection From Here to Here (The Muses' Company, 1982) beginning with the line \"To get there, you take all sorts of roads.\" Applause] | Video Description: Medium shot as Farkas speaks into the mic. Zooms into loose closeup as Farkas performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "d6d8c591-1659-47cd-a6c4-6d1391f57976"
+    },
+    {
+      "start_time": 2750,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece for his daughter Katherine titled \"Why I Didn't Write You a Poem on Your Birthday.\" Applause.] | Video Description: Loose closeup as Farkas speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "f26145f9-a96c-423d-a223-3e1a556120cd"
+    },
+    {
+      "start_time": 2849,
+      "end_time": 3086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a parody of Ginsberg's \"Sunflower Sutra\" called \"Maple Leaf Rag.\" Applause.] | Video Description: Loose closeup as Farkas speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "b17a6db2-a13e-40af-ac39-a3c60ec2dfeb"
+    },
+    {
+      "start_time": 3086,
+      "end_time": 3256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled Heirloom dedicated to A.M. Klein from new collection titled Surviving Words (The Muses' Company, 1994). Applause.] | Video Description: Loose closeup as Farkas speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "d8fad130-3245-4f39-9287-4521a9d0bdf8"
+    },
+    {
+      "start_time": 3256,
+      "end_time": 3308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham introducing Steve Luxton.] | Video Description: Loose closeup zooms into closeup as Gotham speaks into mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f647fe27-8c15-4452-9f61-b27fa654209b"
+    },
+    {
+      "start_time": 3308,
+      "end_time": 3379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Hermit Crab Song.\" Applause.] | Video Description: Loose closeup zooms out to medium shot as Luxton speaks into mic and performs a piece. Luxton wears a red button-down shirt, round metal-rimmed glasses, wavy blonde ear-length hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Luxton"
+        }
+      ],
+      "uuid": "987505f5-f810-466b-a333-694d81220cbe"
+    },
+    {
+      "start_time": 3379,
+      "end_time": 3512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Bedouin Song.\"] | Video Description: Loose closeup as Luxton speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Luxton"
+        }
+      ],
+      "uuid": "9b16fae2-f2f8-41ee-a6db-5d6deadb7f1b"
+    },
+    {
+      "start_time": 3512,
+      "end_time": 3611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"[Joining?] on de Bullion Street.\" Applause.] | Video Description: Loose closeup as Luxton speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Luxton"
+        }
+      ],
+      "uuid": "5d946000-ce91-434e-ab51-51be7ed654d5"
+    },
+    {
+      "start_time": 3611,
+      "end_time": 3742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions he went to an American school for writing under the \"founding confessionalist poet\" W.D. Snodgrass. Performs a piece beginning with the line \"The writer is middle age.\" Applause.] | Video Description: Closeup zooms out to medium shot as Luxton speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Luxton"
+        }
+      ],
+      "uuid": "4ffb63a0-669f-41ce-b5bb-dc7e0d91b82d"
+    },
+    {
+      "start_time": 3742,
+      "end_time": 3952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Sweeney Todd.\" Applause.] | Video Description: Medium shot zooms into loose closeup as Luxton speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Luxton"
+        }
+      ],
+      "uuid": "fe646e79-cf95-4a20-8d1a-71c8a1764726"
+    },
+    {
+      "start_time": 3952,
+      "end_time": 4021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces there will be two more raffle draws and two more door prize draws. Introduces Sharon H. Nelson to the stage. Applause.] | Video Description: Medium long shot of Gotham speaking into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "dc4ca43b-b4bf-4727-ac09-cc1354a03eb6"
+    },
+    {
+      "start_time": 4021,
+      "end_time": 4215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Gotham. Introduces and performs piece titled \"How to Read a Poem\" from her collection \"A Room of One's Own\" (unable to find this collection online.) Applause] | Video Description: Medium shot zooms into closeup as Nelson speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "6c82b60b-7b19-4d37-9bb1-89f68f9025c1"
+    },
+    {
+      "start_time": 4215,
+      "end_time": 4716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Sometimes I Think of You\" about Montreal artist Seymour Segal, who designed the covers for Nelson's collections The Work of Our Hands (The Muses' Company, 1992) and Grasping Men's Metaphors (The Muses' Company, 1993). Applause.] | Closeup as Nelson speaks into the mic, shows the audience two books, and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "4f5429c9-085b-4483-976b-e8eee243ccf5"
+    },
+    {
+      "start_time": 4716,
+      "end_time": 4720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Seems to ask Gotham how long she has left to read.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "8c22f0e7-b11b-4bb1-80f9-63a5853d201d"
+    },
+    {
+      "start_time": 4720,
+      "end_time": 4727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says Nelson should do one more.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "04fc6c5f-148a-46e8-8a9f-72b07b3bee0f"
+    },
+    {
+      "start_time": 4727,
+      "end_time": 5183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece inspired by \"Last Dance at the Four Penny\" by Leonard Cohen titled \"Freylekh\" from her collection Grasping Men's Metaphors (The Muses' Company, 1993). Applause.] | Video Description: Closeup as Nelson speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sharon H. Nelson"
+        }
+      ],
+      "uuid": "e69e5046-fb14-4ca3-a7c4-9fbcdefd9d35"
+    },
+    {
+      "start_time": 5183,
+      "end_time": 5267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Nelson. Invites Ian Ferrier to the stage.] | Video Description: Medium closeup zooms out to medium long shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "3fc3d997-37d4-43f4-bcae-fa8b645e0f69"
+    },
+    {
+      "start_time": 5267,
+      "end_time": 5496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"St. Valentine's Day Massacre.\" Laughter throughout. Applause.] Video Description: Medium shot zooms into closeup as Ferrier adjusts the mic, speaks into the mic, and performs a piece. Ferrier wears an unzipped black winter jacket over a black graphic t-shirt with a white logo, dark brown hair with a strip shaved out of it from above left eye to crown of head. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian Ferrier"
+        }
+      ],
+      "uuid": "c979c629-1637-495c-9b0d-a724a5a6b054"
+    },
+    {
+      "start_time": 5496,
+      "end_time": 5583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"The Theatre of Three AM.\" Applause.] | Video Description: Closeup as Ian Ferrier speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian Ferrier"
+        }
+      ],
+      "uuid": "2a34fe17-3708-4a81-8a9c-1037dbbeb98b"
+    },
+    {
+      "start_time": 5583,
+      "end_time": 5740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Politician.\" Laughter throughout. Applause.] | Video Description: Closeup as Ian Ferrier speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian Ferrier"
+        }
+      ],
+      "uuid": "26cfe5f6-6ae7-4333-9c24-87475c94ab58"
+    },
+    {
+      "start_time": 5740,
+      "end_time": 5755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient noise, applause.] | Closeup zooms out to a long shot of the lone mic on the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "aa343a04-113d-481f-84a0-c32a6b97896e"
+    },
+    {
+      "start_time": 5755,
+      "end_time": 5885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces the last two raffle draws. Lists prizes, including one copy of Gary Geddes' Light of Burning Towers (Signal Editions, [Vehicule Press],1990), one copy of Raymond Filip's After the Fireworks, one copy of Moosehead Anthology, and one copy of Keith Henderson's \"The Beekeeper.\" Announces winning number. Gives winner prizes.] | Video Description: Medium shot as Gotham speaks into mic, reads number off of piece of paper, and gives raffle winner a stack of books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2f68f10f-8831-480b-b1a4-423a1e76fbcf"
+    },
+    {
+      "start_time": 5885,
+      "end_time": 5972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Lists prizes, including one tape of ga press poetry performances and one copy of issue one and one copy of issue two of Pawn Press's literary/cultural journal. Announces winning number. Gives winner prizes.] | Video Description: Medium shot as Gotham speaks into the mic while holding a casette and two thin volumes, reads number off of piece of paper, and gives raffle winner prizes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2ecf4ca6-964a-4538-89f1-4eab8a81b9a6"
+    },
+    {
+      "start_time": 5972,
+      "end_time": 6005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces Sonja Skarstedt. Mentions that she is the editor of Empyreal Press. Applause throughout.] | Video Description: Medium shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c2017214-f26d-4def-84dc-e5bf78502ce3"
+    },
+    {
+      "start_time": 6005,
+      "end_time": 6008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you introduce Sonja first, please? She has waited so long. | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "64d94939-0cf6-487d-a7dc-2426fa87fac0"
+    },
+    {
+      "start_time": 6008,
+      "end_time": 6021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces Skarstedt again. Invites her to the stage.] | Video Description: Medium shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "b16881a7-fb5d-4a00-840a-5d58c38f5709"
+    },
+    {
+      "start_time": 6021,
+      "end_time": 6022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a damn fine poet in her own right. | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "f1b8da6c-be73-430e-a917-738adb4a69db"
+    },
+    {
+      "start_time": 6022,
+      "end_time": 6046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Echoes Unknown_Audience1. Notes that first edition of Empyreal's existence will be read from.] | Video Description: Loose closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "937b4179-1854-492b-99f5-58a935dcb78e"
+    },
+    {
+      "start_time": 6046,
+      "end_time": 6200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs ekphrastic piece titled \"Blue Teardrop\" written about a painting by a seven-year-old girl.] | Video Description: Medium shot zooms into medium closeup as Skarstedt speaks into the mic. Skarstedt wears a purple sweater, striped scarf in various shades of purple, light brown shoulder length hair tucked behind ears, and long hanging earrings. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "7eeb1387-3dbe-439a-a916-ae08b4c2ec94"
+    },
+    {
+      "start_time": 6200,
+      "end_time": 6395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs titular piece from second manuscript titled Demolition Symphony (Empyreal Press, 1995). Applause.] | Video Description: Medium closeup as Skarstedt speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "7a9a977c-a797-47b2-9631-a03dbbdc8fc3"
+    },
+    {
+      "start_time": 6395,
+      "end_time": 6535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"voyeuristic\" piece titled \"Rue de l'Esplanade: Voyeurs.\" | Video Description: Medium closeup as Skarstedt speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "966e2f23-19b3-4da0-a8be-a6e3cf916cad"
+    },
+    {
+      "start_time": 6535,
+      "end_time": 6537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Am I running out of time? | Video Description: Medium closeup as Skarstedt speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "d37bd2e3-4427-4636-9165-c4cfd37ea7b7"
+    },
+    {
+      "start_time": 6537,
+      "end_time": 6545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do another! [Applause.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6dc66e99-8711-47e8-ac73-f661604a6398"
+    },
+    {
+      "start_time": 6545,
+      "end_time": 6777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a \"typical Montreal poem\" about the Montreal International Jazz Festival titled \"Street Fest in the Key of J.\" Applause.] | Video Description: Medium closeup as s introduces a piece. Zooms into closeup as Skarstedt performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "82803fb4-254c-405f-9bab-3aac945d8329"
+    },
+    {
+      "start_time": 6777,
+      "end_time": 6842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Skarstedt. Announces Skarstedt will perform with Lynn Suderman next month. Thanks performers and audience for attending.] | Video Description: Medium closeup as Gotham runs left hand through hair and speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "dd71e2af-436d-40fe-941b-1a1821b61077"
+    },
+    {
+      "start_time": 6842,
+      "end_time": 6848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Zooms out to show audience putting on jackets and talking to each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e74a88e7-de4a-4dda-a8e3-8e5078fc26e2"
+    },
+    {
+      "start_time": 6848,
+      "end_time": 6855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "b6fb8014-f2d8-4760-a756-b3bbb0c90a91"
+    },
+    {
+      "start_time": 6855,
+      "end_time": 6856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "b64f5668-fcc6-4a1e-ae1a-20397f36d54d"
+    }
+  ],
   "event_id": "39a25d9c-c675-4298-92a9-6b7b6ff92602",
   "set": "AV Description",
   "source_id": "1f2fd9cb-e887-4543-b39a-38e3875835e9"
