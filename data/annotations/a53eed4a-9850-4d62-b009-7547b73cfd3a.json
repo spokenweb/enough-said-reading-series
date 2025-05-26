@@ -1,5 +1,879 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, medium closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. On the windows, the words \"enough said.\" When the camera zooms out, other decals become visible, with words from the menu such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "481b2de2-6408-4bc9-b997-b3f317b1bbd0"
+    },
+    {
+      "start_time": 11,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(?) Twenty-seventh of February, the last edition of Enough Said for the second month of the year. Nothing auspicious in that, but in the performers being presented this evening I have nothing but unbounded enthusiasm and pleasure in presenting both our lead-off readers, Sonja Skarstedt, the author of Mythographies (Empyreal Press, 1990), a volume of her poetry put out [Gotham hiccups] not only through sheer will and talent and ingenuity on her own small press Empyreal, but this evening reading to us from a collection of short stories in the works---and we will all anticipate that publication in the nearest possible futures. Sonja will lead off, as I say. We have a second feature performer in Lynn Suderman, whom I will describe, I hope, with some articulation, a little bit later. But, as we will have the open-mic segment most likely deferred to the end of the evening, perhaps one segment in-between the two performers if that list grows any longer. Yeah, I'll just encourage everybody to get themselves comfortable and keep themselves refreshed. A little bit out of every coffee and beer sold goes to keeping this little series running. And... jee!... enjoy the evening's offerings. Sonja Skarstedt, can you kick us off please? | Video Description: Extreme closeup of Lee Gotham on stage, then zoom out, with the camera alternating between a medium shot and various degrees of closeup. Gotham wears a black turtleneck, stud earrings on the left lobe, hair tied under a black skullcap with a folded visor, and a beard. Gotham makes introductory remarks, often scratching his right eye. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "807a1112-87db-410d-9cfb-9a6133579a2d"
+    },
+    {
+      "start_time": 123,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tests mic, thanks Gotham, and reads the short story \"Heaven and Hell\" (later published as part of the play \"Saint Francis of Esplanade,\" Empyreal Press, 2001).] | Video Description: Medium closeup, then zoom in and out, oscillating between extreme closeup and medium shot. Lee Gotham adjusts the mic as Sonja Skarstedt walks onto the stage. She has blond hair with a mullet haircut, dangle earrings, sweater with an eight-point-star pattern. Skarstedt reads from a manuscript."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "f713df73-e523-4c04-820b-c33341f81141"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Exclaims \"Poor Lord!\" and the audience laughs.] | Video Description: Medium closeup. Sonja Skarstedt reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "c658a2e8-dfb6-4143-a386-7fd587080b43"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes reading of \"Heaven and Hell\" after audience laughter. Applause.] | Video Description: Alternating medium closeup and closeup. Skarstedt continues reading. At the end, walks off stage amid applause as the camera zooms out to a medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sonja Skarstedt"
+        }
+      ],
+      "uuid": "6e931018-5260-4ac9-95d9-89425c363887"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "bc8691df-070c-4ba8-b9a5-f4f3639ff215"
+    },
+    {
+      "start_time": 2125,
+      "end_time": 2154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What can we say? One of the first women of spoken-word in Montreal, Lynn Suderman is going to regale us with the part two of an ongoing saga of spoken word... we won't say madness, well, I guess we said it---spoken word with a vengeance. Please welcome to the microphone Lynn Suderman. [Applause.] | Video Description: Extreme closeup then medium closeup of Lee Gotham introducing the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "654c3ca6-84ab-4845-ab10-f5c38d93c925"
+    },
+    {
+      "start_time": 2154,
+      "end_time": 2255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My friend Mary brought me a Bible for this [Laughter]. [Tells a story about her first tattoo and people asking the same two questions about it: does it hurt, and is it permanent? Then presents these questions as a motto for our times, applicable to government budgets, haircuts, and wakes.] So, this is my wake, for February and for the fact that I quit smoking and February is the worst month to quit smoking and I'm not doing very well. | Video Description: Medium shot as Lee Gotham leaves and Lynn Suderman walks onto the stage. Suderman wears a black long-sleeved blouse and short black hair tucked behind ears. Suderman drinks from a glass and holds a Bible and a pack of pages. After setting the glass down, tells a story, brandishes the Bible and settles it down to read."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "584f619e-0079-441e-867f-75bc9ea2ef54"
+    },
+    {
+      "start_time": 2255,
+      "end_time": 2690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Wake up,\" beginning with the line, \"I went on a long drive one summer's day.\" Occasional unscripted interruptions to interact with the audience. Frequent bursts of laughter.] | Video Description: Alternating closeup and medium closeup. Lynn Suderman reads and interacts with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "203ab417-608a-4882-aa0e-b9848f6663bd"
+    },
+    {
+      "start_time": 2690,
+      "end_time": 2726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interrupts the reading to ask her friend Mary to help search for a Bible passage. Starts reciting from memory when Mary finds the passage] | Video Description: Closeup then medium closeup of Lynn Suderman on stage. Suderman interrupts the reading and walks to the audience to ask her friend to search for a Bible passage.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "800037fb-5478-451a-86f8-4380ecdd9622"
+    },
+    {
+      "start_time": 2726,
+      "end_time": 2786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing \"Wake Up.\" Friend hands her the bible. Suderman reads from the bible and her pages. Makes one more unscripted interruption, causing a burst of laughter among the audience. Applause] | Video Description: Alternating medium and extreme closeups. Lynn Suderman reads. Zoom out to a medium shot as Suderman leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lynn Suderman"
+        }
+      ],
+      "uuid": "5ce8c785-114a-46e9-9be3-e31f45e19c19"
+    },
+    {
+      "start_time": 2786,
+      "end_time": 2860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. Excellent? (?) Jeez, I almost feel like short shrift, no encores I guess, right? No... Lynn Suderman, readily available on... [Laughter] cassette tape as part of the Wired on Words recording series, radiating from the depths of CKUT [FM radio] and through the joint efforts of many of the participants of this series. Also part of the Oralpalooza (ga press, c1994) chapbook collection of performances this past summer on the Word Up stage during that festival. Wow, what can I say? We're gonna take just the shortest of breaks once again, and then we're going to give our nine open-mic participants their hour or so in the sun... in the halogen sunlight of Bistro 4. Please make yourselves comfortable, refresh yourselves, and we'll be back very shortly. Thanks once again [applause]. | Video Description: Medium shot of Lee Gotham entering the stage, clapping and smoking. Zoom into an extreme closeup then out to a closeup as Gotham makes remarks and announces a break."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "267c4db6-ef9e-4897-b558-1e37c52c8b59"
+    },
+    {
+      "start_time": 2856,
+      "end_time": 2860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following performance contains sexual content, descriptions of alcohol abuse, and descriptions of sexual abuse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb notes",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e2120a12-0a88-41fb-993c-da3c85750706"
+    },
+    {
+      "start_time": 2860,
+      "end_time": 3343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to off-stage voice, probably from a recording, reciting a piece beginning with the line, \"My mother was banging pots in the kitchen.\" Applause.] | Video Description: Cuts to medium shot of lone mic, with the performer audible but off-camera during the whole piece. Mid-performance, a person passes a few times times in front of the camera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "b766610d-5f4d-453d-8fc6-1850a361d220"
+    },
+    {
+      "start_time": 3343,
+      "end_time": 3387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow, thank you very much, Ingrid, for overcoming all technical difficulties. This was an exception. I don't want to encourage anyone else who may merely be faint of heart to bring a new (recording?) but I think that was well worth a listen. Ok, next on the roster, Justin McGrail, can you make your way up, please? Justin, one of the good contingent of Fluffy Pagan People here this evening. Go to it, my friend.] | Video Description: Medium shot of Lee Gotham entering the stage applauding. Zoom into an extreme closeup. Gotham makes remarks and introduces the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "50e281da-ec51-4197-be83-3a45ab54f233"
+    },
+    {
+      "start_time": 3387,
+      "end_time": 3702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces a show on Wednesday at Phoenix Cafe with Lee Gotham as the headliner. Performs \"Leave a forwarding address.\" Applause.] | Video Description: Medium shot of Lee Gotham adjusting the mic. Justin McGrail enters the stage. Short black hair, very short goatee and moustache, plaid brown-and-red shirt with rolled-up sleeves, bracelets and wrist watch. Performs a piece from memory, gesticulating."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Justin McGrail"
+        }
+      ],
+      "uuid": "4492febb-cc93-4dc0-a873-70b476c8b53d"
+    },
+    {
+      "start_time": 3702,
+      "end_time": 3755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Justin McGrail.] | Video Description: Medium shot of Lee Gotham entering the stage. Zoom into an extreme closeup then out to a medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "a936c3e5-ffb2-42ff-a29e-c29e371b680e"
+    },
+    {
+      "start_time": 3723,
+      "end_time": 3729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Five minutes of this video have been removed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e0adf60a-5de0-4698-b4f8-be8b91f2335d"
+    },
+    {
+      "start_time": 3729,
+      "end_time": 3748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces the next open-mic performer, Sandra Jeppesen.] | Video Description: Zoom into an extreme closeup as Gotham adjusts the mic and announces the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "b4bb31c7-eb23-4311-a22d-6c1d545aa04a"
+    },
+    {
+      "start_time": 3748,
+      "end_time": 4024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Shares \"an insecurity\"---her \"ugly boots\"---explaining that it doesn't snow in Toronto as it does in Montreal. Reads the short story \"Bohunk.\" Applause.] | Video Description: Extreme closeup as Sandra Jeppesen enters the stage. Long blond hair, glasses, black sweater over a white shirt. Medium and extreme closeups as Jeppesen reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sandra Jeppesen"
+        }
+      ],
+      "uuid": "7350a92b-c5c2-4a7f-8546-ccd6ef2e4069"
+    },
+    {
+      "start_time": 4024,
+      "end_time": 4065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Remarks on the time constraints of the open-mic and announces the next performer.] | Video Description: Extreme closeup as Lee Gotham enters the stage, adjusts the mic, and announces the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "cf7cf7bd-03b7-4c48-98fe-0f158cf38f5a"
+    },
+    {
+      "start_time": 4065,
+      "end_time": 4171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains he is back from London, Ontario, and displays a magazine he edits (One X?), saying there are enough copies for all to buy, $1 only. Reads \"Going going gone.\" Scattered laughter at the end.] | Video Description: Medium shot as Stephen Edgar enters the stage. Short light hair, round thin glasses, dangle earring on the right lobe and stud on the left; black pants, long unbuttoned button-down brown shirt over a white shirt and ochre V-neck sweater. Medium closeup as Edgar holds a magazine for the audience to see. He briefly leaves the stage to set the magazines down then returns to read; the camera zooms out to a medium shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stephen Edgar"
+        }
+      ],
+      "uuid": "79563da3-343e-4ee6-afe0-758bb0c540bf"
+    },
+    {
+      "start_time": 4171,
+      "end_time": 4195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Please don't honk your horn, please.\"] | Video Description: Medium shot as Stephen Edgar reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stephen Edgar"
+        }
+      ],
+      "uuid": "aa0a43ff-1b99-42f4-9414-e60d9495ed4f"
+    },
+    {
+      "start_time": 4195,
+      "end_time": 4450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Sex Ed, 16/27, 1995,\" dedicating it to his little brother. Frequent audience laughter. Applause.] | Video Description: Medium shot as Stephen Edgar reads, placing his left hand inside his pants pocket."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stephen Edgar"
+        }
+      ],
+      "uuid": "1a80d966-2e3f-48b2-a0d7-0d8a1f6cfc44"
+    },
+    {
+      "start_time": 4450,
+      "end_time": 4481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[States he can make out only part of the name of the next open-mic performer and announces (Jacob Landesman?), unsure of how to pronounce it.] | Video Description: Medium shot as Lee Gotham enters the stage holding a cigarette, adjusts the mic and announces the next performer, straining to read their name on the board."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "33c8e30a-a008-4645-bb5a-9a61fc8e73d4"
+    },
+    {
+      "start_time": 4481,
+      "end_time": 4940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains this is their first time performing in an open-mic. Reads a piece beginning with the line \"Sophia descends the white-cotton corridor,\" after dedicating it to \"Lisa, my saving grace.\" Applause] | Video Description: Extreme closeup as Landesman enters the stage and tests the mic. Red bandana and grey long-sleeve shirt with the sleeves rolled up. Various degrees of closeup as the performer recites, mostly from memory, with eyes closed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jacob Landesman"
+        }
+      ],
+      "uuid": "0f6759dd-5edc-4711-9ee7-566a1c77c4a1"
+    },
+    {
+      "start_time": 4940,
+      "end_time": 4957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Jacob and announces the next open-mic performer, Mark.] | Video Description: Medium shot as Lee Gotham enters the stage holding a glass and a cigarette. Adjusts the mic and announces the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "416b64f2-bc8b-44dd-8640-a8742acc7a1e"
+    },
+    {
+      "start_time": 4957,
+      "end_time": 5442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"The flycatcher,\" with an epigraph by Robert Frost. Applause.] | Video Description: Zoom out to a medium shot as Mark enters the stage. Shoulder-length black wavy hair, white t-shirt with a round grey maze. Various degrees of closeup as Mark reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mark"
+        }
+      ],
+      "uuid": "090c0fe9-a038-4dca-94cc-bca3de00e012"
+    },
+    {
+      "start_time": 5442,
+      "end_time": 5448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds, voices, applause.] | Video Description: Medium shot of the lone mic as Mitsiko Miller crosses the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        },
+        {
+          "category": "Setting and Tech",
+          "tag": "Bistro 4 stage"
+        }
+      ],
+      "uuid": "1fca97bf-f70a-465c-a991-d1cb1cc0b6fd"
+    },
+    {
+      "start_time": 5448,
+      "end_time": 5450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d0f8de44-af17-4344-935b-844d979d9911"
+    },
+    {
+      "start_time": 5450,
+      "end_time": 5494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces the next open-mic performer, (Juliane?). A voice near the camera, likely the videographer, asks Gotham to reposition the mic cable so it doesn't stand in the way of the recording.] | Video Description: Medium shot of Lee Gotham at the stage. Fast zoom into an extreme closeup as he announces the next performer. Gotham walks towards the camera to talk to the videographer, then repositions the mic cable and leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "d4408046-d890-4269-8b96-d3932613c0bc"
+    },
+    {
+      "start_time": 5494,
+      "end_time": 5783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Read \"Who's in charge\". Applause.] | Video Description: Medium shot. Two readers enter the stage holding loose pieces of paper. Unknown_Reader3 has neck-length light hair and black sweater with white details around the collar and a small pendant. Unknown_Reader4 has short light hair, a black long-sleeve blouse, and two pendants. Alternating medium shot and medium closeup as the duo reads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader3"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader4"
+        }
+      ],
+      "uuid": "38167680-08ce-45c9-9adb-b768230d570e"
+    },
+    {
+      "start_time": 5783,
+      "end_time": 5796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds, voices, applause.] | Video Description: Medium shot of the lone mic as Mitsiko Miller crosses the stage one more time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        },
+        {
+          "category": "Setting and Tech",
+          "tag": "Bistro 4 stage"
+        }
+      ],
+      "uuid": "e3efb348-4abb-4e1a-8ae1-157fb0b5ea32"
+    },
+    {
+      "start_time": 5796,
+      "end_time": 5801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Three minutes of this video have been removed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "321bc177-5daa-4696-a782-ab42ddd4eb6e"
+    },
+    {
+      "start_time": 5801,
+      "end_time": 5816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Gotham announces the last performer of the evening, Mitsiko Miller.] | Video Description: Medium shot of Lee Gotham entering the stage smoking and clapping. Gotham adjusts the mic and announces the last performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "3527d6f9-69ac-46fb-8e99-e33d644f0422"
+    },
+    {
+      "start_time": 5816,
+      "end_time": 5903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks if everybody understands French. Applause. Reads \"Christ existe (en?) ciel,\" opening with the line \"Passe simple, passe compose.\" Applause.] | Video Description: Medium shot then extreme closeup as Mitsiko Miller enters the stage. Short blond hair, hoop and stud earrings, leather jacket. Extreme closeup as Miller performs while chewing gum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "68e17b9f-0cc2-4600-aef4-6450791c8425"
+    },
+    {
+      "start_time": 5903,
+      "end_time": 6024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[States she is Francophone and that her English is very slangy. Explains she does not call her pieces \"poems.\" Reads \"Why because,\" opening with the line \"Can you feel it?\" Applause.] | Video Description: Closeup of Mitsiko Miller performing, still chewing gum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "b00a94d6-8b5b-4db0-a496-989da6ad9423"
+    },
+    {
+      "start_time": 6024,
+      "end_time": 6029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait, let me get rid of this. [Laughter.] | Video Description: Closeup of Mitsiko Miller, interrupting the reading to throw away her bubble gum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "d0fd8a63-e345-490a-bf9f-538028d3fdb6"
+    },
+    {
+      "start_time": 6029,
+      "end_time": 6067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes the reading of \"Why because.\" Applause.] | Video Description: Closeup of Mitsiko Miller performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "e123e29d-ba3b-4cb0-a50b-e105fe8735b7"
+    },
+    {
+      "start_time": 6067,
+      "end_time": 6148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Miller. Displaying (One X?), the magazine Stephen Edgar edits, and Pawn, edited by Gotham. Announces upcoming events featuring Steve Godin and Adeena Karasick.] | Video Description: Medium closeup of Lee Gotham. Enters the stage smoking then makes final remarks. A the end, zoom out to a medium shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f1748668-6cf9-46d5-a83c-7c37d0fecfc1"
+    },
+    {
+      "start_time": 6148,
+      "end_time": 6149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c6059103-4407-4fe7-aea7-038af34b445f"
+    }
+  ],
   "event_id": "91e308bf-56e1-4dce-84e6-273277b59774",
   "set": "AV Description",
   "source_id": "cfadc33d-eef9-49ae-942d-d92230167c28"
