@@ -1,5 +1,951 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d3d2700e-2fbf-4dbc-8549-e09f8ec5bdcd"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, medium closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall sliding window looking out onto the St. Laurent Blvd. traffic---with pedestrians and vehicles regularly passing by. The venue windows are wide open, which impacts the audio quality. The windows from across the street (4067 St. Laurent) are also visible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "7ccdb1db-1d88-4893-a02d-cebbfd5702fb"
+    },
+    {
+      "start_time": 16,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sound. Audio muffled at first] Well, nice to see so many new faces among the old, and everyone else here on The Main, a beautiful... is it Monday?, it's always Monday isn't it?, it's a silly question, Monday night, thanks for coming out. It's almost like a last instalment of Enough Said, I suppose, although it's really something distinct. It's an independent production, it's a special presentation, it's my way of returning the favour that our Toronto cousins, Jill Battson and company, did us a week and a half ago, by hosting a number of us Montreal washed, unwashed, bright poets. This evening we're presenting \"It Came from the 401,\" or at least (what is?) the 401, somewhere in the midst of it. | Video Description: Medium closeup of Gotham making introductory remarks on stage. Gotham wears a grey t-shirt, stud earring (perhaps two earrings) on the left lobe, sunglasses used as a headband, and long hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "a4594c55-b7d1-4fbc-beb3-4423fd12602a"
+    },
+    {
+      "start_time": 75,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jill Battson, Nancy Dembowski, Stan Rogal, and Mike O'Connor will be joining us. A number of canine, feline friends are probably dropping from time to time as well. [Laughter]. | Video Description: Medium closeup of Lee Gotham continuing with introductory remarks. The ears of a dog or cat become visible over Gotham's right shoulder, through the window, causing audience laughter until Gotham turns back to acknowledge the animal's presence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "29ea1157-5c4c-4191-8708-0fe675ec6a24"
+    },
+    {
+      "start_time": 88,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we are all going to have a hell of a time here, so please just sit back, order your drinks as you see fit, you know, poets are not the highly sensitive types they are made out to be. It means the vending is doing better, the series is going longer, anything like it, well, I think they'll understand the clinking of glasses, requisite in wetting your whistles. | Video Description: Medium closeup of Lee Gotham continuing with introductory remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "80669760-a0dc-4048-8f55-370fd1cf6037"
+    },
+    {
+      "start_time": 113,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In any case, without too much further ado, I'd like to introduce you to a woman who for many of you won't require introduction, but I'll give it to you in any case. Jill Battson is the program coordinator for The Poets' Refuge reading series and has produced the Word Up video series for MuchMusic, (bravo?), and co-produced the CD for Virgin Records (Virgin/EMI Music Canada, 1995). Jill's poetry is published in Playing in the Asphalt Garden, Insomniac Press (1994). She has produced The Poetry Express, a poet's and playwright's reading series at Fringe Festival of Toronto, Wordapalooza, the spoken-word stage for the Toronto portion of the North American Lolapalooza tour, and the first festival of the spoken word. Jill's now working on going from high priestess to poetry goddess status in 1995. Please welcome the first one reading this evening, Jill Battson. [Applause.] | Video Description: Medium closeup of Lee Gotham introducing the first reader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "41188985-d9cc-42dc-ad07-06039fa4ac6e"
+    },
+    {
+      "start_time": 180,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(?) when I become goddess, I'm gonna be Madonna of poetry, that's what I'll be aiming for; a legend in my own mind. Reads \"The tartness prickling my tongue\" (published as \"Nicked\" in Playing in the Asphalt Garden, edited by Mike O'Connor, Insomniac Press, 1994). Three-second silence at the end of the poem, followed by applause.] | Video Description: Medium closeup of Jill Battson making brief introductory remarks, then reading while holding a pack of printed pages. Battson wears a leaf-patterned black-and-white vest over a white t-shirt and pixie-cut red hair with bangs. Camera zooms out and in a few times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "6ef28449-707e-4765-9774-a6f4ba3c39e0"
+    },
+    {
+      "start_time": 300,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that the next poem was written during an Action Poetry three-week retreat with thirty poets, at the Banff Centre for the Arts, in 1994. Reads (\"Bivouac\"?), beginning with the line \"I watched the progression.\" Four-second silence at the end of the poem, followed by applause.] | Video Description: Medium shot, then zoom into a medium closeup of Jill Battson introducing and reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "d8922eac-4172-4398-b184-d80bc026781f"
+    },
+    {
+      "start_time": 429,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Contextualizes the series of poems called \"The Apology Letters\" and reads one of them, beginning \"I don't know you very well.\" Laughter and applause.] | Video Description: Zoom from medium shot into a medium closeup of Jill Battson contextualizing and reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "2a4b57b2-1bb5-4f20-8977-97183a3af611"
+    },
+    {
+      "start_time": 573,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces the next poem, written in Jamaica, about British playwright Noel Coward. Reads poem beginning with the line \"We are up\" (published as \"Painting with Noel\" in Hard Candy, Insomniac Press, 1997). Shout from audience member, then applause.] | Video Description: Medium closeup of Jill Battson contextualizing and reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "1b6da093-4038-4b72-8d7d-0164efbf23fc"
+    },
+    {
+      "start_time": 676,
+      "end_time": 749,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"I burnt the ridges of my fingerprints smooth\" (published as \"Kathy\" in Word Up, edited by Jill Battson and Ken Norris, Key Porter Books, 1995; and later in Hard Candy, Insomniac Press, 1997). Three-second silence at the end of the poem, followed by applause.] | Video Description: Medium closeup of Jill Battson contextualizing and reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "f91423d0-b7f2-4f03-9425-5ab87427cee6"
+    },
+    {
+      "start_time": 749,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Dedicates the poem to a friend who died from AIDS-related causes. Reads \"Morphine Headache\" (partially published as \"A Morphine Headache\" in An Invisible Accordion, edited by Jennifer Footman, Broken Jaw Press, 1996; and, later, in complete form, in Hard Candy, Insomniac Press, 1997). Applause.] | Video Description: Medium closeup of Jill Battson contextualizing and reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "dedf7328-9029-4649-af42-679b485b73aa"
+    },
+    {
+      "start_time": 841,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"S&M\" (published in Playing in the Asphalt Garden, edited by Mike O'Connor, Insomniac Press, 1994). Three-second silence at the end of the poem, followed by applause.] | Video Description: Camera zooms out and in, settling into a medium shot of Jill Battson, who contextualizes and reads a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "480fb37e-c3f8-48e1-bede-6c04106f1606"
+    },
+    {
+      "start_time": 912,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Sea Grapes.\" Applause.] | Video Description: Medium shot of Jill Battson reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "a0a3db36-e275-4a03-a798-5f3022bcf285"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause.] | Video Description: As Jill Battson leaves the stage amid applause, the camera zooms out while panning to the right, then pans to the left, taking in the dozens of seated audience members at Bistro 4. Full house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "cc6be00d-9cef-4e9d-b4a9-5710fd31b4e7"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Jill Battson and introduces Nancy Dembowski. Highlights that Dembowski was included in the aforementioned Word Up CD co-produced by Jill Battson (Virgin/EMI Music Canada, 1995) . Applause.] | Video Description: Camera zooms into a medium closeup of Lee Gotham, who introduces the next performer, Nancy Dembowski. Zoom out to track Dembowski walking towards the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f577ceb3-1a2c-486d-b856-c18575bf80d2"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"Turbaned guy keeping guard outside that Indian dive\" (published as \"Living with Shirley in Georgetown\" in  Word Up, edited by Jill Battson and Ken Norris, Key Porter Books, 1995; and later in Only the Ghost Has Lasted, Insomniac Press, 2000). Applause.] | Video Description: Camera tracks Nancy Dembowski walking towards the stage and carrying a glass and some papers. Dembowski wears a black-and-white patterned dress, shoulder-length dark hair, and a necklace. Camera zooms into a closeup, as Dembowski smiles to the audience and immediately starts performing a poem from memory. Mid-performance, the camera zooms out to a medium shot. Dembowski frequently adjusts her hair back, away from her face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "c5a2ab0f-4758-4c76-a17a-8b899ec96dbd"
+    },
+    {
+      "start_time": 1271,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs from memory a poem beginning with the line \"The waiter cracks an egg\" (published as \"Sweets\" in Only the Ghost Has Lasted, Insomniac Press, 2000). The Bistro landline rings mid-performance. Applause.] | Video Description: Closeup then medium closeup of Nancy Dembowski performing a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "4a289349-3bc5-4811-90a2-ded9bfc2c4d9"
+    },
+    {
+      "start_time": 1360,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that the next piece is a found poem, from the first paragraph of \"The Sea-Hare\" fairy tale collected by the Brothers Grimm. Performs from memory a poem beginning with the line \"It was once upon a time a princess.\" Applause.] | Video Description: Closeup of Nancy Dembowski performing a poem. During the applause, the camera zooms out to a medium shot of Dembowski drinking from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "dbfcdb01-e4fc-4139-9d14-e43c5a3551e5"
+    },
+    {
+      "start_time": 1500,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads poem beginning with the line \"Ran out of gas\" (published as \"Life on Venus\" in Poetry Nation, edited by Cabico and Swift, Vehicule Press, 1998; and, with some variations, as \"Life on Venus Avenue\" in Only the Ghost Has Lasted, Insomniac Press, 2000). Applause.] | Video Description: Medium closeup of Nancy Dembowski reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "46066ccb-677b-415f-9fe8-148e6f8170d7"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Never\" (published, with small variations, in Only the Ghost Has Lasted, Insomniac Press, 2000). Three-second silence at the end of the poem, followed by applause.] | Video Description: Zoom into closeup of Nancy Dembowski reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "83adc62f-3ea5-47a8-9f58-fa8447f3a8f9"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads (\"Bastille\"?). Three-second silence at the end of the poem, followed by applause.] | Video Description: Closeup of Nancy Dembowski reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "d7b7e6ea-768a-442a-b419-4110edd072ec"
+    },
+    {
+      "start_time": 1737,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Ghosts\" (published, with small variations, in Only the Ghost Has Lasted, Insomniac Press, 2000). Applause.] | Video Description: Medium closeup of Nancy Dembowski reading a poem. During the applause, Dembowski drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "8c561d39-21f8-4158-aafe-d14285a3dada"
+    },
+    {
+      "start_time": 1920,
+      "end_time": 2054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Borders.\" Applause.] | Video Description: Medium closeup of Nancy Dembowski reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "6494cba0-2770-4e98-b188-af9b19d664c0"
+    },
+    {
+      "start_time": 2054,
+      "end_time": 2065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause.] | Video Description: As Nancy Dembowski leaves the stage amid applause, the camera zooms out while panning to the left, tracking Dembowski, then pans to the right before zooming in back into the stage. We see dozens of seated audience members, one of them smoking while clapping, and two other people leaving the venue through the full-wall window."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "58accf96-ea81-4dc8-a832-75fb6d3390bd"
+    },
+    {
+      "start_time": 2065,
+      "end_time": 2133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Lee Gotham announces a break and starts announcing upcoming events, when the recording skips ahead]. | Video Description: Camera zooms into a medium closeup of Lee Gotham at the stage, making announcements. Cuts to long shot of the audience, then pan to the left and to the right before cutting again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "05ea8894-e58d-4e77-834d-cfeb3b8f2a5d"
+    },
+    {
+      "start_time": 2133,
+      "end_time": 2155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Lee Gotham introduces Mike O'Connor]. | Video Description: Medium closeup. Lee Gotham at the stage, introducing the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "58cbe8ab-a27e-428b-a6c9-81c1883879ab"
+    },
+    {
+      "start_time": 2155,
+      "end_time": 2362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces the first piece as a \"Toronto poem\" inspired by a Victorian house. Reads the piece, beginning with the line \"Cool, clean, coloured walls.\" Applause.]. | Video Description: Medium closeup of Lee Gotham leaving the stage and Mike O'Connor entering the frame. Zoom into a closeup. O'Connor wears a greyish open button-down shirt over a black t-shirt with a partially visible white illustration and short black hair. O'Connor reads a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike O'Connor"
+        }
+      ],
+      "uuid": "6f9d43b8-6b56-4950-b1e8-136190b8d929"
+    },
+    {
+      "start_time": 2362,
+      "end_time": 2518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Not Irish.\" Applause. | Video Description: Camera zooms into a medium closeup. Mike O'Connor reads a poem, then drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike O'Connor"
+        }
+      ],
+      "uuid": "342a7f81-56a1-4713-a849-7d092f824ebc"
+    },
+    {
+      "start_time": 2518,
+      "end_time": 2622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Holding Hands.\" Applause. | Video Description: Camera zooms out into a medium shot. Mike O'Connor reads a poem, then drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike O'Connor"
+        }
+      ],
+      "uuid": "613a9300-6c63-4f54-8ac6-dfd2800e4b5e"
+    },
+    {
+      "start_time": 2622,
+      "end_time": 2735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Home.\" Applause, as well as approval shouting and whistling from the audience. | Video Description: Medium shot. Mike O'Connor reads a poem, then drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike O'Connor"
+        }
+      ],
+      "uuid": "94203bf1-a179-4c79-a1f0-72f5ec253b0b"
+    },
+    {
+      "start_time": 2735,
+      "end_time": 2886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Magnetic Poetry Kit.\" Applause. | Video Description: Medium closeup. Mike O'Connor reads a poem, then drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike O'Connor"
+        }
+      ],
+      "uuid": "8af046d9-75e4-4cad-96fc-1da9c1b09bbf"
+    },
+    {
+      "start_time": 2886,
+      "end_time": 3046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Dream Poem.\" Audience laughs multiple times throughout the reading. Applause. | Video Description: Camera zooms out to a medium shot. Mike O'Connor reads a poem, then smiles and waves at the audience, leaving the stage amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mike O'Connor"
+        }
+      ],
+      "uuid": "2b176dc3-c54c-41f1-a01a-c095f9612bc8"
+    },
+    {
+      "start_time": 3046,
+      "end_time": 3061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause.] | Video Description: After Mike O'Connor leaves the stage amid applause, the camera zooms out while panning slightly to the left, then to the right before zooming in back into the stage. We see dozens of seated audience members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "760c0d5d-76b0-4e5d-bdfa-60888e2ed7b8"
+    },
+    {
+      "start_time": 3061,
+      "end_time": 3269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Mike O'Connor. Announces the upcoming Vox Hunt poetry slam, featuring Fortner Anderson, Carol Davison, and Fluffy Pagan Echoes. Distributes a pack of printed poems by Joe Blades, printed by Rob McLennan. Introduces Stan Rogal]. | Video Description: Camera zooms into a medium closeup of Lee Gotham at the stage, making remarks, distributing printed poems, and introducing the next performer. As Gotham leaves the stage, the camera zooms out into a medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ff92ab54-31b8-4677-96d1-2ca4899eb899"
+    },
+    {
+      "start_time": 3269,
+      "end_time": 3502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interacts with the audience. Introduces and reads \"Postcard from Home\" (published in The Imaginary Museum, ECW Press, 1993). Frequently interrupts the reading with ad lib comments, provoking laughter. Applause.] | Video Description: Zoom into closeup as Stan Rogal enters the stage and adjusts the mic. Rogal wears shorts, a black open short-sleeved shirt over a black graphic t-shirt with two faces in white and the words \"BALD EGO,\" trimmed beard, and temple hair. Rogal reads a poem, then drinks from a glass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "59bc1378-f589-4a13-a060-7c37186157ad"
+    },
+    {
+      "start_time": 3502,
+      "end_time": 3695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Hourglass\" (published in The Imaginary Museum, ECW Press, 1993). Applause. | Video Description: Medium shot, then zoom into a medium closeup. Stan Rogal reads a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "8d41da97-7e59-4f9d-b825-aba67d1f9060"
+    },
+    {
+      "start_time": 3695,
+      "end_time": 3797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces \"Personations: 7\" as a piece close to a \"language poem,\" from a book titled Personations (later published by Exile Editions, 1997). Reads \"Personations: 7.\" Applause. | Video Description: Camera zooms out to a medium shot then into a medium closeup. Stan Rogal reads a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "55b88b14-0dcd-49c3-9301-1fa180bfca39"
+    },
+    {
+      "start_time": 3797,
+      "end_time": 3925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Personations: 24\" as a poem written for Cafe Naked, a play (directed by Lisa Ryder, Bald Ego Productions, 1994; the poem was later published in Personations, Exile Editions, 1997). Applause. | Video Description: Medium shot. Stan Rogal reads a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "7410ee13-2d6c-45db-acc0-0d0959934856"
+    },
+    {
+      "start_time": 3925,
+      "end_time": 4020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and recites from memory \"Bone Lady.\" Twice Rogal forgets his lines mid-performance, so he checks a piece of paper; laughter. Applause. | Video Description: Camera zooms out then immediately into a closeup. Stan Rogal performs a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "6d0a5f18-db2e-48b7-a8b2-574cfd8f0050"
+    },
+    {
+      "start_time": 4020,
+      "end_time": 4158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and recites from memory \"Classical Joint Coffee, (Jazz in the Rocks?).\" Applause. | Video Description: Medium shot. Stan Rogal performs a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "656d67cc-c4b2-4a47-b79f-5b53ebb6c9ae"
+    },
+    {
+      "start_time": 4158,
+      "end_time": 4310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"It Was Suddenly As If\" twice: first as Rogal wrote it, then as magazine editors published it, altering the meaning of the poem. Laughter. Applause. | Video Description: Medium shot, then zoom into a medium closeup. Stan Rogal reads a poem twice, then walks off stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "1f122500-39cf-47df-9117-66c049131d33"
+    },
+    {
+      "start_time": 4310,
+      "end_time": 4408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks performers and makes announcements, mentioning the the Enough Said would resume in October. | Video Description: Long shot of audience clapping and Lee Gotham entering the stage. Zoom into a closeup of Gotham, who thanks the performers and makes announcements. Camera zooms out and pans left and right, showing the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "d2563e1d-6153-41fc-a2bc-85849b34b8e4"
+    },
+    {
+      "start_time": 4408,
+      "end_time": 4430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A voice offscreen says \"alright, go for it.\" Ambient sounds and laughter. | Video Description: Cuts to a long shot outside Bistro 4 but still inside the main building. Ian Ferrier skates with roller blades towards the camera, which pans to follow Ferrier, who does an 180; Ferrier then repeats the move toward the other end of a corridor. Ferrier has short hair and wears khakis and a jacket over a red shirt. A person with shorts, white t-shirt, socks and sandals gesticulates by Ferrier while smoking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ian Ferrier"
+        }
+      ],
+      "uuid": "b252bd86-e620-4b90-b0ef-a96f3ede8f11"
+    },
+    {
+      "start_time": 4430,
+      "end_time": 4431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c46e72cf-fef0-4dbd-8984-1bdbd1f8ef4d"
+    }
+  ],
   "event_id": "7e88fef4-9192-44b4-a2b4-4e24fd42b7c4",
   "set": "AV Description",
   "source_id": "35fb28fa-e003-4e88-8090-fc08cae7a3f0"
