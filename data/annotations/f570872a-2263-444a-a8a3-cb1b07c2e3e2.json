@@ -1,5 +1,1959 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d1d6fc0e-8a06-48bb-a86f-52540ad663a1"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video of the stage with mic stand at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "87802c5e-320f-4709-9d62-3d637f736dd6"
+    },
+    {
+      "start_time": 4,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Brule midperformance, mouth percussing a slow hip hop beat. Says he will introduce new band. Introduces the drummer and mouth percusses a fast drum solo. Vocally mimics an upright bass playing walking jazz bassline and introduces bass player. Introduces the \"hardcore guitar\" player and vocally mimics a heavily distorted guitar holding a low note.] | Video Description. Medium closeup as Brule mouth percusses drumbeat with his back turned to camera. Brule wears a white button-down shirt with thin vertical stripes, a purple scarf with fringe at both ends wrapped once around neck, dark pants with a dark belt, reddish beard and mustache, short reddish hair with one piece curling on forehead, and a headset mic, holding a long scoop shovel with a handle on one end, a wooden shaft, and a black plastic blade.  Zooms out to medium shot then zoom into closeup as Brule speaks into mic. Zooms out to medium long shot as Brule, turned away from camera, mouth percusses drumbeat. Turns back, and vocally mimics an upright bass while pretending to play upright bass with shovel. Vocally mimics a guitar while pretending to play guitar with shovel, shaking the shaft of the shovel quickly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "49f6266d-94c3-4a6b-b68f-5407c3d7cfe9"
+    },
+    {
+      "start_time": 57,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that \"the digital\" (which seems to be a looping machine) was cold when he was warming up, it has a memory time of eight seconds which slows down when it is cold, but it warms up when everyone is in the room.] | Video Description: Medium long shot as Brule speaks to audience while turning knobs on a large grey machine that is on his right with knobs and switches and Â¼ inch and XLR cables plugged into the top. Zooms into medium shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "4fbcb735-2330-4f96-a9fe-2f6cf90340f1"
+    },
+    {
+      "start_time": 100,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mouth percusses same slow hip hop beat, records on looper, looper plays back. Performs a piece beginning with the line \"The people by (?) tell me who can say.\" Vocally mimics a guitar playing a fill in between lines. Recites line \"I need a manager\" that the looper repeats twice. Vocally mimics a trumpet playing a short melody, records on looper, looper plays back. Vocally mimics a trumpet playing a higher melody that harmonizes with the first, records on looper, looper plays back. Changes delivery of piece; lines become closer together with less space in between. Stumbles and recovers. Applause. Thanks the audience.] | Video Description: Medium shot as Brule mouth percusses and adjusts knobs on looper. Picks up something behind him. Zooms out to medium long shot as Brule pretends to play guitar with shovel. Performs a piece, while playing shovel in between lines. Pretends to play a trumpet. Periodically adjusts knobs on looper. Zooms into medium shot and closeup as the lines get closer together, then zooms out to medium long shot as the piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "5ad3287f-5279-4550-8e76-249811621523"
+    },
+    {
+      "start_time": 294,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Loud crashing sound.] | Video Description: Holding a video camera, Audience_Member1 walks behind Brule and equipment from Brule's right to left as if stepping over something. Knocks over something not visible. Audience_Member1 wears a black baggy sweater with collar, beige pants, nearly completely shaved head. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "048830b6-2d1e-4871-aa85-835437b65be4"
+    },
+    {
+      "start_time": 297,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses Audience_Member1, saying \"no problem.\" Explains he doesn't perform at comedy clubs anymore because \"they don't know anything about music.\" Suggests that pop music has gotten worse, while he has gotten better. Notes he is influenced by blues, bebop, and jazz.] | Video Description: Medium long shot as Brule talks to audience and gestures. Lee Gotham can be seen in the audience on the bottom left corner of the frame taking his jacket off and adjusting in chair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "fa9b0e10-b2df-4bfe-af40-f919f6ad0258"
+    },
+    {
+      "start_time": 369,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Walks behind Brule again, this time from Brule's left to right, carrying more camera equipment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "af30a05c-ccd9-4f2d-861f-cd1435ffc26c"
+    },
+    {
+      "start_time": 377,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks Gotham if he wants to plug in another mic to Brule's left.] | Video Description: Medium long shot as Brule speaks to Gotham who is in the audience, gesturing to the mic cable hanging from ceiling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "58a4c5b4-fc44-4fed-96fe-e149aaeea6ce"
+    },
+    {
+      "start_time": 380,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium long shot as Gotham gets up from chair, walks across stage, and stands on chair to reach mic cable hanging from ceiling. Gotham wears a black unzipped sweater over a yellow shirt, black pants, black taqiyah-style hat with a small folded visor, and shoulder-length brown hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5db6e0e0-910a-40dd-871a-8a78d7938548"
+    },
+    {
+      "start_time": 382,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Scores Gotham setting up mic by vocally mimicking a guitar and then a trumpet playing a circus-like melody.] | Video Description: Medium long shot as Brule speaks to audience. Turns to look at Gotham. Pretends to play guitar on shovel. Gestures as if he were playing a trumpet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "10afdfba-33eb-4209-b3f0-3ca40800b7ea"
+    },
+    {
+      "start_time": 414,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Smiles while walking off stage on the right side of the frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2a8c8d1a-8856-4c81-82b7-f8e9fb145cd8"
+    },
+    {
+      "start_time": 414,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocally mimics a guitar playing a driving riff that repeats the same note in quick succession.] | Video Description: Medium long shot as Brule pretends to play guitar on shovel, shaking the shaft of shovel gradually more violently."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "3d95eca5-1b1d-4088-9279-52ab1d823381"
+    },
+    {
+      "start_time": 437,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Criticizes how people \"get the gig\" if they can play Led Zeppelin or Pink Floyd. Encourages people to write their own music.] | Video Description: Medium long shot as Brule speaks to audience. Adjusts knobs on the looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "3466cd55-af1b-4bfc-af90-d94eb8b74406"
+    },
+    {
+      "start_time": 446,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocally mimics guitar playing single notes with reverb. Makes a popping sound that the looper repeats to resemble a steady driving bass drumbeat. Vocally mimics a guitar playing a simple upbeat hard rock riff in a major key. Performs a piece beginning with the line \"I'm young, I'm white, and I'm stupid,\" vocally mimicking the guitar riff in between lines. Periodically stops the looper, recreates the drumbeat, and resumes performing piece. Repeats the line \"How do you do? Tell it to you.\" Resumes performing piece. Applause.] | Video Description: Medium long shot as Brule pretends to play guitar with shovel. Puts hand over mouth to make popping sound. Adjusts knobs on looper. Performs a piece while pretending to play guitar on shovel. Periodically returns to looper to recreate drumbeat. Momentarily grabs mic and stand on his left and leans it towards an audience member while repeating one line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "10965607-da4a-4e08-bf1e-8696e53c9d43"
+    },
+    {
+      "start_time": 602,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium long shot as Gotham tests mic, talks to someone slightly out of frame, and walks away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6f186d06-a4f6-40b6-b94a-81df79b3a762"
+    },
+    {
+      "start_time": 602,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that he has a selection of beats that can accompany open mic performers' readings. Vocally mimics a guitar playing a fast punk song into standing mic.] Video Description: Medium long shot as Brule sips water. Grabs paper from off-screen. Gestures with it while talking to audience. Walks over to mic. Tests it. Walks back to looper then back to mic. Zooms into medium shot as Brule vocally mimics a guitar. Accidentally pulls cord out of mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "a602a5ed-4dca-4cb9-bf52-b039343bf049"
+    },
+    {
+      "start_time": 672,
+      "end_time": 893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Apologizes for technical \"quandries.\" Thanks venue employees. Says they will \"continue this as long as possible.\" Announces they will request cash from audience next week to donate to En Marge, a homeless youth shelter below St. Catherine, and that over ten poets, including Raymond Filip and Endre Farkas, will perform. Announces the break. Mentions that the Peter Turret Trio plays every Friday and Saturday night. Mentions a film and video evening that a Concordia group hosts events every second Sunday. Mentions they have no open mic participants and encourages people to sign up. Brule mouth percusses a jazz beat and vocally mimics a jazz bassline periodically throughout.] | Video Description: Medium shot as Gotham plugs cord back into mic. Tests it. Picks up notebook from off-stage. Adjusts mic. Zooms into medium closeup as Gotham speaks into mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2f10b337-3b87-45fa-97a4-389735e4580d"
+    },
+    {
+      "start_time": 893,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Encourages audience to applaud Gotham. Explains his selection of beats that can accompany open mic performers' readings. Vocally mimics a bass playing a simple Motown bassline.] | Video Description: Medium shot as Brule speaks to audience and gestures with a pad of paper. Vocally mimics a bass while pretending to play the upright bass with shovel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "6a75d40a-feef-4e22-b850-8b8035f25f10"
+    },
+    {
+      "start_time": 992,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to do the slow wuthering gospel. | Video Description: Gotham off-screen. Medium shot as Brule looks into audience and walks back to looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "40d2a24a-90bd-427a-a7ba-1b78f5976c7a"
+    },
+    {
+      "start_time": 994,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he will prepare the sample. Mouth percusses a galloping rhythm, records it on looper, looper plays back. Slows tempo on looper. Vocally mimics a heavily distorted guitar holding long low notes.] | Video Description: Medium long shot as Brule mouth percusses and vocally mimics guitar while adjusting the knobs on the looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "7192b314-050c-4326-abb6-17e920b26411"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says \"I see no reason why we shouldn't embrace chaos\" citing the frequency of burning buildings and ambulances.] | Video Description: Medium long shot as Gotham speaks into mic while holding a piece of paper while Brule, on Gotham's left, adjusts knobs on looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c89245e5-8c86-444e-88c1-d04345705a30"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells Gotham \"slower, slower.\"] | Video Description: Medium long shot as Brule steps towards Gotham, who is on his right, and points at Gotham's sheet of paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "a606cf5c-a998-4642-add9-f208279f76c3"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains to Brule that he is doing a preamble, not reading yet.] Video Description: Medium long shot as Gotham speaks to Brule and gestures with his hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "97b37a01-7177-4f89-b108-d178cd4f9db1"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Remarks that Gotham's preamble sounded \"deep.\" Slows tempo on looper. Resumes vocally mimicking a heavily distorted guitar holding long low notes.] | Video Description: Medium long shot as Brule pulls the papers in Gotham's hand towards himself, speaks to Gotham, and turns back to looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "0ac3efaf-1784-40dd-897c-6a4c062abfeb"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says it is a short piece so he will read slowly. Performs a piece beginning with the line \"Breaking broken buried remnants hiding from the sky.\" Repeats the same collection of lines three times, each with differing deliveries. Thanks audience. Applause. Remarks how easy it is, encourages audience to participate.] | Video Description: Medium long shot gradually zooms into medium closeup as Gotham performs a piece. Zooms out to medium long shot as Gotham leaves stage. Gotham returns, speaks into the mic, adjusts it, and leaves stage again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "e7c00f1b-6a36-441c-878a-22205dcff525"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks for examples of Brule's beats.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member2"
+        }
+      ],
+      "uuid": "9bebbaf0-5b73-4fdc-94d1-85418c6f871d"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Agrees, says he wants to \"earn the respect of the mentally elite\" poets in the room. Mouth percusses a sultry jazz drumbeat, records on looper, looper plays back. Vocally mimics a trumpet playing a sparse line with reverb. Performs a piece in French. Vocally mimics a bass playing a simple ascending line.] | Video Description: Medium long shot zooms into closeup as Brule speaks into the mic. Zooms out to medium shot as Brule mouth percusses and vocally mimics instruments while adjusting knobs on looper. Zooms out to medium long shot as Brule vocally mimics a trumpet. Performs piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "f96350c3-ef71-41f9-8709-4d287c2c3486"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says that's the farthest he has gotten in writing the song. Audience begins applauding, but he says \"no, no.\" Offers punk film score music, an RnB (bop?), and New York art school jazz as beats to accompany open mic performers' readings. Prepares to play another song.] | Video Description: Medium long shot as Brule speaks to audience, picks up pad of white paper, sips water, and prepares to play another song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "9d13e266-f61f-46a5-975b-4e8483d39424"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks Brule to play a punk beat.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "216348a4-a8d5-4f63-bbee-8932d1217f48"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocally mimics guitar playing a fast punk riff. Explains that these are the kinds of things he would improvise while an open mic performer was performing.] | Video Description: Medium long shot as Brule vocally mimics guitar and speaks with a group in the audience. Returns briefly to looper. Leans slightly out of frame to talk to group in audience again, who seem to be looking at his list of beats."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "ec307650-8eeb-4d65-838c-19bafa069af3"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bo Diddley."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member3"
+        }
+      ],
+      "uuid": "75a9c82e-0150-484c-996f-31cfb459e451"
+    },
+    {
+      "start_time": 1360,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocally mimics guitar playing a Bo Diddley riff. Asks audience if they remember his mentors, the duo Deja Voodoo. Resumes vocally mimicking guitar playing a Bo Diddley riff, records on looper, looper plays back improperly. Records again. Performs a piece beginning with the line \"Out in the swamp near Montreal.\"] | Video Description: Medium long shot as E.J. Brule vocally mimics a guitar while pretending to play guitar with shovel. Adjusts knobs on looper. Talks to audience. Resumes vocally mimicking a guitar while pretending to play guitar with shovel. Adjusts knobs on looper. Zooms into medium closeup as Brule performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "25dacafa-c94f-4414-9b23-7b40287e8c44"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[To the tune of \"I Want Candy\" (The Strangeloves, single, Bang Records, 1965)] I want candy. I want candy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member4"
+        }
+      ],
+      "uuid": "29a3ba66-4290-4a8c-8b78-ec0e79975435"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says people think the riff was made up five years ago.] | Video Description: Medium closeup as Brule talks to audience, walking around stage and gesturing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "948492b0-2585-44a8-9262-a1d1d9ead92e"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Hawley rises from seat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "db0ba386-bcba-4728-bd03-b29972548a7c"
+    },
+    {
+      "start_time": 1480,
+      "end_time": 1629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks Hawley if they want \"a slow slow rap.\" Introduces song written for a hairy woman. Says he imagined if Prince produced a song for Leonard Cohen. Mouth percusses a Prince-like drumbeat, records on looper, looper plays back. Performs a piece beginning with the line \"You don't have to [rip?] your lip\" and vocally mimics a standup bass playing a Prince-like bass fill in between stanzas. Vocally mimics a trumpet playing a quick motif. Mouth percusses a shaker playing eighth notes. Vocally mimics a bass fill to end song. Applause.] | Video Description: Medium long shot as Brule vocally mimics many instruments, speaks to audience, and adjusts knobs on looper. Performs a piece while pretending to play guitar with shovel. Zooms into medium shot partway through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "3b6c1fa4-2492-4feb-bd5a-6e8aa853c702"
+    },
+    {
+      "start_time": 1629,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he has been saving his favourite beat. Pauses. Mouth percusses an upbeat 90s hip hop beat.] | Video Description: Medium long shot as Brule sips water, accidentally knocks mic battery pack out of pocket, and resituates it. Mouth percusses a drumbeat while adjusting knobs on looper and pretending to play guitar with shovel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "963dcafe-9876-478a-9220-6c25b1d6bda6"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he wrote poetry before he started singing but no one wanted to hear it.] | Video Description: Medium long shot as Hawley walks to stage, shakes Brule's hand, and speaks into mic. Hawley wears an oversized black sweater with a hood, no zipper, and white and red logo on the left side of chest that reads \"TW SHOW,\" dark pants, and a black bandana with white accents tied around head. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "8099191c-3dc6-4723-bed0-5aabcc74cfe6"
+    },
+    {
+      "start_time": 1684,
+      "end_time": 1710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he can play the beat slower or faster. Beat speeds up to comical level. Says \"no, a little slower.\" Beat slows down to comical level. Audience laughter throughout.] | Video Description: Brule off-screen. Medium long shot zooms into closeup as Hawley smiles and laughs into mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "3326b21f-8dbe-489e-8143-25a9bc8c4c0e"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece about a bumblebee beginning with the line \"Fly, come and fly with me.\" Says partway though that it is freestyle. Resumes performing. Applause.] | Video Description: Medium closeup as Hawley speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "b0533d37-1c86-4f94-8487-72e783749caf"
+    },
+    {
+      "start_time": 1853,
+      "end_time": 2059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says people can improvise, but asks that if someone brings a prewritten piece, to let him look. Says that people think one needs to be young, black, and misogynistic to be a rapper. Says he had to think about how to tackle accusations of cultural appropriation. Mouth percusses a faster version of the same 90s hip hop beat that Hawley performed over, records on looper, looper plays back. Vocally mimics a more complex bassline. Performs a piece titled \"How Can You Be So White (And Be So Funky?) (Freedom of Speech, self-released audio cassette, 1989). Vocally mimics guitar playing fills between the verses. Audience laughter throughout. Applause.] | Video Description: Medium long shot zooms into medium shot as Brule speaks to audience. Mouth percusses drumbeat and vocally mimics bass while adjusting knobs on looper. Performs a piece while pretending to play guitar with shovel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "a86c8789-a45c-4ced-8fa2-e43171d6b295"
+    },
+    {
+      "start_time": 2059,
+      "end_time": 2132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he can never get the samples right for Led Zeppelin. Vocally mimics the bass and guitar line for Led Zeppelin's \"Immigrant Song\" (Led Zeppelin III, LP, Atlantic Records, 1970), records on looper, looper plays back. Stops looper and says he needs someone to do Robert Plant's scream in \"Immigrant Song.\"] | Video Description: Medium shot as Brule speaks to audience. Vocally mimics instruments while adjusting knobs on looper and pretending to play guitar with shovel. Makes a \"come hither\" motion with hand towards audience member. Throws up hands exasperatedly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "708af895-68f3-48f9-89dd-e9b35059fcbe"
+    },
+    {
+      "start_time": 2132,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium shot as Gotham hugs Brule and stands on his left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2275ac58-454c-40d3-b581-0db570c251af"
+    },
+    {
+      "start_time": 2140,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes vocally mimicking the bass and guitar line for Led Zeppelin's \"Immigrant Song,\" records on looper, looper plays back. Tells Gotham to get close to his headset mic.] | Video Description: Medium shot zooms into closeup as Brule vocally mimics instruments, adjusts knobs on the looper, and talks to Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "4dc7832c-5cf1-4221-946d-a1ec52e0f42b"
+    },
+    {
+      "start_time": 2160,
+      "end_time": 2173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Imitates Robert Plant's scream in Led Zeppelin's \"Immigrant Song.\" Audience cheers. Looper replays only small part of Gotham's scream.] | Video Description: Closeup as Gotham screams into Brule's mic, mouth wide open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6e06683f-65b2-4d3f-b6ef-bf148ebd5c17"
+    },
+    {
+      "start_time": 2173,
+      "end_time": 2182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells Gotham to not \"do it so long this time.\"] | Video Description: Medium long shot as Brule speaks to Gotham, who is off-screen, making a \"come hither\" motion with hand toward Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "c102e693-d55c-49a2-bece-8b8b640da28d"
+    },
+    {
+      "start_time": 2182,
+      "end_time": 2196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium long shot as Gotham walks back on stage on Brule's left, holding up his shirt with one hand and gyrating hips seductively, seemingly looking at one audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2b2546b6-cae2-45fb-b9bd-b9e8ffd8ed29"
+    },
+    {
+      "start_time": 2196,
+      "end_time": 2203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes vocally mimicking the bass and guitar line for Led Zeppelin's \"Immigrant Song,\" records on looper, looper plays back.] | Video Description: Medium long shot zooms into closeup as Brule vocally mimics bass and guitar while pretending to play the guitar with shovel. Motions for Gotham to come closer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "4525ba93-dbd9-44cf-91a7-e333d73e03e4"
+    },
+    {
+      "start_time": 2203,
+      "end_time": 2209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Imitates Robert Plant's scream in Led Zeppelin's \"Immigrant Song.\" Looper replays only small part of Gotham's scream.] | Video Description: Closeup as Gotham screams into Brule's mic, mouth wide open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "bc5ae074-fc82-4a81-9199-31513503e2d7"
+    },
+    {
+      "start_time": 2209,
+      "end_time": 2212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Apologizes to audience, saying Gotham \"fucked [him] up with the start of that.\"] | Medium long shot as Brule speaks to audience and adjusts knobs on looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "c7f727e2-6749-44fc-a527-c899cb50f9c9"
+    },
+    {
+      "start_time": 2212,
+      "end_time": 2221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium shot as Gotham walks away from Brule and hovers in front of the camera, nodding his head to the beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "980201bc-06d7-46cf-8c9e-b17447576918"
+    },
+    {
+      "start_time": 2221,
+      "end_time": 2222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks Lee to do one more.] | Video Description: Medium shot as Brule adjusts knobs on looper and gestures for Lee to return to stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "ea9c4aa8-8bec-4a9c-b98e-bc6037d0a9ef"
+    },
+    {
+      "start_time": 2222,
+      "end_time": 2234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium shot zooms into closeup caused by Gotham walking towards camera, sips drink, hops back towards stage and stretches arms upwards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "772f6aeb-b022-4f3c-808d-795ebe2c3260"
+    },
+    {
+      "start_time": 2234,
+      "end_time": 2243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells Gotham to \"not get so close to the mic.\" Resumes vocally mimicking the bass and guitar line for Led Zeppelin's \"Immigrant Song,\" records on looper, looper plays back.] | Video Description: Medium long shot zooms into closeup as Brule vocally mimics bass and guitar while pretending to play guitar with shovel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "2f60a13a-821a-43f2-ade2-4a832ed94b11"
+    },
+    {
+      "start_time": 2243,
+      "end_time": 2250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Imitates Robert Plant's scream in Led Zeppelin's \"Immigrant Song.\" Looper replays only small part of Gotham's scream.] | Video Description: Closeup as Gotham screams into Brule's mic, mouth wide open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "42c4d891-18d3-49fa-a45d-a65ed6b75783"
+    },
+    {
+      "start_time": 2250,
+      "end_time": 2265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says \"that's a little more like it\" and slows down tempo which lowers the pitch of Gotham's recorded scream. Vocally mimics a bass playing a slow simple bassline, records on looper, looper plays back.] | Video Description: Medium long shot as Brule adjusts knobs on looper and vocally mimics a bass while pretending to play guitar with shovel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "c6fea0ad-66b4-4dc6-8b1b-3ae133a297c2"
+    },
+    {
+      "start_time": 2265,
+      "end_time": 2272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium long shot as Gotham walks up to mic. Directs a questioning look at Brule. Walks away from mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "399da099-3f7e-48a6-8391-5c821a530beb"
+    },
+    {
+      "start_time": 2272,
+      "end_time": 2284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Speaks to Gotham, indiscernible.] | Video Description: Medium long shot as Brule speaks to Gotham as Gotham passes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "0661d522-e5f3-4fe0-8165-ae78497426a4"
+    },
+    {
+      "start_time": 2284,
+      "end_time": 2307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Returns to mic and performs a piece beginning with the line \"The dubious occasion I recall I said.\"] | Medium long shot zooms into medium closeup as Gotham returns to mic and performs a piece. Directs a look at Brule."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "0eea534c-30c3-499d-8417-6ffb3e5b3da9"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Slows down looper's playback.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "3121b731-d5cc-49b2-b66b-c90e3eafeee5"
+    },
+    {
+      "start_time": 2309,
+      "end_time": 2307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing a piece. Gradually delivers piece more rhythmically and song-like on Brule's beat.] | Video Description: Medium closeup as Gotham performs a piece. Directs a look at Brule."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "532d33c2-f790-47bb-8125-3842ee1300fd"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Speeds up looper's playback.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "3508148b-15b5-4c4b-b5bb-1ff6b5514034"
+    },
+    {
+      "start_time": 2336,
+      "end_time": 2354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing a piece.] | Video Description: Medium closeup as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "563f134c-acf8-47b5-9691-b693e312b257"
+    },
+    {
+      "start_time": 2354,
+      "end_time": 2360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mouth percusses a 90s hip hop drumbeat, records on looper, looper plays back overtop previous beat. Repeating one of Gotham's last lines, says \"rhythmic demise, that's what that sounds like.\"] | Video Description: Brule off-screen. Loose closeup as Gotham smiles and nods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "e2dab275-df87-46e4-8091-2a7e89939709"
+    },
+    {
+      "start_time": 2360,
+      "end_time": 2449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks Brule to \"do it one more time.\" Performs same piece again, with a very rhythmic, rap-like delivery to Brule's beat. Applause. Tells audience that making a fool of yourself on stage is \"good for the soul.\"] | Video Description: Loose closeup as Gotham performs a piece zooms out to medium long shot as Gotham speaks into mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "6acedc7b-5289-4f89-bfd6-b57e3988532f"
+    },
+    {
+      "start_time": 2449,
+      "end_time": 2457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addressing unheard audience member, says \"no more covers.\"] | Video Description: Medium long shot as Brule addresses unseen audience member and adjusts knobs on looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "83b08cd5-3ec7-4727-b579-deb4c2edb195"
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about \"Land of 1000 Dances\"? (Chris Kenner, single, Instant Records, 1962)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "9d94715e-6562-4cfa-8aaf-8e0cdcb05f07"
+    },
+    {
+      "start_time": 2458,
+      "end_time": 2458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pauses to think, says a long drawn-out \"oh.\"] | Video Description: Medium long shot as Brule thinks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "306a4963-ae7e-46fe-8c3d-f8a1a0607c96"
+    },
+    {
+      "start_time": 2458,
+      "end_time": 2465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Walks to Brule."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "3739620b-99d9-4e13-820a-df8a3cdb7d95"
+    },
+    {
+      "start_time": 2465,
+      "end_time": 2474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Speaks to Hawley. Vocally mimics bassline from \"Land of 1000 Dances,\" records on looper, looper plays back. Asks Walsh \"something like that?\"] | Video Description: Medium long shot as Brule speaks to Hawley, vocally mimics a bass, and speaks to Walsh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "5bc439a3-79da-42ef-adc5-3f13bf84fa94"
+    },
+    {
+      "start_time": 2474,
+      "end_time": 2487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Dances in front of the camera, smiling widely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "afa09543-7dde-449a-abaa-d5d3a4daa784"
+    },
+    {
+      "start_time": 2487,
+      "end_time": 2523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mouth percusses a horse galloping, records on looper, looper plays back. Performs piece beginning with the line \"Got a new horse.\" Vocally mimics a standup bass playing a solo. Asks Audience_Member5 if they have any \"barnyard epics.\"] | Video Description: Medium long shot as Brule mouth percusses and adjusts knobs on looper. Zooms into closeup as Brule pretends to play the upright bass with shovel. Speaks to Audience_Member5."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "b955c371-d183-48b9-9667-c8daf4568edb"
+    },
+    {
+      "start_time": 2523,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't think so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member5"
+        }
+      ],
+      "uuid": "298dc84c-396f-4281-bd3e-a63c302b5682"
+    },
+    {
+      "start_time": 2535,
+      "end_time": 2541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks Walsh if he wants a Motown beat.] | Video Description: Medium closeup as Brule talks to Walsh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "13da53a1-9620-4539-9a25-6fbbe809a849"
+    },
+    {
+      "start_time": 2541,
+      "end_time": 2542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, yeah!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "8b8e4e21-e6e2-47b3-8464-608fec8102dc"
+    },
+    {
+      "start_time": 2542,
+      "end_time": 2595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughs, asks Walsh if he has a woman in his life because he also says \"yeah\" like that when he is confused. Mouth percusses a drumbeat with a strong snare backbeat. Vocally mimics a guitar playing sparse single low notes. Asks Walsh if he wants to perform.] | Video Description: Zooms out to medium long shot as Brule speaks to Walsh. Adjusts knobs on looper. Mouth percusses a drumbeat, records on looper. Pretends to play guitar on shovel. Zooms into medium closeup as Brule speaks to Walsh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "86f89666-bbf2-4363-a9a8-1dfca34ac414"
+    },
+    {
+      "start_time": 2595,
+      "end_time": 2596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no I'm not-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Tom Walsh"
+        }
+      ],
+      "uuid": "61ccc390-85cf-4235-823e-24406e8ea093"
+    },
+    {
+      "start_time": 2596,
+      "end_time": 2650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cutting Walsh off, says he can't request a beat and not perform. Vocally mimics a guitar playing a simple low riff. Says he won't improvise unless an open mic participant performs. Talks to audience about how people are worried he will \"represent[] them\" if he \"gets somewhere.\" Says musical comedy duo Bowser and Blue are representing anglophone Montrealers on the world stage. Mentions alternative band Doughboys.] | Video Description: Medium shot as Brule speaks to Walsh. Vocally mimics a guitar playing a simple low riff. Speaks to audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "cbbafa1b-cf21-47b4-8e4b-5d3d63529f65"
+    },
+    {
+      "start_time": 2650,
+      "end_time": 2661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says \"Tom Walsh is a poet.\"] | Video Description: Medium shot zooms into closeup as Hawley walks up to mic and speaks into it, smiling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "17c37c97-bf41-44f0-b2f2-c53a40a94e6e"
+    },
+    {
+      "start_time": 2661,
+      "end_time": 2665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mouth percusses an upbeat hip hop drumbeat, records on looper, looper plays back. Vocally mimics a distorted guitar playing a pentatonic riff, records on looper, looper plays back.] | Video Description: Brule off-camera. Closeup of Hawley smiling and preparing to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "70536d5a-ae55-4641-808d-4ab3cb902e9d"
+    },
+    {
+      "start_time": 2665,
+      "end_time": 2676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[From the crowd] Tom's in the house!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "e3ffbb6a-3bf6-4478-8ea0-97980ccab9d1"
+    },
+    {
+      "start_time": 2676,
+      "end_time": 2681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says \"this is improv.\" Asks Brule to slow down the beat.] | Video Description: Closeup as Hawley addresses audience and then Brule."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "446e5280-413c-40b5-bea8-450b81561c8d"
+    },
+    {
+      "start_time": 2681,
+      "end_time": 2688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Slows down looper's playback.] | Video Description: Brule off-camera. Closeup of Hawley preparing to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "e72cde79-4f60-44f3-aab0-63e39442ff75"
+    },
+    {
+      "start_time": 2688,
+      "end_time": 2910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Improvises a piece beginning with the line \"Lonely child, now check it, lonely child.\" Applause.] | Video Description: Closeup as Hawley improvises a piece while holding a beer and a cigarette. Zooms out to medium shot as Hawley takes mic off stand and continues performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "6a5f253c-4099-492e-a00d-9a88cb681d13"
+    },
+    {
+      "start_time": 2910,
+      "end_time": 3175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Encourages audience to further applaud Hawley. Explains how he was inspired by Tibetan throat singers. Mouth percusses drum beat with shaker. Vocally mimics distorted guitar playing simple distorted pentatonic riff. Performs a piece titled \"St. Thomas' Mantra\" (Freedom of Speech, self-released audio cassette, 1989) with heavy reverb on voice, mouth percussing and vocally mimicking guitar between lines. Applause.] | Video Description: Medium closeup as Brule speaks to audience. Adjusts mic that unclipped from lapel. Mouth percusses drum beat and vocally mimics guitar. Performs a piece while pretending to play guitar with shovel. Zooms into closeup as piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "5fb21d3b-67e7-4ad0-942d-5fb5d595207c"
+    },
+    {
+      "start_time": 3175,
+      "end_time": 3611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Vocally mimics distorted guitar playing a simple rock riff, records on looper, looper plays back. Mouth percusses a drumbeat with emphasis on beat three, records on looper, looper plays back. Performs a piece beginning with the line \"Let me tell you about the cruelest thing that I have ever done,\" in which first stanzas are rhythmically tied to the beat, and are later conversationally spoken. Applause.] | Video Description: Medium shot as Brule speaks to audience. Vocally mimics guitar and adjusts knobs on looper. Mouth percusses a drumbeat and adjusts knobs on looper. Performs piece while pretending to play guitar with shovel. Partway through, pretends that shovel is a baseball bat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "d379ae0e-e206-4651-9fba-1af48b7d8345"
+    },
+    {
+      "start_time": 3611,
+      "end_time": 3625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Speaks to audience member about them performing.] | Medium long shot as Brule leans down to talk to audience member."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "a6505f04-c8e4-4025-9090-f72e4e5d3345"
+    },
+    {
+      "start_time": 3625,
+      "end_time": 3650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium long shot as Hawley approaches Brule and asks a question. Brule nods affirmatively."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "de150c49-0219-459d-99c8-a6ffed462260"
+    },
+    {
+      "start_time": 3650,
+      "end_time": 3669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mouth percusses a reggae drumbeat, records on looper, looper plays back.] | Video Description: Medium shot as Brule mouth percusses a drumbeat and adjusts knobs on looper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "E.J. Brule"
+        }
+      ],
+      "uuid": "a8db9563-2e6e-4d7d-adea-3f6384c2370d"
+    },
+    {
+      "start_time": 3669,
+      "end_time": 3884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Greets audience, asks \"is everybody cool?\" Heavy Jamaican accent. Performs a piece overtop Brule's beat. Applause.] | Video Description: Oversized leather jacket over a white button-down shirt, a large leather top hat/baseball cap hybrid with red accents, large silver rings with jewels. Holds black mittens in one hand and the mic in the other. Loose closeup as Unknown_Reader1 speaks to audience and performs a piece. Dancing audience member briefly obscures camera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown_Reader1"
+        }
+      ],
+      "uuid": "45914b06-27f8-40e5-bfa2-e026c2de0ef9"
+    },
+    {
+      "start_time": 3884,
+      "end_time": 3923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks audience whether they want a break. Announces a break.] | Video Description: Medium long shot zooms into medium closeup as Gotham speaks to the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5d642808-e2e8-4932-b6e7-b96bdc20fcce"
+    },
+    {
+      "start_time": 3923,
+      "end_time": 3924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d29b0804-8039-44f2-916b-8a5884923668"
+    }
+  ],
   "event_id": "d5882952-307a-4bd7-8ec0-69a970ad4b08",
   "set": "AV Description",
   "source_id": "d6ea1d54-3009-4f28-8708-b0c643044501"
