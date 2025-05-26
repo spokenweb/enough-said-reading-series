@@ -1,5 +1,615 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video of the stage with mic stand at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0efcef77-41c2-4fc9-ad84-76522d90b0d2"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lee Gotham and Audience_Member2 misspeak. Michael Longley is misnomered as Michael Langley, and Ciaran Carson is misnomered as Ciaran Colours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb notes",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "15c6934d-eb51-49fc-ad67-2c77462e3839"
+    },
+    {
+      "start_time": 1,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Explains that the event is a benefit for En Marge, a street kids shelter. Explains there will be opportunities to buy a raffle ticket for a bundle of three to five collections of poetry. Explains that ticket stubs also serve as a raffle ticket for \"small press prizes.\" Announces that Michael Langley will perform at Concordia University's Hall Building on February 16th. Announces Ciaran Colours will perform on March 6th.] | Video Description: Medium shot zooms into medium closeup as Gotham speaks into the mic while holding and occasionally reading from a small notebook. Gotham wears a black-and-white knit sweater with geometric designs and sleeves rolled up to elbows and straight shoulder-length hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "41ebaaca-da8b-4dde-b923-9b39ce7204c3"
+    },
+    {
+      "start_time": 189,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Extreme closeup as Audience_Member1 walks in front of camera. Side profile of face takes up whole shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member1"
+        }
+      ],
+      "uuid": "a79e5d42-3961-4a60-8cad-8beb9920e48f"
+    },
+    {
+      "start_time": 191,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Corrects Gotham that the aforementioned poet's name is \"Longley\" not \"Langley.\" Repeats date and venue details. Mentions that Longley won the Whitbread Poetry Prize. Mentions that Ciaran Colours won the first T.S. Eliot Prize.] | Video Description: Audience_Member2 off-screen. Extreme closeup as Audience_Member1 moves forward and back, making their head periodically obscure the screen again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience_Member2"
+        }
+      ],
+      "uuid": "0f35e5f5-0a6e-45eb-974b-294932f45a53"
+    },
+    {
+      "start_time": 214,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says those are some \"serious verses.\" Mentions that \"assistant\" in a red bandana will be walking around selling raffle tickets for poetry collection bundles from The Muses' Company, Vehicule Press, and DC Books, including Steve Luxton and Robert Allen's works. Introduces Robert Allen as one of his favourite alumni from Concordia. Invites Allen to the stage to read from novels, poetry collections, and Moosehead Anthologies he has been a part of. Mentions Allen is a new editor at Matrix Magazine.] Video Description: Medium closeup as Gotham speaks into the mic, reading from a notebook."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "d103adbc-7ad5-4b4b-91b6-1f8ed86b0138"
+    },
+    {
+      "start_time": 348,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Gotham. Introduces and performs a piece titled \"The Arnold Schwarzenegger and Maria Shriver Wedding Poem.\"] | Video Description: Medium closeup as Allen introduces and performs a piece. Allen wears a grey long-sleeve plaid shirt with black buttons and a black hood, and slightly curly light brown chin-length hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Robert Allen"
+        }
+      ],
+      "uuid": "86c38a9a-77ab-4703-93ca-cd0b7b517bd0"
+    },
+    {
+      "start_time": 463,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that the next piece is about the plane crash of a French rugby team in the Andes mountains and it involves cannibalism. Introduces and performs a piece titled \"Rugby Players Stranded in the Andes.\" Applause.] | Video Description: Closeup as Allen introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Robert Allen"
+        }
+      ],
+      "uuid": "50c8bbf8-6f5f-4803-8b8c-a1fdd9825af8"
+    },
+    {
+      "start_time": 659,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that the next piece is about the mail order pornography business. Introduces and performs a piece titled \"Late Romantics.\"] | Video Description: Closeup as Allen introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Robert Allen"
+        }
+      ],
+      "uuid": "d7870a86-a08b-49ad-94cb-a895f9fbb4d1"
+    },
+    {
+      "start_time": 751,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that the next piece encapsulates nineteenth-century Russian literature in five lines. Introduces and performs a piece titled \"A Sadder Scene Than You Know at Tolstoy('s?) Station.\"] | Video Description: Closeup as Allen introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Robert Allen"
+        }
+      ],
+      "uuid": "9153f408-08f9-453d-82d0-50a32b3c505f"
+    },
+    {
+      "start_time": 792,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions he lives in the country with Anne Stone. Introduces and performs a piece titled \"Mount Cloud.\" Applause.] | Video Description: Closeup as Allen introduces and performs a piece. Zooms out to long shot as Allen leaves stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Robert Allen"
+        }
+      ],
+      "uuid": "43910f28-5fae-4ae3-83b7-4cc8a4d9b70b"
+    },
+    {
+      "start_time": 919,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Robert. Explains again how buying raffle tickets works. Introduces John, liaison to En Marge, to explain services. Invites John to the stage.] | Video Description: Long shot zooms into closeup as Gotham speaks to the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "9a7491a8-1cff-4171-963c-1bbe864a4ea1"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks everyone. Explains that En Marge works with youth experiencing \"family and social rupture\" to give unconditional acceptance in difficult times. Explains that many of the kids write poems, and he will read some to shed light on their experience. Introduces and performs a piece titled \"Little Candle\" by fifteen-year-old Amanda.] | Video Description: Closeup as John adjusts mic, speaks to audience, and performs piece. John wears a light pink t-shirt, black snapback hat with a beige brim worn backwards, full beard one inch long, and slightly curly hair past shoulders. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John"
+        }
+      ],
+      "uuid": "36cc782b-569c-4251-b96f-5df260911502"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that drugs are a big part of street culture and larger culture, and that it can be a solution with consequences. Introduces and performs a piece written by seventeen-year-old Caroline titled \"Junk Sick,\" about trying to quit heroin. Applause.] | Video Description: Closeup as John speaks to audience and performs piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John"
+        }
+      ],
+      "uuid": "5b014d39-5b29-49f9-bb20-b1a6d028b71e"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece written by an Indigenous fourteen year old named Cindy in French. Performs again in English. Thanks audience. Applause.] | Video Description: Closeup as John speaks to audience, performs a piece, and speaks to audience again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John"
+        }
+      ],
+      "uuid": "d3b19a3d-2cca-4663-840e-b9952d57550b"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks John. Introduces Douglas Isaac. Mentions Isaac's poetry collection Past, Present: Tense will be published with Imperial (Note: book actually published with BuschekBooks, 2004.) Applause.] | Video Description: Closeup zooms out to medium shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "42d9cfd8-8c53-4160-9f6a-95f84c70d2bf"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces piece titled \"Centres of Treatment\" that is in part a homeless man's verbatim dialogue, while the other half is dialogue written by Isaac. Says he will use different voices for each character.] | Video Description: Closeup as Isaac lowers the mic and speaks to the audience. Isaac wears a black button-down shirt with sleeves rolled up to elbows over a white shirt that has an indiscernible pattern, and medium brown hair pushed back from face. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Douglas Isaac"
+        }
+      ],
+      "uuid": "55e4d0aa-872b-4022-9a4b-7b42beff27b6"
+    },
+    {
+      "start_time": 1504,
+      "end_time": 1508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 00:25:51 and 00:26:04, Isaac says a racial slur."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb notes",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "532fcce1-954f-48b7-b6fa-e9097750e3f7"
+    },
+    {
+      "start_time": 1504,
+      "end_time": 2152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Centres of Treatment.\" Applause.] | Video Description: Zooms out to medium shot as Isaac performs a piece, alternating between performing into the mic and stepping slightly away from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Douglas Isaac"
+        }
+      ],
+      "uuid": "781b5ae9-562e-4c96-848f-27b4952fe4cc"
+    },
+    {
+      "start_time": 2152,
+      "end_time": 2274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Isaac. Announces the prizes for the raffle. Calls someone from off screen to help on stage. Lists prizes, such as one copy each of Moosehead Anthology issue 13 and the \"Forbidden Fiction\" issue, one copy of Don Coles' Little Bird (Signal Editions, [Vehicule Press],1991), and one copy of Erin Moure's West South West (Signal Editions, [Vehicule Press], 1988? 1989?). Announces winner. Applause] | Video Description: Long shot zooms in to medium shot as Gotham speaks into the mic. Reads titles from books. Picks raffle number from person off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "487d90ab-2d93-4cb8-8ec1-1c6cb33c4424"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Lists more prizes, such as one copy of Grant Loewen's Brick: Looking Up (DC Books, 1992.), one copy of Steve Luxton's Iridium (DC Books, 1993), one copy of Moosehead Anthology's \"Forbidden Fiction\" issue, and one copy of Jan Conn's What Dante Did With Loss (Signal Editions, [Vehicule Press], 1994). Announces winner. Applause.] Video Description: Camera zooms out to long shot. Raffle assistant now visible. Grey plaid button-down shirt with sleeves rolled up to elbows, large wire-rimmed glasses, and blonde hair pushed back from face. Gotham reads titles from more books. Picks raffle number from person now visible on stage. Announces winner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "824af60c-8214-4887-be60-9827935a2112"
+    },
+    {
+      "start_time": 2337,
+      "end_time": 2393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Lists more prizes, such as one copy of Mark Leslie's Dying with AIDS/living with AIDS: 1991-1992 (The Muses' Company, 1992), one copy of one copy of Steve Luxton's Iridium (DC Books, 1993), one copy of Moosehead Anthology's issue 13, and one copy of Gerard Godin's Evenings at Loose Ends (Signal Editions, [Vehicule Press], 1991). Announces winner.] | Video Description: Gotham reads titles from more books. Picks raffle number. Announces winner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "74ea849b-9617-4c7c-a2ec-e331048aaf44"
+    },
+    {
+      "start_time": 2393,
+      "end_time": 2501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces another draw from the door prize tickets. Announces winner. Announces prizes from Pawn Press and ga press. Notes there will be a total of four door prize raffles. Introduces Anne Stone. Applause.] | Video Description: Medium shot as Gotham picks raffle number from a white plastic tub and announces winner. Zooms into closeup as Gotham introduces Anne Stone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "a5d901b0-d766-417d-a753-124def72a182"
+    },
+    {
+      "start_time": 2501,
+      "end_time": 2654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Desire is a Lodger.\" Applause.] | Video Description: Loose closeup as Stone speaks into mic and performs a piece. Stone wears a burgundy vest over a white long-sleeve shirt, an oversized newsboy cap, and no hair showing underneath it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Anne Stone"
+        }
+      ],
+      "uuid": "0bd04b01-50bc-4851-bddd-f91949c75537"
+    },
+    {
+      "start_time": 2654,
+      "end_time": 2743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Calf's Head Soup.\" Applause.] | Video Description: Loose closeup as Stone speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Anne Stone"
+        }
+      ],
+      "uuid": "673d3d98-95eb-45fc-8af5-9e4844154940"
+    },
+    {
+      "start_time": 2743,
+      "end_time": 2921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Carrying off the (?)\" Applause.] | Video Description: Loose closeup as Stone speaks into mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Anne Stone"
+        }
+      ],
+      "uuid": "04ab8579-3b85-46f9-bdb8-e07eda6d9dc9"
+    },
+    {
+      "start_time": 2921,
+      "end_time": 2924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium long shot as Gotham approaches the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "5b2f60ea-75a5-42f4-95d8-194ab393242b"
+    },
+    {
+      "start_time": 2924,
+      "end_time": 2955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "f162af9f-ebec-467b-b7b2-cccd708fc3b3"
+    },
+    {
+      "start_time": 2955,
+      "end_time": 2956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "45647bdf-9480-491c-aadc-e4d52085725d"
+    }
+  ],
   "event_id": "aa4c5954-05cf-4266-810b-336147b0fbc8",
   "set": "AV Description",
   "source_id": "1316cc47-465c-423f-a95d-0f33b71c9ef9"
