@@ -526,10 +526,6 @@
         },
         {
           "category": "Performers and Speakers",
-          "tag": "Swifty Lazarus"
-        },
-        {
-          "category": "Performers and Speakers",
           "tag": "Audience"
         },
         {
@@ -543,7 +539,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-06-03T21:19:46.336Z",
+    "updated_at": "2025-06-03T21:19:59.024Z",
     "generate_pages_site": true
   },
   "annotations": {},
