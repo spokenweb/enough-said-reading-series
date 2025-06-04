@@ -1,1 +1,322 @@
-{"annotations":[],"event_id":"09e42948-06b6-4d8b-a105-0de5d95cd9e9","set":"AV Description","source_id":"6f48d5df-1531-4b13-a8e2-f2814131f5af"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "4d2d7949-50f1-4c2c-bd9a-39b3c71cf455"
+    },
+    {
+      "start_time": 11,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Spoken Words.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enough Said edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1cbca736-62e6-4e6a-8eeb-a75be7a3bc95"
+    },
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black-and-white video, medium closeup of the stage at Fetish Cafe (1426 Rue Beaudry, Montreal, QC, H2L3E5, Canada). Diagonal shot of a single mic stand, capturing the right side of performers. The stage is set against a corner: walls with a pattern of unfinished circles (either chalk or wall-paper imitating chalk), large wooden-framed mirror, a wall-mounted antique lamp. The mirror reflects the lamp and the wall-paper. Sometimes the camera zooms out showing audience members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fetish Cafe stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e42e07f6-9e74-4d16-90d1-197d95d5942b"
+    },
+    {
+      "start_time": 22,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recording starts mid performance, as Jill Battson reads poem including the line \"cast aside my white-woman's ways.\" Applause.] | Video Description: Medium closeup as Jill Battson reads a poem. Battson wears partially visible outfit with thin straps, stud earrings, choker necklace, and short tousled hair. After reading, Battson thanks the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "ea93f13a-5d0a-4b44-84a2-43f8cf39cf1d"
+    },
+    {
+      "start_time": 70,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Lee Gotham advertising the anthology \"Playing in the Asphalt Garden\" (edited by O'Connor, Insomniac Press, 1994). Gotham explains Jill Battson is part of that anthology and that there are books for sale. Gotham then advertises \"Revival: Spoken Word from Lollapalooza 94\" (edited by Torrez et al., Manic D Press, 1995.)]. | Video Description: Medium closeup of Lee Gotham displaying books for sale. Gotham wears an oversized feathery scarf over a leather bodice with spiky straps and choker, heavy makeup, and an updo ponytail,."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c23a27b8-53e8-4c27-b706-69ef309ae53c"
+    },
+    {
+      "start_time": 104,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Second half of the meditation,\" which is interrupted by a telephone ringing.] | Video Description: Medium closeup of Lee Gotham performing a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "146a13cb-d1ab-47f2-b249-fa3e8e8a9c3c"
+    },
+    {
+      "start_time": 195,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Four minutes of this video have been removed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0644d63c-49aa-429f-a290-5e5aae16c12a"
+    },
+    {
+      "start_time": 200,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Lee Gotham introducing Adeena Karasick, mentioning her two books published with Talon books and adding that she is finishing her PhD at Concordia.] | Video Description: Medium closeup of Lee Gotham introducing the next performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2ec96510-3e59-4361-a0a4-6624a7b8e43f"
+    },
+    {
+      "start_time": 305,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs an untitled piece beginning with an incantation and including the line \"I came to you.\" Applause.] | Video Description: Medium closeup of Adeena Karasick performing a piece. Karasick wears an open leather jacket over a bra-top with spikes, a thick choker necklace, and  shoulder-length dark hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "1a9dbf35-9165-4f7e-8649-229bddc952c6"
+    },
+    {
+      "start_time": 418,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a second untitled piece including the line \"just a little bit harder.\" Applause.] | Video Description: Medium closeup of Adeena Karasick performing another piece. Towards the end of the piece, zoom into a closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "358aa707-d7b3-4372-8f95-97b58d6d1294"
+    },
+    {
+      "start_time": 658,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a third untitled piece including the line \"keep your eyes on the road.\" Applause.] | Video Description: Medium closeup of Adeena Karasick performing another piece while gesticulating and dancing. Video skips mid-performance, seemingly resuming during the same piece. Drinks from a glass of water amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "e79186d6-f8cf-433a-a22c-bfda0ba947e4"
+    },
+    {
+      "start_time": 770,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a fourth piece, mentioning it was published in the latest issue of the Index magazine. The piece opens with the line \"(erogenous in the genres?)\" and includes the expression \"post-imperial grammar.\" Applause. Thanks audience.] | Video Description: Extreme closeup then medium closeup of Adeena Karasick performing another piece while gesticulating. Drinks from a glass of water and thanks audience amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "229b874a-fc1c-48fb-bd1d-bc52c41e36d4"
+    },
+    {
+      "start_time": 986,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a fifth and final piece, reading it from the Revival anthology. The piece opens with the line \"can't get enough serotonin.\" Applause.] | Video Description: Medium closeup then closeup of Adeena Karasick reading a piece while holding a copy of the Revival anthology, gesticulating and dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "bbf68c19-b831-4776-a432-52c8a54179db"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Adeena. Introduces and performs a piece dedicated to poet Ian Stephens, who was hospitalized. Applause.] | Video Description: Medium long shot as Lee Gotham walks onto the stage, now wearing only a dress. Zoom into a medium closeup as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "41bb1452-4fd2-4a4d-9d33-463c415c9218"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1e729726-ed96-4403-8977-197f4704e11b"
+    }
+  ],
+  "event_id": "09e42948-06b6-4d8b-a105-0de5d95cd9e9",
+  "set": "AV Description",
+  "source_id": "6f48d5df-1531-4b13-a8e2-f2814131f5af"
+}
