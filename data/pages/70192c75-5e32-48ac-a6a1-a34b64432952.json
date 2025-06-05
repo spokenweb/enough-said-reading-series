@@ -20,6 +20,103 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Watch Party Compilations ",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/abridged%20and%20annotated%20ppp.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
+                  "bold": true
+                },
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nAn abridged version of the Performance Poetry Party event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) featuring performances by Endre Farkas, Lee Gotham, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poesie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Fortner Anderson, Ian Ferrier,  Dee Smith, Norman Nawrocki, and Ian Stephens.\n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Commentary generated in a Zoom watch party held from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Colin Christie, Corey Frost, Dee Smith, Justin McGrail, Lee Gotham, Scott Duncan, and Vincent Tinguely. Hosted by Jason Camlot and Jade Palmer. \n\n\n\n\n\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -36,7 +133,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "The Enough Said Collection",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -1955,7 +2053,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-05-19T19:04:26.599Z",
+  "updated_at": "2025-06-05T18:11:41.388Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
