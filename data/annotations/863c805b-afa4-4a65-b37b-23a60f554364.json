@@ -3716,6 +3716,27 @@
         }
       ],
       "uuid": "c70b2ee3-a212-474a-bb6a-57d456ae7501"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "START"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "82fa8852-36fd-48bc-bd14-4d5ed1316cdb"
     }
   ],
   "event_id": "acaa1cbc-4994-4f0d-80e6-128892a76d2d",
