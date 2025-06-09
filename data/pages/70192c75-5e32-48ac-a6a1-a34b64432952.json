@@ -92,7 +92,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Commentary generated in a Zoom watch party held from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Colin Christie, Corey Frost, Dee Smith, Justin McGrail, Lee Gotham, Scott Duncan, and Vincent Tinguely. Hosted by Jason Camlot and Jade Palmer. \n\n\n\n\n\n\n"
+                  "text": "Commentary generated in a Zoom watch party held from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Colin Christie, Corey Frost, Dee Smith, Justin McGrail, Lee Gotham, Scott Duncan, and Vincent Tinguely. Hosted by Jason Camlot and Jade Palmer. \n"
                 }
               ]
             }
@@ -168,29 +168,12 @@
             },
             {
               "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "textSize": "heading-three"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
               "align": "left",
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1994-12-09 Lee Gotham and Ann Diamond"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "1994-12-09 Lee Gotham and Ann Diamond",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1994-12-09-lee-gotham-and-ann-diamond/"
                 }
               ]
             },
@@ -238,30 +221,12 @@
             },
             {
               "type": "paragraph",
-              "align": "center",
-              "children": [
-                {
-                  "textSize": "heading-three",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
               "align": "left",
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-01-16 bill bissett and Sharon H. Nelson"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "left",
-              "children": [
-                {
-                  "text": ""
+                  "text": "1995-01-16 bill bissett and Sharon H. Nelson",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-01-16-bill-bissett-and-sharon-h-nelson/"
                 }
               ]
             },
@@ -323,34 +288,11 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "left",
-              "children": [
+                  "text": "1995-01-30 Victoria Stanton and Ian Stephens",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-01-30-victoria-stanton-and-ian-stephens/"
+                },
                 {
-                  "textSize": "heading-three",
-                  "text": "1995-01-30 Victoria Stanton and Ian Stephens"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "left",
-              "children": [
-                {
-                  "text": "\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Supporting/open mic performances by Matthew Legault, Shaughnessy Bishop-Stall, Thoth Harris, Steve Godin, Justin McGrail, and more. "
+                  "text": "\nSupporting/open mic performances by Matthew Legault, Shaughnessy Bishop-Stall, Thoth Harris, Steve Godin, Justin McGrail, and more. "
                 }
               ]
             },
@@ -392,25 +334,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "",
-                  "textSize": "heading-three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
                   "textSize": "heading-three",
-                  "text": "1995-02-13, Benefit Part 1"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "1995-02-13 Benefit Part 1",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-02-13-benefit-part-1/"
                 }
               ]
             },
@@ -478,7 +404,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-02-20, Njacko Backo and Groupe de Poésie Moderne"
+                  "text": "1995-02-20 Njacko Backo and Groupe de Poésie Moderne"
                 }
               ]
             },
@@ -678,7 +604,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n1995-03-25, Performance Poetry Party",
+                  "text": "\n1995-03-25 Performance Poetry Party",
                   "textSize": "heading-three"
                 }
               ]
@@ -745,7 +671,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1995-04-03, Dee Smith",
+                  "text": "1995-04-03 Dee Smith",
                   "textSize": "heading-three"
                 }
               ]
@@ -814,7 +740,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-04-17, Clifton Joseph"
+                  "text": "1995-04-17 Clifton Joseph"
                 }
               ]
             },
@@ -882,7 +808,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-06-26, It came from the 401"
+                  "text": "1995-06-26 It came from the 401"
                 }
               ]
             },
@@ -1010,7 +936,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "2022-09-23, Oral History Interview with Lee Gotham"
+                  "text": "2022-09-23 Oral History Interview with Lee Gotham"
                 }
               ]
             },
@@ -1095,29 +1021,12 @@
             },
             {
               "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "textSize": "heading-three"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
               "align": "left",
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-01-09 Swifty Lazarus"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "1995-01-09 Swifty Lazarus",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-01-09-swifty-lazarus/"
                 }
               ]
             },
@@ -1185,30 +1094,12 @@
             },
             {
               "type": "paragraph",
-              "align": "center",
-              "children": [
-                {
-                  "text": "",
-                  "textSize": "heading-three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
               "align": "left",
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-01-23 Neil Wiernik and Fortner Anderson"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "left",
-              "children": [
-                {
-                  "text": ""
+                  "text": "1995-01-23 Neil Wiernik and Fortner Anderson",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-01-23-neil-wiernik-and-fortner-anderson/"
                 }
               ]
             },
@@ -1260,24 +1151,9 @@
               "align": "left",
               "children": [
                 {
-                  "text": "\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
                   "text": "1995-02-06 E.J. Brulé",
-                  "textSize": "heading-three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "textSize": "heading-three",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-02-06-ej-brule-2/"
                 }
               ]
             },
@@ -1335,25 +1211,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "",
-                  "textSize": "heading-three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
                   "textSize": "heading-three",
-                  "text": "1995-02-13, Benefit Part 2"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "1995-02-13 Benefit Part 2",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-02-13-benefit-part-2/"
                 }
               ]
             },
@@ -1413,7 +1273,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-02-27, Sonja A. Skarstedt and Lynn Suderman"
+                  "text": "1995-02-27 Sonja A. Skarstedt and Lynn Suderman"
                 }
               ]
             },
@@ -1480,7 +1340,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-03-06, Phineas Flower Trio and Steve Godin Part 2"
+                  "text": "1995-03-06 Phineas Flower Trio and Steve Godin Part 2"
                 }
               ]
             },
@@ -1539,7 +1399,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-03-20, Fluffy Pagan Echoes"
+                  "text": "1995-03-20 Fluffy Pagan Echoes"
                 }
               ]
             },
@@ -1605,7 +1465,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1995-03-27, Endre Farkas and Suzanne Nuttall",
+                  "text": "1995-03-27 Endre Farkas and Suzanne Nuttall",
                   "textSize": "heading-three"
                 }
               ]
@@ -1711,7 +1571,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n1995-04-10, ga press",
+                  "text": "\n1995-04-10 ga press",
                   "textSize": "heading-three"
                 }
               ]
@@ -1780,7 +1640,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-05-01, Ian Stephens, Lynn Suderman, Ann Diamond, and Justin McGrail"
+                  "text": "1995-05-01 Ian Stephens, Lynn Suderman, Ann Diamond, and Justin McGrail"
                 }
               ]
             },
@@ -1848,7 +1708,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1996-02-14, Lollapalooza Book Launch"
+                  "text": "1996-02-14 Lollapalooza Book Launch"
                 }
               ]
             },
@@ -2053,7 +1913,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-06-05T18:11:41.388Z",
+  "updated_at": "2025-06-09T18:32:32.283Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
