@@ -1,1 +1,434 @@
-{"annotations":[],"event_id":"0c3f5a0b-11ff-4fd2-a219-f08fcf9207d2","set":"AV Description","source_id":"69811bf1-aacd-4e5b-9e71-9ac5a2333672"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Black screen with static. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "No signal",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "da7e6af1-ba6b-41bc-9217-59cc1da9f19c"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video, medium long shot of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) and a dozen or so seated audience members. A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street (4067 St. Laurent) are also visible. Several big spheric lamps hanging over the stage and draped orange curtains almost entirely raised, covering little of the windows. Against the windows, a vertical rectangular banner with the name \"ga press / MONTREAL,\" as well as a series of smaller separate posters with numbers on them: 86, 99, 116, and 235."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4 stage",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "fef616c0-9866-47ee-99a6-d9f3572e1d56"
+    },
+    {
+      "start_time": 16,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good evening, one and all. Thank you so much for coming back out to yet another instalment of Enough Said. We have a wonderfully eclectic offering for everyone here this evening, ga press' first anniversary, [singing] Happy birthday ga press, happy [interrupts himself] no. (?) their first anniversary and, among other things, we are launching their first (boatload?) novel, Chris Bell's work will be available, is in fact available, along with many other ga press authors at the table location outside the door, when everyone has a moment, stop by, please leaf through this stuff, it is a lot of fun. Ok [video skips ahead] ...forge straight into things, just remind everyone that here and in the same time slot, this time next week, Clifton Joseph, radical, political, rap-rhyme writer, taking part with a lot of poets' performances at the Rialto next week, so, yes, (?), next week, Clifton Joseph, don't miss him, he is something special, in your face but in such a sweet way, you'll love him. I have (?) the week after that we'll move down the street to Woodstock (Caf?), the bar, for Clifford Duffy's Invention of God. Come back here the week after, on the first to wrap it all up, for the last of the regular weekly series of events, Monday nights here at Bistro 4. We'll be doing things, independent things, once a month of so, throughout the summer, but as for this wonderful (experiences?) near and dear to my heart, it will come to a finish on the first of May. In any case, without a whole lot more blather, Enough Said is pleased to present to you the progenitors of ga press, ga's (little?) ones, Colin Christie and Corey Frost, may we have you [applause] | Video Description: Medium long shot of Lee Gotham on stage. Gotham wears a dark open jacket, a t-shirt with different shades of brown, a full beard, and hair tied in a bun. Camera zooms in and out several times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "d866700d-b6b1-4e07-a3d5-f9af1ee037ac"
+    },
+    {
+      "start_time": 151,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds. Recorded drumming music. Colin Christie and Corey Frost perform a dialogue using only the monosyllables \"Guh!\" and \"Gah!\" until they agree on the pronunciation \"Gah!\" for the name of \"ga press.\"] | Video Description: Colin Christie and Corey Frost walk to the stage, each carrying a TV set on their shoulders. Christie wears a hat, a striped shirt, and a pendant. Frost wears glasses, loose long hair, a pendant, and a sweater with a fair-isle pattern around the collar. They proceed to set up AV equipment, helped by Lee Gotham. Christie and Frost each hold up a TV covering their respective faces. Laughter. The TVs play video-introductions of ga press. Camera zooms in and pans between the two TVs. Christie and Frost bring the TVs down, while still holding on to them. Frost walks to the middle of the audience, while Christie remains on stage and they perform a call-and-response piece, with Frost slowly walking to the stage and eventually hugging Christie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "8eaa415a-c10e-4ee5-8c0b-a08e43e37016"
+    },
+    {
+      "start_time": 333,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background music stops. Ambient sound, with Colin Christie and Corey Frost repeating \"Gah\" at odd intervals. TV audio, mostly inaudible, introducing the next performer, Golda Fried. Laughter. Applause.] | Video Description: Colin Christie and Corey Frost hold their TVs back up, playing different videoclips in which their recorded selves appear. The camera zooms in and out of each TV set, panning in between them. Christie and Frost put their TVs down. Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "a0b77bb6-3a94-4940-a061-59d7076ba41b"
+    },
+    {
+      "start_time": 540,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, I just wanted to say before I started that I am really honoured to be reading for ga press' birthday, they've impressed me (?) over and over again, (with?) both the material they've chosen and their layouts, and I'm really glad (?) (upcoming?) writers (?). And the piece I'm gonna be doing is called \"Blue toenails\" (?). [Reads \"Blue toenails.\"] | Video Description: Medium long shot of Golda Fried walking to the stage. Fried wears jeans, a blouse, an open long jacket, and loose long hair. Camera zooms in and out several times while Fried reads, remaining most of the time in a closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Golda Fried"
+        }
+      ],
+      "uuid": "03b7f21b-06dd-40ab-8adc-7135f22bbc8a"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds. TV plays a recording of \"Blister in the Sun\" by Violent Femmes. Song fades into background, and the TV audio, mostly inaudible, introduces the next performer, Sandra Jeppesen. Applause.] | Video Description: Colin Christie and Corey Frost come back to the stage to set up AV equipment. They each hold up a TV set in front of their faces, playing a different videoclip: Christie wearing the same striped shirt and dancing, Frost talking in front of a brick wall."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "6820f9f4-3c27-49d5-93a7-e59b1147ab55"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 2050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, this is fun, is everyone having fun? Ok, I'm gonna read two pieces; the first one is a bit longer than the second one, and the second one is the piece that the ga guys have made into a chapbook, and I think they've done a really good job, and I think they're great. So, I'm glad that they wanted to publish my chapbook. [noises from adjusting the mic] (?) make allowances for short people. Ok, my first piece is about how (art?) is sometimes difficult to write, it's called \"Go to hell, Margaret Atwood.\" [Laughter. Reads \"Go to hell, Margaret Atwood\" and \"Mister and his son, or how to go insane in 10 easy steps.\"] | Video Description: Medium long shot of Sandra Jeppesen walking to the stage. Jeppesen wears black pants and blouse, round glasses, several types of earrings (including a nose piercing and dangle-cross earrings), three different necklaces (one with a yin yang pendant), and an asymmetrical haircut with temple shave. Camera zooms in and out several times, remaining most of the time in a closeup. Jeppesen adjusts the mic and reads; while reading, Jeppesen removes the glasses. After reading the first piece, the camera zooms out to a medium long shot and registers applause, as well as Jeppesen drinking water by the edge of the frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sandra Jeppesen"
+        }
+      ],
+      "uuid": "9e80fec1-775b-42f1-88b0-9fc7b0bc2ab0"
+    },
+    {
+      "start_time": 2050,
+      "end_time": 2439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Blister in the Sun, or how to go insane in 10 easy steps,\" mentioning ga press published it as a chapbook (Blister in the Sun, ga press, 1995).] | Video Description: Medium long shot. While Jeppesen reads, Colin Christie and Corey Frost hold up a TV set each, displaying video with the numbers corresponding to each part of the poem. Jeppesen leaves the stage amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sandra Jeppesen"
+        }
+      ],
+      "uuid": "5c0c781c-e734-45d9-9431-bff7de69d833"
+    },
+    {
+      "start_time": 2439,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I always like to run away (?) readings. Colin and Corey are now going to do a performance of something by Julie Bruck, who I know is another ga press publishee. Here they are. | Video Description: Jeppesen returns to the stage to introduce the next act, while Colin Christie and Corey Frost tweak with the AV equipment. Frost removed his sweater and now wears only a polo shirt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sandra Jeppesen"
+        }
+      ],
+      "uuid": "d3cfa887-8d0a-49ab-a501-fb26e7ce1499"
+    },
+    {
+      "start_time": 2460,
+      "end_time": 2581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The duo introduces and reads \"Perceived threat,\" by Julie Bruck (later published in The End of Travel, Brick Books, 1999). First, Frost reads the poem leaving out the final words from each line; then, Christie reads just those final words; then together, interweaving their parts, they read the full poem. Telephone rings mid-performance and Frost ad libs an extra line to the piece, \"Every dreaded phone call.\" Applause.] | Video Description: Medium shot, then closeup. Colin Christie and Corey Frost pass back and forth a miniature book while reading the piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "7ac85ef0-3825-4ddc-b205-c0f3eca3d36e"
+    },
+    {
+      "start_time": 2581,
+      "end_time": 2656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, well that is half of ga's first birthday party, and please stick around for the second half, which will follow almost directly. We're gonna take a very short break, allow everyone to get up, stretch their legs, have another drink, every drink has 25 cents towards the (aid?) of the series, what else do you need to know? Yeah, come on up, same time, same place next week, radical, political, rap-rhyme writer Clifton Joseph, gonna (flow?) and give us some lyrical phrases. Ok, so, I've noticed there has been twice as many people on the left-hand side of the open mic board and half as many on the right-hand side before we got underway here; now the half that has disappeared from the left is a result of people leaning against the board; well, these things happen, if you remember existing at one point in history on the left-hand side of this board, you might want to put yourself back in there. Unfortunately, there are at least half again as many people as we need on the right-hand side of the board [video skips ahead] | Video Description: Medium long shot. Lee Gotham adjusts the mic. Camera zooms in to a closeup. Gotham speaks while scratching the right temple."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "2be47162-bb33-42fc-bdf2-449282019050"
+    },
+    {
+      "start_time": 2656,
+      "end_time": 2721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome back, my friends. (?) Thanks for hanging out, hope everyone is refreshed, we are just about ready to forge into the second half of ga's offerings. Corey and Colin are ready to reveal to you yet more wondrous mysteries of the workings of ga press. They will kick off the second half of the act themselves. Please come back out next weekend (to hear?) this fellow Clifton Joseph, he's really a kick-ass performer, and I would hate to bring him in from Toronto without a crowd to welcome him. In any case, I'm sympathetic to the students doing good student things, (hanging?) in and studies, so if that's the case, well, hang. Lots of luck with it. Without further ado, Corey and Colin and, later, Chris Bell. | Video Description: Closeup. Lee Gotham adjusts mic. Camera zooms out to a medium shot, then in to closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ba70707b-42f6-442b-9034-1df3b40357e7"
+    },
+    {
+      "start_time": 2721,
+      "end_time": 3293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds. Colin Christie and Corey Frost alternate reading dozens of short passages from different ga press publications, with long silences in between.] | Video Description: Medium long shot. Colin Christie and Corey Frost return to the stage and stand in silence; through gestures alone, one asks what the other is holding, which turns out to be various ga press' publications. They agree on one of the books to begin with and then alternate reading dozens of short passages, each from a different ga press publication. Camera zooms in and out a few times, remaining most of the time in a medium shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "90c7049a-2f40-4f71-981d-8c80441504d7"
+    },
+    {
+      "start_time": 3293,
+      "end_time": 3677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds. Lee Gotham asks what were Colin Christie and Corey Frost reading from in the previous act. Christie answers they were volumes published by ga press and advertises the books for sale at the entrance of the venue. Laughter. Christie explains they cannot play the video they recorded to introduce Chris Bell, so he introduces Bell himself, describing the video the audience would have seen, and stating that \"Tales of the Lost Cheebah-ha\" is Bell's first published novel and ga's first novel published. Laughter. The video eventually works, playing the recorded introduction to Chris Bell. Applause.] | Video Description: Camera zooms out to medium long shot. Colin Christie adjust AV equipment and walks over to the mic to have a conversation with Lee Gotham (who is off-screen). Camera zooms in to a medium closeup. Christie introduces the next reader, Chris Bell. Camera zooms out to medium long shot and we see Corey Frost adjusting the AV. Christie and Frost lift each a TV set playing a video-introduction to Chris Bell. Camera zooms in to video-recording playing a demonstration of Christie putting a band and a sleeve on Bell's book."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "42660bd3-897b-4121-a6f7-00d9c21536a4"
+    },
+    {
+      "start_time": 3677,
+      "end_time": 4976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introductory remarks are mostly inaudible until Lee Gotham asks him to adjust the mic. Bell reads from \"Tales of the Lost Cheebah-ha\" (ga press, 1995). Applause.] | Video Description: Camera zooms in to a medium closeup. Bell wears glasses, a black suit, a black dress shirt with a layer of glimmering dots (perhaps a separate half-vest), and a dress-shirt stud with a silvery bull head. Bell reads while holding a copy of \"Tales of the Lost Cheebah-ha\" with his left hand. Applause. Camera zooms out to medium long shot; we see Bell exit and Lee Gotham join the stage applauding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Chris Bell"
+        }
+      ],
+      "uuid": "780bfc18-45c0-415f-b332-e43fad42046f"
+    },
+    {
+      "start_time": 4976,
+      "end_time": 5149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Chris Bell for reading and explains that Bell's novel comprises five chapbooks, each telling parts of the story in different ways, with different styles. Frost adds the book is selling for $5. Colin Christie thanks a series of people.] | Video Description: Camera zooms in to a medium closeup. Colin Christie and Corey Frost alternate using the mic to do final remarks and acknowledgments. Applause. Camera zooms out to medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Corey Frost"
+        }
+      ],
+      "uuid": "860e4c73-2722-40c5-a949-84c64801004c"
+    },
+    {
+      "start_time": 5149,
+      "end_time": 5155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you ga press, Colin and Corey collectively. | Video Description: Medium long shot of Lee Gotham at the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "f0a640eb-c992-4a95-8b8f-c0c984fd134e"
+    },
+    {
+      "start_time": 5155,
+      "end_time": 5156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "df3f8c02-5f96-43bc-b4af-b0232f79e608"
+    }
+  ],
+  "event_id": "0c3f5a0b-11ff-4fd2-a219-f08fcf9207d2",
+  "set": "AV Description",
+  "source_id": "69811bf1-aacd-4e5b-9e71-9ac5a2333672"
+}
