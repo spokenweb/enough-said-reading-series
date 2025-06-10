@@ -56,7 +56,33 @@
               "type": "paragraph",
               "children": [
                 {
+                  "bold": true,
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/",
                   "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://spokenweb.github.io/enough-said-reading-series/events/1994-12-09-lee-gotham-and-ann-diamond/",
+                  "children": [
+                    {
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://spokenweb.github.io/enough-said-reading-series/events/1994-12-09-lee-gotham-and-ann-diamond/",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "text": "\n\n***"
                 }
               ]
             },
@@ -64,11 +90,13 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
-                  "bold": true
+                  "bold": true,
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/",
+                  "text": "Abridged and Annotated 1995-03-25 Performance Poetry Party"
                 },
                 {
-                  "text": "\n"
+                  "text": "\n",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/"
                 }
               ]
             },
@@ -488,7 +516,7 @@
                 {
                   "textSize": "heading-three",
                   "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-02-20-njacko-backo-and-groupe-de-poesie/",
-                  "text": "1995-02-20 Njacko Backo and Groupe de Poésie Moderne"
+                  "text": "1995-02-20 Njacko Backo and Groupe de Poesie Moderne"
                 }
               ]
             },
@@ -553,15 +581,6 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "",
-                  "textSize": "heading-three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
                   "textSize": "heading-three",
                   "text": "",
                   "link": ""
@@ -574,6 +593,26 @@
                 {
                   "textSize": "heading-three",
                   "link": "",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "link": "",
+                  "text": "***"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-03-06-phineas-flower-trio-and-steve-godi/",
                   "text": "1995-03-06 Phineas Flower Trio and Steve Godin Part 1"
                 }
               ]
@@ -1061,7 +1100,26 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "2022-09-23 Oral History Interview with Lee Gotham"
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "***"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "2022-09-23 Oral History Interview with Lee Gotham",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/2022-09-23-oral-history-interview-with-lee-go/"
                 }
               ]
             },
@@ -1328,7 +1386,7 @@
                 {
                   "textSize": "heading-three",
                   "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-02-06-ej-brule-2/",
-                  "text": "1995-02-06 E.J. Brulé"
+                  "text": "1995-02-06 E.J. Brule"
                 }
               ]
             },
@@ -1553,6 +1611,16 @@
                 {
                   "textSize": "heading-three",
                   "link": "",
+                  "text": "***"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-03-06-phineas-flower-trio-and-steve-god-2/",
                   "text": "1995-03-06 Phineas Flower Trio and Steve Godin Part 2"
                 }
               ]
@@ -1877,7 +1945,26 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "1995-05-01 Ian Stephens, Lynn Suderman, Ann Diamond, and Justin McGrail"
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": "1995-05-01 Ian Stephens, Lynn Suderman, Ann Diamond, and Justin McGrail",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-05-01-ian-stephens-lynn-suderman-ann-d/"
                 }
               ]
             },
@@ -2156,7 +2243,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-06-09T19:32:34.352Z",
+  "updated_at": "2025-06-10T18:34:44.177Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
