@@ -92,7 +92,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "***"
+                  "text": ""
                 }
               ]
             },
@@ -600,7 +600,7 @@
                 {
                   "textSize": "heading-three",
                   "link": "",
-                  "text": "***"
+                  "text": ""
                 }
               ]
             },
@@ -1097,7 +1097,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "***"
+                  "text": ""
                 }
               ]
             },
@@ -1590,7 +1590,7 @@
                 {
                   "textSize": "heading-three",
                   "link": "",
-                  "text": "***"
+                  "text": ""
                 }
               ]
             },
@@ -2204,7 +2204,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-06-10T19:11:44.408Z",
+  "updated_at": "2025-06-26T18:10:22.110Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
