@@ -91,8 +91,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "textSize": "heading-three",
-                  "text": ""
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/",
+                  "text": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
+                  "textSize": "heading-three"
                 }
               ]
             },
@@ -100,10 +101,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "bold": true,
-                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/",
-                  "text": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
-                  "textSize": "heading-three"
+                  "text": ""
                 }
               ]
             },
@@ -589,17 +587,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "link": "",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "textSize": "heading-three",
-                  "link": "",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-03-06-phineas-flower-trio-and-steve-godi/",
                   "text": ""
                 }
               ]
@@ -1153,14 +1141,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -1579,17 +1559,7 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": "",
-                  "link": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "textSize": "heading-three",
-                  "link": "",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/1995-03-06-phineas-flower-trio-and-steve-god-2/",
                   "text": ""
                 }
               ]
@@ -2204,7 +2174,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-06-26T18:10:22.110Z",
+  "updated_at": "2025-06-26T18:28:10.292Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
