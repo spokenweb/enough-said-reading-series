@@ -125,7 +125,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Commentary generated in a Zoom watch party held from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Colin Christie, Corey Frost, Dee Smith, Justin McGrail, Lee Gotham, Scott Duncan, and Vincent Tinguely. Hosted by Jason Camlot and Jade Palmer. \n"
+                  "text": "Commentary generated in a Zoom watch party held on May 8th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Colin Christie, Corey Frost, Dee Smith, Justin McGrail, Lee Gotham, Scott Duncan, and Vincent Tinguely. Hosted by Jason Camlot and Jade Palmer. \n"
                 }
               ]
             }
@@ -155,6 +155,66 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Enough Said Watch Party Compilation 1994-1995",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nA compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1994-12-19 to 1995-05-01 featuring Lee Gotham, Ann Diamond, Joelle Ciona, Neil Wiernick, Shaughnessy Bishop-Stall, Thoth Harris, Anne Stone, Raymond Filip, Steve Luxton, Sonja Skarstedt, and Ian Ferrier. \n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n\nCommentary generated in a Zoom watch party held on June 26th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Dee Smith, Justin McGrail, Endre Farkas, Raymond Filip, and Joelle Ciona. Hosted by Jason Camlot and Jade Palmer. \n\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-three",
                   "text": ""
                 }
               ]
@@ -2175,7 +2235,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-07-20T22:50:39.231Z",
+  "updated_at": "2025-07-20T22:55:05.015Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
