@@ -155,17 +155,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": " ",
+                  "text": "",
                   "link": "https://spokenweb.github.io/enough-said-reading-series/events/enough-said-watch-party-compilation-video-199/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/enough-said-watch-party-compilation-video-199/",
-                  "text": ""
                 }
               ]
             },
@@ -2220,7 +2211,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-07-20T23:25:51.262Z",
+  "updated_at": "2025-07-20T23:36:46.175Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
