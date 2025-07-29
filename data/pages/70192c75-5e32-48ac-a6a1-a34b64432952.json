@@ -4,14 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "insert intro text here "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -2212,7 +2204,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-07-29T18:35:12.656Z",
+  "updated_at": "2025-07-29T18:43:44.023Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
