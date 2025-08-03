@@ -1190,7 +1190,56 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Takedown Policy",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "While SpokenWeb made every effort to contact all individuals featured in the above recordings to request the rights to publish this material, we were not able to contact everyone. If you are a performer in this collection who wishes to request the removal of your performance from the online exhibition and Concordia Library Special Collections, please email "
+                },
+                {
+                  "type": "link",
+                  "url": "mailto:spokenweb.archives@gmail.com",
+                  "children": [
+                    {
+                      "text": "spokenweb.archives@gmail.com"
+                    }
+                  ]
+                },
+                {
+                  "text": " and/or "
+                },
+                {
+                  "type": "link",
+                  "url": "mailto:jason.camlot@concordia.ca",
+                  "children": [
+                    {
+                      "text": "jason.camlot@concordia.ca"
+                    }
+                  ]
+                },
+                {
+                  "text": " with the name of the recording in question and your name. Sections of audio and video will be removed and replaced with a black screen with white text that reads \"# minutes of video have been removed\". SpokenWeb asserts no copyright of the works featured in the above recordings and all rights belong to their authors.  "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n"
                 }
               ]
             }
@@ -2204,7 +2253,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-07-29T18:43:44.023Z",
+  "updated_at": "2025-08-03T19:17:24.904Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
