@@ -4,8 +4,8 @@
       "label": "",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://youtu.be/EVLov0inR0I",
-      "duration": 2957
+      "file_url": "https://archive.org/download/EnoughSaid19950213Benefit/Enough_Said-19950213-Benefit_Part1.mp4",
+      "duration": 2956
     }
   },
   "auto_generate_web_page": true,
@@ -22,7 +22,7 @@
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-05-22T21:25:11.597Z",
+  "updated_at": "2025-08-04T19:11:26.778Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "1316cc47-465c-423f-a95d-0f33b71c9ef9"
