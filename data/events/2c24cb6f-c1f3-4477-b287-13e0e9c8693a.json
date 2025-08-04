@@ -4,8 +4,8 @@
       "label": "",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://archive.org/details/EnoughSaidSpokenWordSampler",
-      "duration": 1051
+      "file_url": "https://ia601802.us.archive.org/18/items/EnoughSaidSpokenWordSampler/Enough_Said-SpokenWord_Sampler.mp4",
+      "duration": 1049
     }
   },
   "auto_generate_web_page": true,
@@ -22,7 +22,7 @@
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-08-03T19:56:53.585Z",
+  "updated_at": "2025-08-04T18:10:13.349Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "30da4feb-c45f-4e87-a591-6a802f9e30ee"
