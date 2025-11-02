@@ -15,14 +15,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "An abridged version of the recording \"1995-03-25 Performance Poetry Party\" spoken word series event held at Building Danse (55 Avenue des Pins East, 2nd floor, Montreal, QC, H2W 1N6). Includes commentary from a watch and annotation party held on Zoom on May 8, 2025, hosted by Jason Camlot and Jade Palmer. Commentary by Colin Christie, Corey Frost, Justin McGrail, Vincent Tinguely, Scott Duncan, Dee Smith, and Lee Gotham."
+          "text": "An abridged version of the recording \"1995-03-25 Performance Poetry Party\" spoken word series event held at Building Danse (55 Avenue des Pins East, 2nd floor, Montreal, QC, H2W 1N6) featuring performances by Endre Farkas, Lee Gotham, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poésie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Fortner Anderson, Ian Ferrier,  Dee Smith, Norman Nawrocki, and Ian Stephens."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Includes commentary from a watch and annotation party held on Zoom on May 8, 2025, hosted by Jason Camlot and Jade Palmer. Commentary by Colin Christie, Corey Frost, Justin McGrail, Vincent Tinguely, Scott Duncan, Dee Smith, and Lee Gotham."
         }
       ]
     }
   ],
   "created_at": "2025-05-22T19:54:51.528Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-11-02T23:42:17.173Z",
+  "updated_at": "2025-11-02T23:45:30.476Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "733cfd82-4128-4b71-88cd-b83cfbea48ee"
