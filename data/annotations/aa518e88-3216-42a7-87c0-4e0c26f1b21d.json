@@ -1,1 +1,746 @@
-{"annotations":[],"event_id":"174aa872-6620-42bd-bd37-00cc8ba87af9","set":"AV Description","source_id":"a64bfa36-7a90-4c44-abb2-1a6ac60303d1"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Piano melody. Whoosh sound effect.] | Video Description: Black screen with a white logo and white text that reads \"SpokenWeb\" transitions to a black screen with white text that reads \"Enough Said / Trevor Ferrier, Njacko Backo, Stephen Edgar, / Steve Godin, Mitsiko Miller, David Jager, / Suzanne Nuttall, Sandra Jeppesen, Clifton Joseph, Steve \"Liquid\" Hawley, Jill Battson, / Nancy Dembowski, and Stan Rogal\" and a banner on the bottom left of the screen that reads \"SpokenWeb Presents\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "cbd31e58-bc93-4342-8050-7941d42a5d59"
+    },
+    {
+      "start_time": 11,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / February 20, 1995 / Trevor Ferrier / Excerpted from 1995-02-20, Njacko Backo and Groupe de Poesie Moderne\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1164c13b-f6c5-4488-986e-9fa023f8562f"
+    },
+    {
+      "start_time": 16,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Plays the sanza while telling a story in English, opening with the line \"Once on the far side of yesterday there lived a little girl who wanted to know the future.\"] | Video Description: Different degrees of closeup as Ferrier tells a story while playing the sanza. Ferrier wears a red Henley shirt with the sleeves rolled up, shaved head, and thin moustache. At some point the camera zooms into an extreme closeup of his hands playing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "2c695ac1-e031-44ca-9311-5b20386a0c2f"
+    },
+    {
+      "start_time": 259,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / February 20, 1995 / Njacko Backo / Excerpted from 1995-02-20, Njacko Backo and Groupe de Poesie Moderne\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e68e8ecb-1174-4fd7-949c-debf55b73b6f"
+    },
+    {
+      "start_time": 265,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Salutes the audience in French and tells a story titled \"Macaco.\" Applause.] | Video Description: Closeup of Njacko Backo entering the stage. Backo wears a dark sweater, neck-length braided hair, and a large beaded necklace. As Backo tells a story, the camera alternates among different degrees of closeup and pans from side to side to accompany Backo on stage. At some point, Backo balances a percussion instrument (the same one Ferrier drummed) on his head, acting out part of the story. Backo incorporates call-and-responses and a choruses with the audience into the storytelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Njacko Backo"
+        }
+      ],
+      "uuid": "470a4c50-f41e-4a46-8862-109c50dc0cd7"
+    },
+    {
+      "start_time": 538,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / February 27th 1995 / Stephen Edgar / Excerpted from 1995-02-27, Sonja Skarstedt and Lynn Suderman\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1abc6fed-b8f8-453a-b410-8539103073e5"
+    },
+    {
+      "start_time": 544,
+      "end_time": 798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Sex Ed, 16/27, 1995,\" dedicating it to his little brother. Frequent audience laughter. Applause.] | Video Description: Medium shot as Stephen Edgar reads, placing his left hand inside his pants pocket. Edgar wears black pants, long unbuttoned button-down brown shirt over a white shirt and ochre V-neck sweater, short light hair, round thin glasses, dangle earring on the right lobe and stud on the left. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stephen Edgar"
+        }
+      ],
+      "uuid": "95f8e3f7-fa02-467f-a6fb-e607083ec888"
+    },
+    {
+      "start_time": 798,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / March 6th, 1995 / Steve Godin / Excerpted from 1995-03-06, Phineas Flower Trio / and Steve Godin Part 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e2431250-ad0a-45c7-aafb-0883f118b018"
+    },
+    {
+      "start_time": 804,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads text including the phrase, \"The purpose of this script is to maintain with the literary mind dictating a voyage to the uncertain...\" over a distorted slow-moving instrumental music that gradually increases in volume.] | Video Description: Alternating medium closeup and closeup of Steve Godin reading while holding the mic. Godin wears dark pants, a black leather jacket and shoulder-length grey hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve Godin"
+        }
+      ],
+      "uuid": "d86e0e60-23b6-43e1-ae3c-d05aa705bc57"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / March 6th, 1995 / Mitsiko Miller / Excerpted from 1995-03-06, Phineas Flower Trio / and Steve Godin Part 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "a285e153-266f-4b28-b4fa-398cbedc0714"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks if everyone knows the song \"Creep\" by Radiohead. Performs \"The subway glare.\"] | Video Description: Closeup. Miller smokes and makes remarks, then removes leather jacket. Miller wears a black-and-grey patterned button-down dress, pixie-cut blonde hair, a necklace, and earrings. Reads a piece. Camera zooms out to a medium shot then into a medium closeup. Applause, as Miller leaves the stage and camera zooms out to a medium long shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Mitsiko Miller"
+        }
+      ],
+      "uuid": "d79cb25d-22f6-4010-a173-affd8e15ee76"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / March 13th, 1995 / David Jager / Excerpted from 1995-03-13 Adeena Karasick\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "4e6d442f-8a01-415d-843e-d5c116802d65"
+    },
+    {
+      "start_time": 1295,
+      "end_time": 1480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece called \"Words.\" Applause.] | Video Description: Closeups as David Jager performs a piece. Jager wears a light brown striped button-down shirt with sleeves rolled up to the elbow and dark brown hair falling onto forehead in strands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "David Jager"
+        }
+      ],
+      "uuid": "036e964d-5b1a-4837-9ea4-30a735380bf9"
+    },
+    {
+      "start_time": 1480,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video description: Black screen with white text that reads \"Enough Said / March 27th, 1995 / Endre Farkas and Suzanne Nuttall / Excerpted from 1995-03-27, Endre Farkas / and Suzanne Nuttall\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "2541787e-9999-4ce5-bb1b-2d7ac3c73921"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Suzanne Nuttall says \"naked\" off-camera, which Endre Farkas repeats as Nuttall walks to join him on stage. Each repeats the word many more times, sometimes in unison, then Farkas begins reciting a piece opening with the line, \"Against the world and without time to be innocent,\" which proceeds as a dialogue between the performers. Applause at the end.] | Video Description: Zoom out to a medium long shot as Endre Farkas stands at the mic and Suzanne Nuttall walks to join him on stage. Farkas wears a light striped button-down shirt, red suspenders, thick eyebrows, and short grey hair with hairline receding. Nuttall wears dark pants, a long-sleeved white button-down shirt with black details on both sides of the buttons, short dark hair combed up, and one dangle earring on the right lobe. They perform a piece while standing side by side, with the mic stand between them. At some point they dramatize searching for something and switch sides on stage, then briefly hold hands. Zoom out to a medium long shot as Farkas drinks water and Nuttall leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Endre Farkas"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "a8018eac-54ea-4dec-ae8e-20d70406e77e"
+    },
+    {
+      "start_time": 1868,
+      "end_time": 1874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / April 17th, 1995 / Sandra Jeppesen / Excerpted from 1995-04-10, ga press\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "58b0b81e-5405-4f91-b233-f757029687bd"
+    },
+    {
+      "start_time": 1874,
+      "end_time": 2241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Blister in the Sun, or how to go insane in 10 easy steps,\" mentioning ga press published it as a chapbook (Blister in the Sun, ga press, 1995).] | Video Description: Medium long shot. While Jeppesen reads, Colin Christie and Corey Frost hold up a TV set each, displaying video with the numbers corresponding to each part of the poem. Christie wears a hat, a striped shirt, and a pendant. Frost wears glasses, loose long hair, a pendant, and a sweater with a fair-isle pattern around the collar. Jeppesen leaves the stage amid applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Sandra Jeppesen"
+        }
+      ],
+      "uuid": "b0f1f2a2-e549-4790-94dd-843652fa4e79"
+    },
+    {
+      "start_time": 2241,
+      "end_time": 2247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / April 17th, 1995 / Clifton Joseph / Excerpted from 1995-04-17, Clifton Joseph\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "a1150ce3-f435-4bfa-aff9-c4c83fbd4168"
+    },
+    {
+      "start_time": 2247,
+      "end_time": 2324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs poem beginning with singing and the line, \"When I look at the situation\".] | Video Description: Clifton Joseph performs poem, occasionally using pointing, snaps, and other gestures to emphasize the performance. Joseph wears a brown button-up vest over a light green short-sleeved shirt, black-framed glasses, and short black hair. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "fa102e95-cbb0-42d7-8def-30693c7083e0"
+    },
+    {
+      "start_time": 2324,
+      "end_time": 2364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a poem with vocalizing a melody and the line \"See, you never know what a man may do\". Audience clapping along to beat.] | Video Description: Clifton Joseph performs poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "9a53454d-be32-45e3-9c49-b3236897badb"
+    },
+    {
+      "start_time": 2364,
+      "end_time": 2397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"Damn, damn, damn, what a scam, what a sham\". Addresses audience. Audience laughter and applause.] | Video Description: Clifton Joseph performs poem. Sips from glass. Addresses audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Clifton Joseph"
+        }
+      ],
+      "uuid": "29c8dd04-3796-4d25-9ea7-5020692236ef"
+    },
+    {
+      "start_time": 2397,
+      "end_time": 2402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: \"Enough Said / April 17th, 2995 / Steve \"Liquid\" Hawley / Excerpted from 1995-04-17, Clifton Joseph\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0aec87eb-7471-48e8-bc6c-76a15bf1a243"
+    },
+    {
+      "start_time": 2402,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece beginning with the line \"It's rough, growing up without peers\" (later released as the song \"Smoke Filled Thoughts\" by Liquid LTD, Acquarius Records, 2001). Addresses audience. Audience applause.] | Video Description: Steve \"Liquid\" Hawley raps into microphone. Hawley wears a black sweatshirt and backward baseball cap on short dark hair. Hawley holds a cigarette and a beer. Camera zooms out as Hawley exits frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
+      "uuid": "b470887e-ddf7-4757-959d-64467be0d3e5"
+    },
+    {
+      "start_time": 2535,
+      "end_time": 2541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / June 26th, 1995 / Jill Battson / Excerpted from 1995-06-26, It came from the 401\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1e0417ff-b332-47d3-b252-f6b8c88a3cda"
+    },
+    {
+      "start_time": 2541,
+      "end_time": 2648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(?) when I become goddess, I'm gonna be Madonna of poetry, that's what I'll be aiming for; a legend in my own mind. Reads \"The tartness prickling my tongue\" (published as \"Nicked\" in Playing in the Asphalt Garden, edited by Mike O'Connor, Insomniac Press, 1994). Three-second silence at the end of the poem, followed by applause.] | Video Description: Medium closeup of Jill Battson making brief introductory remarks, then reading while holding a pack of printed pages. Battson wears a leaf-patterned black-and-white vest over a white t-shirt and pixie-cut red hair with bangs. Camera zooms out and in a few times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "bf618955-6e0f-4b3d-8863-5cdc2e9d4898"
+    },
+    {
+      "start_time": 2648,
+      "end_time": 2652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "f5932305-cb3c-42de-96a3-4266e29566b0"
+    },
+    {
+      "start_time": 2652,
+      "end_time": 2747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Dedicates the poem to a friend who died from AIDS-related causes. Reads \"Morphine Headache\" (partially published as \"A Morphine Headache\" in An Invisible Accordion, edited by Jennifer Footman, Broken Jaw Press, 1996; and, later, in complete form, in Hard Candy, Insomniac Press, 1997). Applause.] | Video Description: Medium closeup of Jill Battson contextualizing and reading a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "e0443441-3727-4f0f-8d9b-bced46aa3c49"
+    },
+    {
+      "start_time": 2747,
+      "end_time": 2817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"S&M\" (published in Playing in the Asphalt Garden, edited by Mike O'Connor, Insomniac Press, 1994). Three-second silence at the end of the poem, followed by applause.] | Video Description: Camera zooms out and in, settling into a medium shot of Jill Battson, who contextualizes and reads a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jill Battson"
+        }
+      ],
+      "uuid": "74f4f47d-d7e1-457c-8d4a-6697507f4f31"
+    },
+    {
+      "start_time": 2817,
+      "end_time": 2822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / June 26th, 1995 / Nancy Dembowski / Excerpted from 1995-06-26, It came from the 401\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "5106ee9a-69b2-415e-bd77-065be82ab151"
+    },
+    {
+      "start_time": 2822,
+      "end_time": 3006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs poem beginning with the line \"Turbaned guy keeping guard outside that Indian dive\" (published as \"Living with Shirley in Georgetown\" in  Word Up, edited by Jill Battson and Ken Norris, Key Porter Books, 1995; and later in Only the Ghost Has Lasted, Insomniac Press, 2000). Applause.] | Video Description: Camera tracks Nancy Dembowski walking towards the stage and carrying a glass and some papers. Dembowski wears a black-and-white patterned dress, shoulder-length dark hair, and a necklace. Camera zooms into a closeup, as Dembowski smiles to the audience and immediately starts performing a poem from memory. Mid-performance, the camera zooms out to a medium shot. Dembowski frequently adjusts her hair back, away from her face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Nancy Dembowski"
+        }
+      ],
+      "uuid": "35bff10a-3975-42d3-9659-81ac4dd246c8"
+    },
+    {
+      "start_time": 3006,
+      "end_time": 3011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / June 26th, 1995 / Stan Rogal / Excerpted from 1995-06-26, It came from the 401\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "90ef30be-993b-4203-a121-47ba242fea64"
+    },
+    {
+      "start_time": 3011,
+      "end_time": 3203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and reads \"Hourglass\" (published in The Imaginary Museum, ECW Press, 1993). Applause. | Video Description: Medium shot, then zoom into a medium closeup of Rogal introducing and reading a poem. Rogal wears shorts, a black open short-sleeved shirt over a black graphic t-shirt with two faces in white and the words \"BALD EGO,\" trimmed beard, and temple hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "a30f69b2-94b1-4077-8d5f-5a6efb77053a"
+    },
+    {
+      "start_time": 3203,
+      "end_time": 3206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "2ce4b8e4-b191-4e21-a1b7-b25860c2742b"
+    },
+    {
+      "start_time": 3206,
+      "end_time": 3276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and recites from memory \"Classical Joint Coffee, (Jazz in the Rocks?).\" Applause. | Video Description: Medium shot. Stan Rogal performs a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Stan Rogal"
+        }
+      ],
+      "uuid": "444ad532-f205-44ee-abdc-4f155162cd3f"
+    },
+    {
+      "start_time": 3276,
+      "end_time": 3298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Black screen with white text rolling down listing the date, venue, performers' names, the researchers involved in the project, and copyright information."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "SpokenWeb edits",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "ff6975de-d891-4392-805e-b9ff8ddcbfdc"
+    }
+  ],
+  "event_id": "174aa872-6620-42bd-bd37-00cc8ba87af9",
+  "set": "AV Description",
+  "source_id": "a64bfa36-7a90-4c44-abb2-1a6ac60303d1"
+}
