@@ -17,7 +17,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "A compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1994-12-19 to 1995-05-01 featuring Lee Gotham, Ann Diamond, Joelle Ciona, Neil Wiernick, Shaughnessy Bishop-Stall, Thoth Harris, Anne Stone, Raymond Filip, Steve Luxton, Sonja Skarstedt, and Ian Ferrier. \n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
+          "text": "A compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1994-12-19 to 1995-05-01 featuring Lee Gotham, Ann Diamond, Joelle Ciona, Neil Wiernick, Shaughnessy Bishop-Stall, Thoth Harris, Anne Stone, Raymond Filip, Steve Luxton, Sonja Skarstedt, and Ian Ferrier. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nIncludes commentary from a watch and annotation party held on Zoom on ###, 2025, hosted by Jason Camlot and Jade Palmer. Commentary by Justin McGrail, Dee Smith, Joelle Ciona, and Endre Farkas.  \n\n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
         }
       ]
     }
@@ -26,7 +34,7 @@
   "label": "Watch Party Compilation 2 1994-12-19 to 1995-02-13",
   "created_at": "2025-07-20T18:11:06.352Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-11-02T23:43:33.471Z",
+  "updated_at": "2025-11-02T23:48:38.652Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "eb6b83fe-d3dc-4068-86cc-9ef389e727c4"
