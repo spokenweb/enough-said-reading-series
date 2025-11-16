@@ -120,6 +120,22 @@
                   "text": "Commentary generated in a Zoom watch party held on May 8th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Colin Christie, Corey Frost, Dee Smith, Justin McGrail, Lee Gotham, Scott Duncan, and Vincent Tinguely. Hosted by Jason Camlot and Jade Palmer. \n"
                 }
               ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
@@ -183,7 +199,64 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Commentary generated in a Zoom watch party held on June 26th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Dee Smith, Justin McGrail, Endre Farkas, Raymond Filip, and Joelle Ciona. Hosted by Jason Camlot and Jade Palmer. \n\n"
+                  "text": "Commentary generated in a Zoom watch party held on June 26th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Dee Smith, Justin McGrail, Endre Farkas, Raymond Filip, and Joelle Ciona. Hosted by Jason Camlot and Jade Palmer. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/wp4.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -2261,7 +2334,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-16T04:03:21.132Z",
+  "updated_at": "2025-11-16T04:33:31.230Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
