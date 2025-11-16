@@ -136,6 +136,57 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/comp%203%20adeena%20and%20bill.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Watch Party Compilation 3 Adeena Karasick and bill bissett",
+                  "textSize": "heading-three",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/watch-party-compilation-3-adeena-karasick-and/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nA compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) and the Fetish Cafe (1426 Rue Beaudry, Montreal, QC, H2L3E5, Canada) featuring Adeena Karasick on 1995-03-13 and 1996-02-14, and bill bissett on 1995-01-16.\n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nCommentary generated in a Zoom watch party held on August 15th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Adeena Karasick, bill bissett, Lee Gotham, and Brandon Hocura. Hosted by Jason Camlot and Jade Palmer. \n\n\n\n"
+                }
+              ]
             }
           ]
         },
@@ -265,7 +316,16 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "text": ""
+                  "text": "Watch Party Compilation 4 1995-02-20 to 1995-06-26",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/watch-party-compilation-4-1995-02-20-to-1995/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nA compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1995-02-20 to 1995-06-26 featuring Trevor Ferrier, Njacko Backo, Stephen Edgar, Steve Godin, Mitsiko Miller, David Jager, Suzanne Nuttall, Sandra Jeppesen, Clifton Joseph, Steve \"Liquid\" Hawley, Jill Battson, Nancy Dembowski, and Stan Rogal.\n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n\n\nCommentary generated in a Zoom watch party held on August 25th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Endre Farkas, Jill Battson, Lee Gotham, Stan Rogal, Steve \"Liquid\" Hawley, and Suzanne Nuttall. Hosted by Jason Camlot and Jade Palmer. \n\n\n"
                 }
               ]
             }
@@ -2334,7 +2394,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-16T04:33:31.230Z",
+  "updated_at": "2025-11-16T04:57:33.801Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
