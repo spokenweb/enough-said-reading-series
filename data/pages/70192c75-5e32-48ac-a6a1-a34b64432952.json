@@ -83,9 +83,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/",
-                  "text": "Abridged and Annotated 1995-03-25 Performance Poetry Party",
-                  "textSize": "heading-three"
+                  "text": "Watch Party Compilation 1 1995-03-25 Performance Poetry Party",
+                  "textSize": "heading-three",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/watch-party-compilation-1-1995-03-25-performa/"
                 }
               ]
             },
@@ -158,8 +158,8 @@
               "children": [
                 {
                   "textSize": "heading-three",
-                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/enough-said-watch-party-compilation-video-199/",
-                  "text": "Enough Said Watch Party Compilation 1994-1995"
+                  "text": "Watch Party Compilation 2 1994-12-19 to 1995-02-13",
+                  "link": "https://spokenweb.github.io/enough-said-reading-series/events/watch-party-compilation-2-1994-12-19-to-1995/"
                 }
               ]
             },
@@ -2261,7 +2261,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-10-02T20:37:54.810Z",
+  "updated_at": "2025-11-16T04:03:21.132Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
