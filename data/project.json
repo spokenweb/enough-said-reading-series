@@ -574,10 +574,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Brandon Hocura"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Suzanne Nuttall"
         },
         {
@@ -939,7 +935,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-18T05:04:35.076Z",
+    "updated_at": "2025-11-18T05:04:45.561Z",
     "generate_pages_site": true
   },
   "annotations": {},
