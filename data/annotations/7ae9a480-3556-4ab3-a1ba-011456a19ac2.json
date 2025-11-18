@@ -2008,7 +2008,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Steve \"Liquid\" Hawley"
+        }
+      ],
       "uuid": "d8e61a07-47ee-4f66-bc61-4a84c970df88"
     },
     {
