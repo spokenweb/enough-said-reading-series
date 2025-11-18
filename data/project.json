@@ -630,10 +630,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Jill Battson"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Suzanne Nuttall"
         },
         {
@@ -879,7 +875,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-18T05:48:13.188Z",
+    "updated_at": "2025-11-18T05:48:22.441Z",
     "generate_pages_site": true
   },
   "annotations": {},
