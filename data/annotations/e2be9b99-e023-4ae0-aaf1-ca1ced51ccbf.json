@@ -538,7 +538,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "bill bissett"
+        }
+      ],
       "uuid": "74ec7f04-d72e-4478-949f-4fb730515422"
     },
     {
