@@ -702,10 +702,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Steve \"Liquid\" Hawley"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Suzanne Nuttall"
         },
         {
@@ -919,7 +915,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-18T05:19:50.645Z",
+    "updated_at": "2025-11-18T05:20:03.605Z",
     "generate_pages_site": true
   },
   "annotations": {},
