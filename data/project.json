@@ -602,10 +602,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Adeena Karasick"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Brandon Hocura"
         },
         {
@@ -1007,7 +1003,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-18T04:18:31.295Z",
+    "updated_at": "2025-11-18T04:18:42.530Z",
     "generate_pages_site": true
   },
   "annotations": {},
