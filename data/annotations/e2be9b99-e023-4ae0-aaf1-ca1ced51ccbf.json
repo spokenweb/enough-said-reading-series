@@ -1504,7 +1504,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Brandon Hocura"
+        }
+      ],
       "uuid": "aa6b6df1-79d0-451c-a0fe-eab9c4d036d6"
     },
     {
