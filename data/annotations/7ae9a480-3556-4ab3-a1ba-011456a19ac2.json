@@ -1483,7 +1483,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Stan Rogal"
+        }
+      ],
       "uuid": "ce2c51a8-8c1b-44cf-beb2-72f79428da44"
     },
     {
