@@ -1168,7 +1168,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Adeena Karasick"
+        }
+      ],
       "uuid": "d9634582-1f6c-435e-bea6-cf5a52d3def0"
     },
     {
