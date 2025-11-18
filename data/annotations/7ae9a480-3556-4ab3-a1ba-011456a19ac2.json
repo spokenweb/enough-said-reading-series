@@ -1399,7 +1399,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Jill Battson"
+        }
+      ],
       "uuid": "f50bbed2-5f4d-4494-b3bb-61fad04c8ab9"
     },
     {
