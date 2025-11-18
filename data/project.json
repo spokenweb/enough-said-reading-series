@@ -602,10 +602,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Adeena Karasick"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "bill bissett"
         },
         {
@@ -1079,7 +1075,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-18T04:13:01.050Z",
+    "updated_at": "2025-11-18T04:13:11.390Z",
     "generate_pages_site": true
   },
   "annotations": {},
