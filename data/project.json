@@ -586,10 +586,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Steve \"Liquid\" Hawley"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Stan Rogal"
         },
         {
@@ -935,7 +931,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-18T05:18:43.607Z",
+    "updated_at": "2025-11-18T05:19:15.851Z",
     "generate_pages_site": true
   },
   "annotations": {},
