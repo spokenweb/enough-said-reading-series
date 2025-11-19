@@ -832,7 +832,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Victoria Stanton"
+        }
+      ],
       "uuid": "a2427918-53c7-49d4-b25b-91676ba8a37a"
     },
     {
