@@ -2533,7 +2533,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
       "uuid": "e922dd35-2724-47eb-bf88-c839031f178f"
     },
     {
