@@ -286,6 +286,15 @@
               "type": "paragraph",
               "children": [
                 {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "A compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1994-12-19 to 1995-05-01 featuring Lee Gotham, Ann Diamond, Joelle Ciona, Neil Wiernick, Shaughnessy Bishop-Stall, Thoth Harris, Anne Stone, Raymond Filip, Steve Luxton, Sonja Skarstedt, and Ian Ferrier. \n"
                 }
               ]
@@ -425,7 +434,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\nCommentary generated in a Zoom watch party held on August 25th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Endre Farkas, Jill Battson, Lee Gotham, Stan Rogal, Steve \"Liquid\" Hawley, and Suzanne Nuttall. Hosted by Jason Camlot and Jade Palmer. \n\n\n"
+                  "text": "\nCommentary generated in a Zoom watch party held on August 25th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Endre Farkas, Jill Battson, Lee Gotham, Stan Rogal, Steve \"Liquid\" Hawley, and Suzanne Nuttall. Hosted by Jason Camlot and Jade Palmer. \n\n"
                 }
               ]
             }
@@ -2494,7 +2503,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-19T18:42:14.510Z",
+  "updated_at": "2025-11-19T19:26:17.057Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
