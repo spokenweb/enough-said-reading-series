@@ -1331,12 +1331,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Reacted to Suzanne Nuttall: \"Half my hair went.\" with CRYING LAUGHING EMOJI"
+              "text": "Reacted to Endre Farkas: \"Half my hair went.\" with CRYING LAUGHING EMOJI"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Watch Party Commentators",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
       "uuid": "7d2a84aa-0072-44fd-9e75-7a0cbd997cc1"
     },
     {
