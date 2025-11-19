@@ -342,7 +342,12 @@
                   "textSize": "heading-three",
                   "text": "Watch Party Compilation 4 1995-02-20 to 1995-06-26",
                   "link": "https://spokenweb.github.io/enough-said-reading-series/events/watch-party-compilation-4-1995-02-20-to-1995/"
-                },
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
                 {
                   "text": "A compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1995-02-20 to 1995-06-26 featuring Trevor Ferrier, Njacko Backo, Stephen Edgar, Steve Godin, Mitsiko Miller, David Jager, Suzanne Nuttall, Sandra Jeppesen, Clifton Joseph, Steve \"Liquid\" Hawley, Jill Battson, Nancy Dembowski, and Stan Rogal.\n"
                 }
@@ -2435,7 +2440,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-19T20:29:44.050Z",
+  "updated_at": "2025-11-19T20:30:41.288Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
