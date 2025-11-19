@@ -594,10 +594,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Victoria Stanton"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Adeena Karasick"
         },
         {
@@ -627,7 +623,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-19T04:46:01.504Z",
+    "updated_at": "2025-11-19T04:46:11.226Z",
     "generate_pages_site": true
   },
   "annotations": {},
