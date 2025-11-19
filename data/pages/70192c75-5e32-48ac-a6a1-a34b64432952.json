@@ -200,6 +200,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
                 }
               ]
@@ -335,22 +343,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "horizontal-separator",
               "children": [
                 {
@@ -413,6 +405,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
                 }
               ]
@@ -421,7 +421,15 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n\nCommentary generated in a Zoom watch party held on August 25th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Endre Farkas, Jill Battson, Lee Gotham, Stan Rogal, Steve \"Liquid\" Hawley, and Suzanne Nuttall. Hosted by Jason Camlot and Jade Palmer. \n\n\n"
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nCommentary generated in a Zoom watch party held on August 25th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Endre Farkas, Jill Battson, Lee Gotham, Stan Rogal, Steve \"Liquid\" Hawley, and Suzanne Nuttall. Hosted by Jason Camlot and Jade Palmer. \n\n\n"
                 }
               ]
             }
@@ -2490,7 +2498,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-19T14:25:30.992Z",
+  "updated_at": "2025-11-19T16:33:03.352Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
