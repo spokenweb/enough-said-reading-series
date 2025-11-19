@@ -674,10 +674,6 @@
         },
         {
           "category": "Watch Party Commentators",
-          "tag": "Suzanne Nuttall"
-        },
-        {
-          "category": "Watch Party Commentators",
           "tag": "Victoria Stanton"
         },
         {
@@ -839,7 +835,7 @@
       ]
     },
     "created_at": "2025-04-29T18:15:36.570Z",
-    "updated_at": "2025-11-19T04:12:16.834Z",
+    "updated_at": "2025-11-19T04:12:26.493Z",
     "generate_pages_site": true
   },
   "annotations": {},
