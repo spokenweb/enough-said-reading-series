@@ -101,7 +101,23 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\nAn abridged version of the Performance Poetry Party event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) featuring performances by Endre Farkas, Lee Gotham, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poesie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Fortner Anderson, Ian Ferrier,  Dee Smith, Norman Nawrocki, and Ian Stephens.\n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot."
+                  "text": "\nAn abridged version of the Performance Poetry Party event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) featuring performances by Endre Farkas, Lee Gotham, Swifty Lazar (Todd Swift and Tom Walsh), ga press (Colin Christie and Corey Frost), Groupe de Poesie Moderne, Fluffy Pagan Echoes (Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail), Fortner Anderson, Ian Ferrier,  Dee Smith, Norman Nawrocki, and Ian Stephens.\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -242,7 +258,23 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\nA compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1994-12-19 to 1995-05-01 featuring Lee Gotham, Ann Diamond, Joelle Ciona, Neil Wiernick, Shaughnessy Bishop-Stall, Thoth Harris, Anne Stone, Raymond Filip, Steve Luxton, Sonja Skarstedt, and Ian Ferrier. \n\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
+                  "text": "\nA compilation of performances from Enough Said spoken word events held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) from 1994-12-19 to 1995-05-01 featuring Lee Gotham, Ann Diamond, Joelle Ciona, Neil Wiernick, Shaughnessy Bishop-Stall, Thoth Harris, Anne Stone, Raymond Filip, Steve Luxton, Sonja Skarstedt, and Ian Ferrier. \n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -251,6 +283,14 @@
               "children": [
                 {
                   "text": "Commentary generated in a Zoom watch party held on June 26th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Dee Smith, Justin McGrail, Endre Farkas, Raymond Filip, and Joelle Ciona. Hosted by Jason Camlot and Jade Palmer. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -2394,7 +2434,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-16T04:57:33.801Z",
+  "updated_at": "2025-11-19T05:53:19.286Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
