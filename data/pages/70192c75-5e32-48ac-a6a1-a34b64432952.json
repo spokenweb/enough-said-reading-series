@@ -48,7 +48,6 @@
               "type": "paragraph",
               "children": [
                 {
-                  "bold": true,
                   "link": "https://spokenweb.github.io/enough-said-reading-series/events/abridged-and-annotated-1995-03-25-performance/",
                   "text": ""
                 },
@@ -109,14 +108,6 @@
               "children": [
                 {
                   "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
                 }
               ]
             },
@@ -274,6 +265,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "\nCompilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
                 }
               ]
@@ -291,14 +290,6 @@
               "children": [
                 {
                   "text": "Commentary generated in a Zoom watch party held on June 26th 2025 from the Concordia University AMPLab (1455 De Maisonneuve Blvd. W., 6th floor, Montreal, QC, H3G 1M8, Canada) attended by Dee Smith, Justin McGrail, Endre Farkas, Raymond Filip, and Joelle Ciona. Hosted by Jason Camlot and Jade Palmer. "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
                 }
               ]
             },
@@ -366,6 +357,14 @@
               "children": [
                 {
                   "text": "Compilation curated by Jade Palmer, processed by TJ Macpherson, and supervised by Jason Camlot.\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -2440,7 +2439,7 @@
   "created_at": "2025-04-29T18:15:36.625Z",
   "created_by": "spokenweb",
   "title": "Enough Said Reading Series",
-  "updated_at": "2025-11-19T20:55:56.679Z",
+  "updated_at": "2025-11-21T03:57:59.066Z",
   "updated_by": "spokenweb",
   "autogenerate": {
     "enabled": false,
