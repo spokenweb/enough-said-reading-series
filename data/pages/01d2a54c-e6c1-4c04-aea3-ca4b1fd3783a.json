@@ -152,7 +152,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -206,6 +207,15 @@
       ]
     },
     {
+      "type": "heading-three",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -214,20 +224,11 @@
       ]
     },
     {
-      "type": "heading-three",
+      "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "heading-three",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": "Making the Compilations"
+          "text": "Making the Compilations",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -291,26 +292,25 @@
       "type": "heading-three",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "heading-three",
-      "children": [
-        {
           "textSize": "heading-three",
           "text": ""
         }
       ]
     },
     {
-      "type": "heading-three",
+      "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": "Preparing for and Hosting the Watch Parties"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Preparing for and Hosting the Watch Parties",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -375,26 +375,25 @@
       "type": "heading-three",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "heading-three",
-      "children": [
-        {
           "textSize": "heading-three",
           "text": ""
         }
       ]
     },
     {
-      "type": "heading-three",
+      "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": "Changes Made"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Changes Made",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -489,6 +488,6 @@
   "slug": "about-the-enough-said-collection",
   "created_at": "2025-11-21T05:05:40.805Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-11-23T04:34:46.353Z",
+  "updated_at": "2025-11-23T04:48:09.563Z",
   "updated_by": "spokenweb"
 }
