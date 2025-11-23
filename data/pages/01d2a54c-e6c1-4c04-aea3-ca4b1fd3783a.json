@@ -83,6 +83,31 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/about%20section%20photo%201.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-three",
       "children": [
         {
@@ -119,7 +144,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The first layer of annotations on this exhibit are the AV descriptions, written by SpokenWeb research assistants throughout the collection's processing. They aim to be purely descriptive for accessibility purposes and to make it easier for researchers to find what they are looking for within the hours-long videos. The second layer of annotations are the comments from the watch party exported from the Zoom chat. They treat the AV material as a jumping-off point for affective response to, or memory of, events or issues, and some of the annotations refer to things that are completely external to the AV content at hand. AV Annotate is particularly well-suited to this project because it offers the possibility of layering annotation sets of different formats and registers alongside each other, offering multiple perspectives on an AV recording at once."
+          "text": "The first layer of annotations on this exhibit are the AV descriptions, written by SpokenWeb research assistants throughout the collection's processing. They aim to be purely descriptive for accessibility purposes and to make it easier for researchers to find what they are looking for within the hours-long videos. The second layer of annotations is Enough Said performers' comments made during the Zoom watch parties. They treat the AV material as a jumping-off point for affective response to, or memory of, events or issues, and some of the annotations refer to things that are completely external to the AV content at hand. AV Annotate is particularly well-suited to this project because it offers the possibility of layering annotation sets of different formats and registers alongside each other, offering multiple perspectives on an AV recording at once."
         }
       ]
     },
@@ -335,6 +360,31 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/spokenweb/enough-said-reading-series/refs/heads/main/Watch%20Party%201%20Screenshot.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-three",
       "children": [
         {
@@ -433,6 +483,6 @@
   "slug": "about-the-enough-said-collection",
   "created_at": "2025-11-21T05:05:40.805Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-11-23T04:09:27.909Z",
+  "updated_at": "2025-11-23T04:31:21.898Z",
   "updated_by": "spokenweb"
 }
