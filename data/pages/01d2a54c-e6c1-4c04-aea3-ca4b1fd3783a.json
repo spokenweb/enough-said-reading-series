@@ -22,6 +22,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Enough Said was a spoken word performance poetry series held weekly in Montreal, Quebec, Canada between 1994 and 1996. It provided a platform for diverse forms of literary performance and experimentation. It featured over 100 performers who improvised, read poetry from the page, or spoke it from memory; integrated technology like live radio feedback and synthesizers into their delivery; performed as \"poetry collectives\" in groups; were sometimes accompanied by live or recorded music; and did lots of other strange and provocative things under the banner of poetry and performance art. Enough Said is one of Canada's first spoken word series, and an exceptionally eclectic one. "
         }
       ]
@@ -87,6 +95,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Concordia University Special Collections now holds the Enough Said collection and works in collaboration with the SpokenWeb team in Montreal to develop it. The collection consists of twenty-two recordings from twenty Enough Said events and three compilations made by organizer Lee Gotham, as well as one oral history interview and a growing number of compilations created by SpokenWeb members for use in communal watch/annotation parties. In these parties, Enough Said performers gather online to watch and comment on the performances communally. The watch party events are interactive, informative, and often emotionally moving as they unfold. The annotations and recordings of post-watch discussions created through these activities provide new ways of understanding the collection. "
         }
       ]
@@ -136,6 +152,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Our three tag categories are descriptive rather than interpretive. The category \"Performers and Speakers\" encapsulates those reading or performing their writing for the audience, as well as hosts announcing and audience members chatting or interacting with performers. The tags in this category are the individuals' names, or if a name is unknown, tags like \"Unknown_Reader1\" or \"Audience_Member2\" are used. The \"Watch Party Commentators\" category lists the names of the watch party attendees, who were often also performers in the series documented in the \"Performers and Speakers\" category, with a few exceptions. The multiple instances of an individual's data, whether it be their performance in 1995 or their comments on that performance in 2025, can easily be viewed simultaneously by filtering each annotation set by name."
         }
       ]
@@ -178,6 +202,14 @@
         {
           "text": "Making the Compilations ",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -258,6 +290,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "We then reached out to performers within the videos—who had already been contacted by us during the rights requesting process for the publication of the videos online—to ask if they would be interested in attending a watch party. As is common with communal events, it was impossible to choose a time that worked for everyone. Some individuals were unable to make the time they initially agreed to, but also vice versa; some individuals who initially said they could not attend did come in the end. Due to the unpredictable nature of holding events with individuals spread across the globe, we believe this order of operations—making the compilation videos with varying criteria and reaching out to performers after—was the most logical way to curate this section of the project. "
         }
       ]
@@ -300,6 +340,14 @@
         {
           "text": "Changes Made ",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -385,6 +433,6 @@
   "slug": "about-the-enough-said-collection",
   "created_at": "2025-11-21T05:05:40.805Z",
   "created_by": "spokenweb",
-  "updated_at": "2025-11-21T05:17:32.198Z",
+  "updated_at": "2025-11-23T04:09:27.909Z",
   "updated_by": "spokenweb"
 }
